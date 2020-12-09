@@ -10,7 +10,7 @@ With over 21 different movies, all spanning the same cinematic universe, Marvel 
 movies would be a very fun thing to do.  The problem whished to be accomplished in this project is an NLP classification problem.  The goal was to create a model that can predict a character's name given a line of their dialogue from a Marvel Cinematic Universe (MCU) movie.  Data was taken from Marvel released scripts and transformed into labels of names and feature documents of their dialogue.
 
 ## Results
-A summary of the results of the project can be read in [Final Report.ipynb]().  I trained 12 different models, each a different combination of using stemming, using TF / IDF, and a different classifier (Naive Bayes, Random Forest, SVM).  A Naive Bayes classifier with word stemming and TF / IDF transformations gave the best results, which were around 29% balanced accuracy.  This is shown to be so low because the model needs more data to train from.  If I have time, I'll revisit this by adding more movies to the dataset and retrain the models.
+A summary of the results of the project can be read in [Final Report.ipynb](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Final%20Report.ipynb).  I trained 12 different models, each a different combination of using stemming, using TF / IDF, and a different classifier (Naive Bayes, Random Forest, SVM).  A Naive Bayes classifier with word stemming and TF / IDF transformations gave the best results, which were around 29% balanced accuracy.  This is shown to be so low because the model needs more data to train from.  If I have time, I'll revisit this by adding more movies to the dataset and retrain the models.
 
 
 ## About the Dataset
