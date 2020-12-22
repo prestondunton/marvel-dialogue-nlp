@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 from joblib import load
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn import metrics
 
 from sklearn.feature_extraction.text import CountVectorizer
 from nltk.stem import SnowballStemmer
@@ -26,8 +30,14 @@ class Application():
     def __init__(self):
         self.input_string = None
         self.model = load('./production_model.joblib')
+        self.model_predictions = load('./production_predictions.joblib')
+
         self.prediction = None
         self.prediction_conf = None
+        self.prediction_probs = None
+
+        self.rank_table = None
+        self.hierarchical_rank_table = None
 
     def render_header(self):
         st.title("Marvel Dialogue Classification")
@@ -36,7 +46,7 @@ class Application():
         st.text("")
 
     def render_input_box(self):
-        self.input_string = st.text_input('Input String', 'I am Iron Man')
+        self.input_string = st.text_input('Input String', 'I am Iron Man.')
 
     def render_prediction(self):
         self.prediction = self.model.predict([self.input_string])
@@ -53,28 +63,122 @@ class Application():
 
 
     def render_probability_table(self):
-        vect = StemCountVectorizer(binary=False)
+
+        st.header("Probability Table")
+        st.text("The table below shows the probabilities the model predicts given a character the input.\n"
+                "Each cell holds the probability of predicting its row's character given its column's\n"
+                "word. In other words:")
+        st.latex("cell(row, column)=p(character|word)")
+        st.text("The final column represents the probability our model predicts a character given the\n"
+                "entire input string together.  The largest value in this column is our model's\n"
+                "prediction.  Some words like 'I' and 'a' are removed because they don't provide any\n"
+                "useful information to the model.")
+        st.text("By clicking on the names of the columns, you can sort the table and see which\n"
+                "character is most likely to say a word.")
+
+        vect = self.model.named_steps['vect']
         tokenizer = vect.build_tokenizer()
         prediction_array = tokenizer(self.input_string)
         prediction_array.append(self.input_string)
 
         probabilities = pd.DataFrame(self.model.predict_proba(prediction_array).transpose())
         probabilities.columns = prediction_array
-        probabilities.columns = [*probabilities.columns[:-1], 'probability']
+        probabilities.columns = [*probabilities.columns[:-1], 'Total Probability']
         probabilities.insert(0, "character", self.model.classes_)
-        probabilities.sort_values(by=['probability'], ascending=False, inplace=True)
+        probabilities.set_index('character', inplace=True)
+        probabilities.sort_values(by=['Total Probability'], ascending=False, inplace=True)
 
-        #st.dataframe(probabilities.style.apply(self.custom_style, axis=1))
-        st.dataframe(probabilities)
+        self.prediction_probs = probabilities
+
+        #st.dataframe(self.prediction_probs)
+        #st.dataframe(self.prediction_probs.style.apply(self.custom_style, axis=1))
+        #st.dataframe(self.prediction_probs.style.apply(self.highlight_max_cell, axis=1))
+        st.dataframe(self.prediction_probs.style.background_gradient(cmap=plt.cm.Reds, high=0.35))
+
+    def highlight_max_cell(self, s):
+        is_max = s == s.max()
+        return ['background-color: #ed1d24' if v else '' for v in is_max]
+
+    def text_color(self, s):
+        is_max = s == s.max()
+        return ['text-color: white' if v else '' for v in is_max]
 
     def custom_style(self, row):
-        if row.values[0] == self.prediction:
-            color = 'red'
+        if row.name == self.prediction:
+            color = '#ed1d24'
         else:
             color = 'white'
 
         return ['background-color: %s' % color] * len(row.values)
 
+    def render_rank_table(self):
+        ranks = self.prediction_probs.rank(axis=0, method='max', ascending=False)
+        ranks.reset_index(inplace=True)
+
+        rank_table = pd.DataFrame()
+        for name in ranks.columns:
+            column = pd.Series(
+                [ranks['character'].to_numpy()[index] for index in ranks[name].sort_values().index],
+                name=name)
+            rank_table.insert(len(rank_table.columns), name, column, True)
+
+        rank_table.drop(columns=['character'], inplace=True)
+        rank_table.index += 1
+
+        self.rank_table = rank_table
+        #st.dataframe(rank_table)
+
+
+    def render_hierarchical_rank_table(self):
+        rank_table = pd.DataFrame()
+
+        for word in self.rank_table.columns:
+            word_table = pd.DataFrame({'character': self.rank_table[word], 'probability': self.prediction_probs[word].sort_values(ascending=False).to_numpy()})
+            rank_table = pd.concat([rank_table, pd.concat({word: word_table}, axis=1)], axis=1)
+
+        self.hierarchical_rank_table = rank_table
+        st.dataframe(rank_table)
+
+    def render_model_performance(self):
+        st.header("Model Performance")
+
+        y = self.model_predictions['true character']
+        yhat = self.model_predictions['predicted character']
+        main_characters = self.model_predictions["true character"].value_counts().index.to_numpy()
+
+        st.subheader("Confusion Matrix")
+
+        conf_matrix = pd.DataFrame(metrics.confusion_matrix(y, yhat, labels=main_characters))
+        normalized_conf_matrix = conf_matrix.div(conf_matrix.sum(axis=1), axis=0)
+        normalized_conf_matrix.columns = pd.Series(main_characters, name="Predicted Character")
+        normalized_conf_matrix.index = pd.Series(main_characters, name="True Character")
+
+        fig = plt.figure(figsize=(2, 2))
+        plt.title("Proportion of a True Character's Examples")
+        fig, ax = plt.subplots()
+        ax = sns.heatmap(normalized_conf_matrix, annot=True, fmt='.2f', cmap=plt.cm.Reds)
+
+        st.pyplot(fig)
+
+        st.subheader("Accuracy by Character (Recall)")
+        recalls = pd.DataFrame(np.diagonal(normalized_conf_matrix.to_numpy()), index=main_characters, columns=["accuracy"])
+        recalls.sort_values(by="accuracy", ascending=False, inplace=True)
+        recalls.loc['mean'] = recalls.mean()
+        st.dataframe(recalls)
+
+        st.subheader("Model's Balanced Accuracy: {0:.3%}".format(metrics.balanced_accuracy_score(y, yhat)))
+
+    def render_model_predictions(self):
+        st.header("Model Predictions")
+
+        table = self.model_predictions
+        table['correct prediction'] = table['true character'] == table['predicted character']
+        table['correct prediction'] = table['correct prediction'].replace({0: 'No', 1: "Yes"})
+
+        table.sort_values(by=["correct prediction"], inplace=True, ascending=False)
+        table.reset_index(drop=True)
+
+        st.table(table)
 
     def render_app(self):
         st.set_page_config(page_title='Marvel Dialogue Classification', layout='centered', \
@@ -85,43 +189,12 @@ class Application():
         self.render_prediction()
         self.render_probability_table()
 
-        if st.button('Say hello'):
-            st.write('Why hello there')
-        else:
-            st.write('Goodbye')
+        #st.header("Rank Table")
+        #self.render_rank_table()
+        #self.render_hierarchical_rank_table()
 
-        agree = st.checkbox('I agree')
-        if agree:
-            st.write('Great!')
-
-        genre = st.radio("What's your favorite movie genre",('Comedy', 'Drama', 'Documentary'))
-        if genre == 'Comedy':
-            st.write('You selected comedy.')
-        else:
-            st.write("You didn't select comedy.")
-
-        option = st.selectbox('How would you like to be contacted?',('Email', 'Home phone', 'Mobile phone'))
-        st.write('You selected:', option)
-
-        options = st.multiselect('What are your favorite colors',['Green', 'Yellow', 'Red', 'Blue'],['Yellow', 'Red'])
-        st.write('You selected:', options)
-
-        values = st.slider('Select a range of values', 0.0, 100.0, (25.0, 75.0))
-        st.write('Values:', values)
-
-        color = st.select_slider('Select a color of the rainbow', options = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-        st.write('My favorite color is', color)
-
+        self.render_model_performance()
+        self.render_model_predictions()
 
 app = Application()
 app.render_app()
-
-#probabilities.insert(1, "image", [path_to_image_html("C:/Users/prest/Desktop/CS345/marvel-dialogue-nlp/tony-stark.jpg")] * 9)
-#st.write(probabilities.to_html(escape=False, formatters=dict(column_name_with_image_links="./tony_stark_pic.jpg")))
-#st.dataframe(probabilities.style.apply(custom_style, axis=1))
-
-#st.write(probabilities.to_html(escape=False, index=False), unsafe_allow_html=True)
-
-#html = probabilities.style.apply(custom_style).render()
-
-#st.write(html, unsafe_allow_html=True)
