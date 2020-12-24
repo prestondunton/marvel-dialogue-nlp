@@ -46,7 +46,7 @@ class Application():
         st.text("")
 
     def render_input_box(self):
-        self.input_string = st.text_input('Input String', 'I am Iron Man.')
+        self.input_string = st.text_input('Input Line', 'I am Iron Man.')
 
     def render_prediction(self):
         self.prediction = self.model.predict([self.input_string])
@@ -154,15 +154,17 @@ class Application():
         normalized_conf_matrix.index = pd.Series(main_characters, name="True Character")
 
         fig = plt.figure(figsize=(2, 2))
-        plt.title("Proportion of a True Character's Examples")
         fig, ax = plt.subplots()
         ax = sns.heatmap(normalized_conf_matrix, annot=True, fmt='.2f', cmap=plt.cm.Reds)
 
         st.pyplot(fig)
 
         st.subheader("Accuracy by Character (Recall)")
-        recalls = pd.DataFrame(np.diagonal(normalized_conf_matrix.to_numpy()), index=main_characters, columns=["accuracy"])
-        recalls.sort_values(by="accuracy", ascending=False, inplace=True)
+        st.text("Given a line we'd like to predict from a given character, here's how often we can expect\n"
+                "our model to be correct.")
+        recalls = pd.DataFrame(np.diagonal(normalized_conf_matrix.to_numpy()), index=main_characters, columns=["accuracy (%)"])
+        recalls *= 100
+        recalls.sort_values(by="accuracy (%)", ascending=False, inplace=True)
         recalls.loc['mean'] = recalls.mean()
         st.dataframe(recalls)
 
@@ -187,13 +189,26 @@ class Application():
         self.render_header()
         self.render_input_box()
         self.render_prediction()
+
+        st.text(" ")
+        st.text(" ")
+
         self.render_probability_table()
+
+        st.text(" ")
+        st.text(" ")
+        st.text(" ")
 
         #st.header("Rank Table")
         #self.render_rank_table()
         #self.render_hierarchical_rank_table()
 
         self.render_model_performance()
+
+        st.text(" ")
+        st.text(" ")
+        st.text(" ")
+
         self.render_model_predictions()
 
 app = Application()
