@@ -20,10 +20,11 @@ This dataset uses a combination of original scripts and transcripts from the MCU
 
 If you spot a mistake in the dataset, please let me know so I can correct it.
 
-| Movie                          | Year | Is Transcript | Lines | Source URL |
+| Movie                          | Year | Is Transcript | Lines | Source Link |
 | ------------------------------ | ---- | ------------- | ----- | ---------- |
 | Iron Man                       | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
 | The Avengers                   | 2012 | ❌            | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) |
 | Thor: Ragnorak                 | 2017 | ❌            | 961  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
 | Guardians of the Galaxy Vol. 2 | 2017 | ❌            | 993  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) |
 | Avengers: Infinity War         | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
+| Avengers: Endgame              | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
