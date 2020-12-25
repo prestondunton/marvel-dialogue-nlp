@@ -1,6 +1,8 @@
 movie,is transcript,lines,url,year
 Iron Man,False,834,https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf,2008
+Iron Man 2,True,1010,https://transcripts.fandom.com/wiki/Iron_Man_2,2010
 The Avengers,False,1027,https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf,2012
+Iron Man 3,True,1043,https://transcripts.fandom.com/wiki/Iron_Man_3,2013
 Avengers: Age of Ultron,True,980,https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron,2015
 Thor: Ragnorak,False,961,https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf,2017
 Guardians of the Galaxy Vol. 2,False,993,https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf,2017
