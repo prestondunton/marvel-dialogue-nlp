@@ -20,8 +20,8 @@ This dataset uses a combination of original scripts and transcripts from the MCU
 
 If you spot a mistake in the dataset, please let me know so I can correct it.
 
-| Movie                               | Year | Is Transcript | Lines | Source Link | Porential Issues |
-| ----------------------------------- | ---- | ------------- | ----- | ----------- | ---------------- |
+| Movie                               | Year | Is Transcript | Lines | Source Link | Issues |
+| ----------------------------------- | ---- | ------------- | ----- | ----------- | ------ |
 | Iron Man                            | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
 | Iron Man 2                          | 2010 | ✔️            | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
 | Captain America: The First Avenger  | 2011 | ✔️            | 688  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) | Not proofread |
