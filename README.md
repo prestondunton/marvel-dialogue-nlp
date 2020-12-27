@@ -20,19 +20,20 @@ This dataset uses a combination of original scripts and transcripts from the MCU
 
 If you spot a mistake in the dataset, please let me know so I can correct it.
 
-| Movie                          | Year | Is Transcript | Lines | Source Link |
+| Movie                          | Year | Is Transcript | Lines | Source Link | Porential Issues |
 | ------------------------------ | ---- | ------------- | ----- | ---------- |
-| Iron Man                       | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
-| Iron Man 2                     | 2010 | ✔️            | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) |
-| Captain America: The First Avenger | 2011 | ✔️        | 688  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) |
-| The Avengers                   | 2012 | ❌            | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) |
-| Iron Man 3                     | 2013 | ✔️            | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) |
-| Captain America: The Winter Soldier | 2014 | ✔️       | 841  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_Winter_Soldier) |
-| Avengers: Age of Ultron        | 2015 | ✔️            | 980  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) |
-| Captain America: Civil War     | 2016 | ✔️            | 987  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) |
-| Thor: Ragnorak                 | 2017 | ❌            | 961  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
-| Guardians of the Galaxy Vol. 2 | 2017 | ❌            | 993  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) |
-| Spider-Man: Homecoming         | 2017 | ✔️            | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) |
-| Avengers: Infinity War         | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
-| Avengers: Endgame              | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
-| Captain Marvel                 | 2019 | ✔️            | 775  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_Marvel_(2019)) |
+| Iron Man                       | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) | |
+| Iron Man 2                     | 2010 | ✔️            | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
+| Captain America: The First Avenger | 2011 | ✔️        | 688  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) | Not proofread |
+| The Avengers                   | 2012 | ❌            | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) | |
+| Iron Man 3                     | 2013 | ✔️            | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) | Not proofread |
+| Thor: The Dark World           | 2013 | ✔️            | 734  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Thor:_The_Dark_World) | Not proofread, transcript duplication |
+| Captain America: The Winter Soldier | 2014 | ✔️       | 841  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_Winter_Soldier) | Not proofread |
+| Avengers: Age of Ultron        | 2015 | ✔️            | 980  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) | Not proofread |
+| Captain America: Civil War     | 2016 | ✔️            | 987  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) | Not proofread |
+| Thor: Ragnorak                 | 2017 | ❌            | 961  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) | |
+| Guardians of the Galaxy Vol. 2 | 2017 | ❌            | 993  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) | |
+| Spider-Man: Homecoming         | 2017 | ✔️            | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) | Not proofread |
+| Avengers: Infinity War         | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) | |
+| Avengers: Endgame              | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) | |
+| Captain Marvel                 | 2019 | ✔️            | 775  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_Marvel_(2019)) | Not proofread |
