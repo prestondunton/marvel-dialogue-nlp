@@ -29,7 +29,9 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 | Iron Man 3                     | 2013 | ✔️            | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) |
 | Captain America: The Winter Soldier | 2014 | ✔️       | 841  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_Winter_Soldier) |
 | Avengers: Age of Ultron        | 2015 | ✔️            | 980  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) |
+| Captain America: Civil War     | 2016 | ✔️            | 987  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) |
 | Thor: Ragnorak                 | 2017 | ❌            | 961  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
 | Guardians of the Galaxy Vol. 2 | 2017 | ❌            | 993  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) |
+| Spider-Man: Homecoming         | 2017 | ✔️            | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) |
 | Avengers: Infinity War         | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
 | Avengers: Endgame              | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
