@@ -13140,3 +13140,778 @@
 1555,GUARD,"Toomes, your family’s here.",Spider-Man: Homecoming,2017,4,False,False,False,False,False,False,False,False,False,False,False
 1556,STEVE ROGERS,Hi. I’m Captain America. Here to talk to you about one of the most valuable traits a soldier or student can have. Patience. Sometimes patience is the key to victory. Sometimes it leads to very little. It seems like it’s not worth it. And you wonder why you waited so long for something so disappointing.,Spider-Man: Homecoming,2017,55,False,False,False,False,False,False,False,False,False,False,False
 1557,STEVE ROGERS,How many more of these?,Spider-Man: Homecoming,2017,5,False,False,False,False,False,False,False,False,False,False,False
+0,YON-ROGG,Do you know what time it is?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+1,CAROL DANVERS,Can't sleep.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+2,YON-ROGG,There are tabs for that.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+3,CAROL DANVERS,"Yeah, but then I'd be sleeping.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+4,YON-ROGG,Dreams again?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+5,CAROL DANVERS,Wanna fight?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+6,CAROL DANVERS,I slipped.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+7,YON-ROGG,Right. You slipped as a result of me punching you in the face.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+8,CAROL DANVERS,I was already slipping when you happened to punch me in the face. The two events are not related.,Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+9,YON-ROGG,Tell me about this dream.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+10,YON-ROGG,Anything new?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+11,CAROL DANVERS,No.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+12,YON-ROGG,You've got to let go of your past.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+13,CAROL DANVERS,I don't remember my past.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+14,YON-ROGG,"It's causing you doubt, and doubt makes you vulnerable.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+15,YON-ROGG,Control it.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+16,YON-ROGG,Lose control again and you'll have to convene with the Supreme Intelligence. There is nothing more dangerous to a warrior than emotion.,Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+17,YON-ROGG,Humor is a distraction. And anger? Anger only serves the enemy.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+18,ELECTRONIC VOICE-OVER,120 days since the last Skrull attack.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+19,CAROL DANVERS,Has anybody seen what the Supreme Intelligence really looks like?,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+20,YON-ROGG,"No-one can look upon the Supreme Intelligence in its true form. You know that. Our subconscious chooses the way they appear to us. So it's sacred, it's personal. The Kree divulges it ever.",Captain Marvel,2019,33,False,False,False,False,False,False,False,False,False,False,False
+21,CAROL DANVERS,Who do you see? Your brother?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+22,YON-ROGG,No.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+23,CAROL DANVERS,Father?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+24,YON-ROGG,No,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+25,CAROL DANVERS,Your old commander?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+26,YON-ROGG,Vers...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+27,CAROL DANVERS,"It's me you see, isn't it?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+28,YON-ROGG,I see what you're trying to do.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+29,CAROL DANVERS,Is it working?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+30,YON-ROGG,Yes. But you won't succeed in changing my mind on the subject.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+31,CAROL DANVERS,What is the point of giving me these  if you don't want me to use them?,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+32,YON-ROGG,You're going to use them. The Supreme Intelligence made me the responsibility of showing you how to use them.,Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+33,CAROL DANVERS,I know how.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+34,YON-ROGG,"Well if that were true, you'd knock me down without them.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+35,YON-ROGG,Control your impulses. Stop using this  and start using this . I need you to be the best version of yourself.,Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+36,SUPREME INTELLIGENCE,Vers.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+37,CAROL DANVERS,Intelligence.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+38,SUPREME INTELLIGENCE,Your commander insists that you're fit to serve.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+39,CAROL DANVERS,I am.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+40,SUPREME INTELLIGENCE,"You struggle with your emotions, with your past which fuels them.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+41,SUPREME INTELLIGENCE,You are just one victim of the Skrull expansion that has threatened our civilisation for centuries. Imposters who silently infiltrate then take over our planets.,Captain Marvel,2019,25,False,False,False,False,False,False,False,False,False,False,False
+42,SUPREME INTELLIGENCE,Horrors which you remember and so much which you do not.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+43,CAROL DANVERS,It's all... blank. My life. You're supposed to take the form of you I most admire but I don't even remember who this person was to me.,Captain Marvel,2019,27,False,False,False,False,False,False,False,False,False,False,False
+44,SUPREME INTELLIGENCE,"Perhaps this is a mercy, sparing you from a deeper pain. Freeing you to do what all Kree must. Put your people's needs before your own. We've given you a great gift, a chance to fight for the good of all Kree.",Captain Marvel,2019,42,False,False,False,False,False,False,False,False,False,False,False
+45,CAROL DANVERS,I want to serve.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+46,SUPREME INTELLIGENCE,Then master yourself; what was given can be taken away.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+47,CAROL DANVERS,I won't let you down.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+48,SUPREME INTELLIGENCE,We'll know soon enough. You have a mission. Serve well and with honor.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+49,ATT-LASS,This can't be good.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+50,KORATH,It must be another Skrull attack.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+51,BRON-CHAR,"Whatever it is, it's big.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+52,MINN-ERVA,Has a Skrull ever simmed you?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+53,KORATH,Once. It was deeply disturbing.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+54,CAROL DANVERS,Why?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+55,KORATH,Because I stared into the face of my mortal enemy and the face staring back was my own.,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+56,CAROL DANVERS,Well maybe if you were more attractive then it would be less disturbing.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+57,KORATH,"You think you're funny, but I'm not laughing.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+58,ATT-LASS,You never laugh.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+59,KORATH,I laugh on the inside. I'm not doing it now.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+60,BRON-CHAR,"It's funny cause objectively speaking, you're quite handsome.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+61,KORATH,Well thank you.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+62,YON-ROGG,Listen up team! Knock it off.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+63,YON-ROGG,"Alright, prepare for a search and rescue of our spy, Soh-Larr. The Skrulls have invaded yet another border planet, this time Torfa. Soh-Larr sent a warning signal, which we've intercepted, that his cover's blown. The Skrull General Talos has sent kill units to find him. Should they reach him before we do, the intelligence he has acquired over three years is as good as theirs. The accusors will bomb a Skrull stronghold here in the south. We slip in, we locate Soh-Larr and we get out, leaving them none the wiser. The Torfa populace; we are not to interfere with them nor them with us. Nothing compromises the security of our mission. Proceed with caution. Follow protocol before extracting him.",Captain Marvel,2019,120,False,False,False,False,False,False,False,False,False,False,False
+64,YON-ROGG,"This is a dangerous mission, we must all be ready to join the collective if that is our fate today. For the good of all Kree!",Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+65,"VERS, BRON-CHAR, KORATH, MINN-ERVA AND ATT-LASS",For the good of all Kree!,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+66,YON-ROGG,"Vers, track Soh-Larr's beacon. Att-Lass and Minn-Erva find elevation.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+67,MINN-ERVA,Locals on the periphery. Maybe a dozen.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+68,YON-ROGG,Minn-Erva?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+69,MINN-ERVA,Do you read me? Anybody copy?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+70,YON-ROGG,Repeat.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+71,CAROL DANVERS,His beacon's coming from that temple. Let's move.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+72,YON-ROGG,"No. This is the perfect spot for an ambush. Only one way in, only one way out.",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+73,BRON-CHAR,And we have to pass the locals.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+74,YON-ROGG,We don't know if they are locals. Too risky.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+75,CAROL DANVERS,You don't have to go with me. I'll go alone.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+76,YON-ROGG,No! You won't.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+77,YON-ROGG,"Right. Keep a close radius, we lose comms we meet back at the Helion. Come on.",Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+78,MINN-ERVA,"Att-Lass, you getting this?",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+79,ATT-LASS,Copy. I see them.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+80,YON-ROGG,Get back!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+81,BRON-CHAR,Commander!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+82,YON-ROGG,Get back. Back!,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+83,YON-ROGG,"Minn-Erva, do you have eyes on this?",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+84,YON-ROGG,Get back! Minn-Erva!,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+85,MINN-ERVA,Does anybody copy?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+86,YON-ROGG,I don't want to hurt you. Get back! Stay back!,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+87,ATT-LASS,"They're locals. I found two dead, no green. They're just starving.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+88,CAROL DANVERS,HGX-78,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+89,SOH-LARR,TRT79-VVX6,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+90,BRON-CHAR,Get back!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+91,YON-ROGG,Skrulls!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+92,YON-ROGG,Vers? Skrulls! It's an ambush.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+93,YON-ROGG,Vers!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+94,BRON-CHAR,Incoming!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+95,YON-ROGG,Back to the Helion!,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+96,YON-ROGG,Vers? Do you copy?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+97,CAROL DANVERS,How did you know the code?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+98,TALOS,How about I tell you my secret? When you tell me yours?,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+99,SKRULL TECH,Let's open her up.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+100,TALOS,Where are we?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+101,SKRULL SCIENTIST,Stand by.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+102,MARIA RAMBEAU,Where's your head at?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+103,CAROL DANVERS,In the clouds. Where's yours?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+104,MARIA RAMBEAU,On my shoulders. About to show these boys how to do it. You ready?,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+105,CAROL DANVERS,"Higher, further, faster baby.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+106,MARIA RAMBEAU,That's right.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+107,TALOS,This can't be right.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+108,TALOS,Go back even further.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+109,BOY,You're going too fast. You need to go slow.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+110,TALOS,Who is this person? Are we in the right...?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+111,JOSEPH DANVERS,What the hell are you thinking? You don't belong out here!,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+112,SKRULL SCIENTIST,I think we went back too far.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+113,CAROL DANVERS,You let him drive.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+114,SKRULL SCIENTIST,Let me try something.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+115,CADETS,You don't belong out here! You're not strong enough! You'll kill yourself!,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+116,DRILL INSTRUCTOR,They'll never let you fly.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+117,TALOS,Am I the only one who's confused here?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+118,PILOT,"You're a decent pilot, but you're too emotional. You do know why they call it a cockpit, don't you?",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+119,VERS' BROTHER,"Huge rumble throughout the cosmos shook the moon and the sun and the stars in the sky. And so, little Alouette flew up throughout the night.",Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+120,CAROL DANVERS,Did you see her? It's Alouette.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+121,MARIA RAMBEAU,"Get your butt's inside, it's time to eat.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+122,CAROL DANVERS,Prepare for takeoff Lieutenant Trouble.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+123,TALOS,Charming memory.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+124,SKRULL SCIENTIST,Hang on. I think I got it.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+125,WENDY LAWSON,Goose likes you. She doesn't typically take to people.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+126,CAROL DANVERS,Early start to your morning.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+127,WENDY LAWSON,"Ah. Late night actually, I can't sleep when there's work to do. Sound familiar?",Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+128,CAROL DANVERS,Flying airplanes never feels like work.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+129,WENDY LAWSON,Wonderful view isn't it?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+130,CAROL DANVERS,I prefer the view from up there.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+131,WENDY LAWSON,You'll get there soon enough Ace.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+132,TALOS,"Wait, wait, wait. That's her. Get her back.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+133,SKRULL SCIENTIST,Stand by.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+134,WENDY LAWSON,Sound familiar?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+135,WENDY LAWSON,Wonderful view isn't it?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+136,CAROL DANVERS,I prefer the view from up there.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+137,WENDY LAWSON,You'll get there soon enough...,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+138,TALOS,What's that on her shirt? I couldn't read it.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+139,WENDY LAWSON,Sound familiar?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+140,WENDY LAWSON,Wonderful view isn't it?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+141,CAROL DANVERS,I prefer the view from up there.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+142,WENDY LAWSON,You'll get there soon enough...,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+143,TALOS,Focus.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+144,CAROL DANVERS,Excuse me?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+145,TALOS,Look down.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+146,TALOS,"Focus. Pegasus, Dr. Wendy Lawson. That's her.",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+147,CAROL DANVERS,Can you hear that?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+148,TALOS,Do we have the location?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+149,SKRULL TECH,Got it.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+150,TALOS,Now track Lawson until we find the energy signature.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+151,TALOS,Interesting.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+152,TALOS,Huh. Hold on. Go back right before this. Go back.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+153,CAROL DANVERS,"That's no MIG, Lawson.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+154,TALOS,"This is it. Now, let me see where you're headed. That's right, look at the coordinates. Focus. Open, please. That's it. That's it. You're almost there.You're almost there. Don't fight it. Focus!",Captain Marvel,2019,32,False,False,False,False,False,False,False,False,False,False,False
+155,TALOS,Get her back. Get her back now!,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+156,SKRULL SCIENTIST,This doesn't make any sense.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+157,TALOS,Do we have any information we can act on?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+158,SKRULL SCIENTIST,Just that Lawson was somewhere on the Planet C53. We're on our way.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+159,TALOS,"Then dig, dig, dig, deeper. Lawson is our link to that lightspeed engine! And everything we're after...",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+160,TALOS,Oh. That did something. Try that again.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+161,SKRULL,Oh-uh.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+162,TALOS,Not yet!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+163,CAROL DANVERS,What did you do to me?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+164,TALOS,We're just after a little information.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+165,CAROL DANVERS,What did you put in my head?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+166,TALOS,Nothing that wasn't already there.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+167,CAROL DANVERS,But those aren't my memories.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+168,TALOS,"Yeah, its like a bad trip in there. I'm not surprised you can't keep it straight. They really did a number on you.",Captain Marvel,2019,23,False,False,False,False,False,False,False,False,False,False,False
+169,CAROL DANVERS,Enough of your mind games! What do you want?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+170,TALOS,We're looking for the location of a Doctor Lawson and her light speed engine.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+171,CAROL DANVERS,I don't know any Doctor Lawson.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+172,TALOS,Then why is she in your head?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+173,CAROL DANVERS,You wouldn't know how these things come off would ya? No? Fine.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+174,CAROL DANVERS,Hey!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+175,TALOS,Leaving so soon? We're just getting to know each other.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+176,CAROL DANVERS,Vers to Star Force Command. Do you read me?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+177,CAROL DANVERS,Hello? Do you copy?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+178,CAROL DANVERS,"Hi, I'm Vers. Kree Star Force. Is this C-53? Do you understand me? Is my universal translator working?",Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+179,SECURITY OFFICER,"Yeah, I understand you.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+180,CAROL DANVERS,"Oh, good. Are you in charge of security for this district?",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+181,SECURITY OFFICER,Sort of. The movie theatre has its own guy.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+182,CAROL DANVERS,Where can I find communications equipment?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+183,CAROL DANVERS,Thank you.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+184,TALOS,"Track the pod, find the girl. She knows more than she knows.",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+185,TALOS,"Hey, this one's taken.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+186,CAROL DANVERS,Come on.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+187,YON-ROGG,"Vers. Verify, CTC39.",Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+188,CAROL DANVERS,"GRX31600, and I'm fine thank you for asking. Is everyone ok, what happened?",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+189,YON-ROGG,Skrull ambush. I thought we'd lost you. Did you find Soh-Larr?,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+190,CAROL DANVERS,"It wasn't Soh-Larr. Talos simmed him, even knew his code.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+191,YON-ROGG,That's impossible. That code was buried in his unconscious.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+192,CAROL DANVERS,"The Skrulls messed with my mind. The machine that they used, I think it was how they extracted Soh-Larr's code.",Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+193,YON-ROGG,"Vers, where are you?",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+194,CAROL DANVERS,I'm on planet C-53. The Skrulls are looking for someone named Lawson.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+195,YON-ROGG,Who?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+196,CAROL DANVERS,She's... who I see...,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+197,YON-ROGG,"She's what? Vers. Vers, what?",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+198,CAROL DANVERS,"She's a scientist. They think that she's cracked the code on light speed tech. I have to get to her before they do, or else they'll be able to invade new galaxies.",Captain Marvel,2019,32,False,False,False,False,False,False,False,False,False,False,False
+199,YON-ROGG,No. You've been caught once already. How far to C-53?,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+200,BRON-CHAR,Closest jump point is 22 hours.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+201,YON-ROGG,"Vers. Hold your position until we get there, keep your comms online so that we can contact you.",Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+202,CAROL DANVERS,No! What if they get a hold of it before...,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+203,YON-ROGG,Vers? Vers!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+204,KORATH,"If the Skrulls have got to her, she's compromised.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+205,YON-ROGG,She's stronger than you think.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+206,BRON-CHAR,Have you visited C-53?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+207,MINN-ERVA,"Once, it's a real shithole.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+208,PHIL COULSON,You call this in?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+209,NICK FURY,"Excuse me miss, do you know anything about a lady who went through the roof of that Blockbuster over there? Witness says she was dressed for laser tag.",Captain Marvel,2019,28,False,False,False,False,False,False,False,False,False,False,False
+210,CAROL DANVERS,"Oh. Yeah, I think she went that way.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+211,NICK FURY,"Ah. I'd like to ask you some questions. Maybe give you the 4-1-1 on late night drop-bys. Could I see some identification, please?",Captain Marvel,2019,23,False,False,False,False,False,False,False,False,False,False,False
+212,CAROL DANVERS,Vers. Kree Star Force. We don't carry identification on metal cards.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+213,NICK FURY,Vers. Star Force. How long are you planning on being in town?,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+214,CAROL DANVERS,"Oh, I'll be out of your hair as soon as I track down the Skrulls which are infiltrating your planet.",Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+215,NICK FURY,Skrulls?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+216,CAROL DANVERS,"Shape-shifters. They can transform into any lifeform down to the DNA. Oh boy, you guys don't have a clue do you?",Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+217,NICK FURY,"Oh, oh, oh, oh. Hold on. How do we know that you're not one of those... shapeshifters?",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+218,CAROL DANVERS,Congratulations Agent Fury. You have finally asked a relevant question.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+219,NICK FURY,Oh! Congratulations to you Star Force Lady. You're under arrest.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+220,STAN LEE,"Trust me, true believer. Trust me-",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+221,STAN LEE,"Trust me, true believer.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+222,PHIL COULSON,Train's heading for a tunnel up ahead.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+223,NICK FURY,Let's greet them at the station.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+224,PHIL COULSON,"Fury, this is Agent Colson. Umm, I'm still here at the Blockbuster and where did everybody go? I've finished collecting evidence.",Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+225,BIKER,Nice scuba suit.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+226,BIKER,"Line up honey, heh? Got a smile for me?",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+227,MEDICAL EXAMINER,"All life on Earth is carbon-based, not this guy. Whatever he runs on, it's not on the periodic table.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+228,NICK FURY,You're saying he's not from around here?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+229,MEDICAL EXAMINER,"Hey, how's your eye?",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+230,NICK FURY,"Well, I'd say fine. But it can't believe what it's seeing.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+231,DIRECTOR,"You said, that this thing looked like Coulson?",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+232,NICK FURY,Talked like him too.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+233,DIRECTOR,The woman said that there were more?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+234,NICK FURY,The word she used was infiltration.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+235,DIRECTOR,Belive her?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+236,NICK FURY,Not 'till I say this.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+237,DIRECTOR,What's your plan?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+238,NICK FURY,"I got to find Blockbuster girl. I got word on a motorcycle thief which fits her description. She can tell us why these lizards are here, maybe she can tell us how to kick them to the curb.",Captain Marvel,2019,38,False,False,False,False,False,False,False,False,False,False,False
+239,DIRECTOR,Good. Do it alone though. Can't trust anyone. Not even our own men.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+240,NICK FURY,Yes sir.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+241,DIRECTOR,"Wow, they're ugly bastards aren't they?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+242,MEDICAL EXAMINER,"Yeah, well. They're not Brad Pitt sir.",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+243,DIRECTOR,Safe journey to the beyond my friend. I will finish what we started.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+244,MEDICAL EXAMINER,I wouldn't get too close there boss.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+245,DIRECTOR,No-one in or out.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+246,BARTENDER,What can I get ya?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+247,CAROL DANVERS,Where was this photograph taken?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+248,BARTENDER,At an airport?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+249,CAROL DANVERS,Where's Pegasus?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+250,NICK FURY,That's classified. Not unlike the file I started on you.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+251,NICK FURY,But I see you changed it up a bit since then. Grunge is a good look for you.,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+252,CAROL DANVERS,Did you have a rough day Agent Fury?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+253,NICK FURY,"It's cool. You know, space invasion, big car chase, got to watch an alien autopsy. Typical 9 to 5.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+254,CAROL DANVERS,So you saw one?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+255,NICK FURY,I was never one to believe in aliens. But I can't unsee that.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+256,CAROL DANVERS,This is gonna get a little awkward but I gotta ask.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+257,NICK FURY,You think I'm one of those green things.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+258,CAROL DANVERS,Can't be too careful.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+259,NICK FURY,You are looking at 100 percent red-blooded Earthman.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+260,CAROL DANVERS,I'm afraid I'm gonna need proof.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+261,NICK FURY,We talking cheek swab or urine sample.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+262,CAROL DANVERS,No. The DNA would match.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+263,NICK FURY,Well my AOL password.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+264,CAROL DANVERS,Skrulls can only assume recent memories of their host bodies.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+265,NICK FURY,Oh oh! You wanna get personal.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+266,CAROL DANVERS,Where were you born?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+267,NICK FURY,"Huntsville, Alabama. But technically I don't remember that part.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+268,CAROL DANVERS,Name of your first pet.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+269,NICK FURY,Mr. Snuffers.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+270,CAROL DANVERS,Mr. Snuffers?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+271,NICK FURY,That's what I said. Did I pass?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+272,CAROL DANVERS,Not yet. First job?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+273,NICK FURY,"Soldier, straight out of high school. Got the ranks of full breed Colonel.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+274,CAROL DANVERS,And then?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+275,NICK FURY,Spy.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+276,CAROL DANVERS,Where?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+277,NICK FURY,"It was the Cold War, we were everywhere. Uh... Belfast, Bucharest, Belgrade, Budapest.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+278,CAROL DANVERS,Now?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+279,NICK FURY,"Been riding a desk for the past few years, trying to figure out where our future enemies are coming from. Never occurred to me that they'd be coming from above.",Captain Marvel,2019,30,False,False,False,False,False,False,False,False,False,False,False
+280,CAROL DANVERS,Name a detail so bizarre a Skrull could never fabricate it.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+281,NICK FURY,"If toast is cut diagonally, I can't eat it. You didn't need that did you?",Captain Marvel,2019,15,False,False,False,False,False,False,False,False,False,False,False
+282,CAROL DANVERS,"No. No, I didn't. But I enjoyed it.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+283,NICK FURY,Ok. Your turn. Prove you're not a Skrull.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+284,NICK FURY,And how is that supposed to prove to me that your not a Skrull?,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+285,CAROL DANVERS,It's a photon blast.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+286,NICK FURY,And...?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+287,CAROL DANVERS,A Skrull can't do that. So a full-bred colonel turned spy turned SHIELD agent must have pretty high-security clearance. Where's Pegasus?,Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+288,NICK FURY,"So the Skrulls are alien races which infiltrate and overtake alien planets. And you're a Kree, a race of noble warriors.",Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+289,CAROL DANVERS,Heroes. Noble warrior heroes.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+290,NICK FURY,So um. What do Skrulls want with Dr. Lawson?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+291,CAROL DANVERS,They believe she developed a light speed engine at Pegasus.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+292,NICK FURY,"Light speed engine? I've got to admit, that's not the craziest thing I've heard today.",Captain Marvel,2019,15,False,False,False,False,False,False,False,False,False,False,False
+293,CAROL DANVERS,"Well, it's still early.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+294,NICK FURY,"And you, what do you want?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+295,CAROL DANVERS,To stop the Skrulls before they become unstoppable.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+296,NICK FURY,"And...? Look, war is a universal language. I know a rogue soldier when I see one, you've got a personal stake in this.",Captain Marvel,2019,23,False,False,False,False,False,False,False,False,False,False,False
+297,SECURITY CHECKPOINT,"This is a government property, turn your vehicle around.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+298,NICK FURY,"Nicholas Joseph Fury, Agent of SHIELD.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+299,SECURITY CHECKPOINT,Place your thumb on the pad. One moment.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+300,CAROL DANVERS,"Nicholas Joseph Fury, you have three names?",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+301,NICK FURY,"Everybody calls me Fury. Not Nicholas, not Joseph, not Nick. Just Fury.",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+302,CAROL DANVERS,What does your mom call you?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+303,NICK FURY,Fury.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+304,CAROL DANVERS,What do you call her?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+305,NICK FURY,Fury.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+306,CAROL DANVERS,What about your kids?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+307,NICK FURY,"If I have them, they'll call me Fury.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+308,SECURITY CHECKPOINT,You're cleared for access.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+309,NICK FURY,Thank you.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+310,NICK FURY,"Oh, hold up. You look like somebody's disaffected niece. Put that on.",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+311,CAROL DANVERS,What is this?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+312,NICK FURY,It's the SHIELD logo.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+313,CAROL DANVERS,Does announcing your identity on clothing help with the covert part of your job.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+314,NICK FURY,Said the space soldier who was wearing a rubber suit.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+315,NICK FURY,Lose the flannel.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+316,SECURITY,How can I help you?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+317,NICK FURY,We're agents of SHIELD.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+318,CAROL DANVERS,We're looking for a woman named Lawson.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+319,NICK FURY,A Dr. Wendy Lawson.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+320,CAROL DANVERS,Do you know her?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+321,SECURITY,Follow me.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+322,CAROL DANVERS,Hmm.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+323,NICK FURY,"Are you familiar with the phrase ""Welcome Wagon""?",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+324,CAROL DANVERS,No.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+325,NICK FURY,"Well, this ain't it.",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+326,CAROL DANVERS,Is that a communicator?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+327,NICK FURY,Yeah. State-of-the-art two-way pager.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+328,CAROL DANVERS,Who are you paging?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+329,NICK FURY,"My mom. Don't worry, I didn't mention you.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+330,NICK FURY,After you.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+331,CAROL DANVERS,Impressive.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+332,NICK FURY,Oh. You should see what I can do with a paperclip.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+333,NICK FURY,"Hey, there. How are you?",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+334,NICK FURY,Oh my goodness. Look at you. Just look at you. Aren't you the cutest little thing.,Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+335,NICK FURY,"Aren't you cute? And what's your name, huh? What's your name? ""Goose"", cool name for a cool cat.",Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+336,CAROL DANVERS,Fury.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+337,NICK FURY,I'll be back.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+338,NICK FURY,Oh. Let me get my fingerprint out. Just let me unravel this puppy.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+339,NICK FURY,You sat there and watched me play with tape? When all you had to do was...,Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+340,CAROL DANVERS,I didn't want to steal your thunder.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+341,CAROL DANVERS,Huh. Lawson.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+342,CAROL DANVERS,Ha. Lawson's plan for the light-speed engine. I wonder why they terminated the project.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+343,NICK FURY,"Um, maybe because she's cuckoo.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+344,CAROL DANVERS,Kree glyphs?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+345,NICK FURY,Hmm?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+346,CAROL DANVERS,Lawson is not cuckoo. She's Kree.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+347,NICK FURY,"Well, she's dead.",Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+348,CAROL DANVERS,What?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+349,NICK FURY,"She crashed the ASIS aircraft during an unauthorized test flight. Took a pilot down with her. That's why security here's so unfriendly. They're covering up a billion dollar mistake. Oh, and your light-speed engine is toast.",Captain Marvel,2019,36,False,False,False,False,False,False,False,False,False,False,False
+350,CAROL DANVERS,When did this crash happen?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+351,NICK FURY,Six years ago. 1989.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+352,CAROL DANVERS,Who was the pilot?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+353,NICK FURY,"Um, most of this thing's redacted but there is a testimonial here from a Maria Rambeau. Last person to see them both alive.",Captain Marvel,2019,23,False,False,False,False,False,False,False,False,False,False,False
+354,NICK FURY,You OK?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+355,CAROL DANVERS,Mm-hmm.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+356,NICK FURY,Back in a minute.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+357,WENDY LAWSON,This isn't about fighting wars. It's about ending them.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+358,CAROL DANVERS,I know Lawson was Kree. She was here on C-53 and died in a plane crash. Do you know anything about this?,Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+359,YON-ROGG,"I just discovered a mission report sent from C-53. There's only so much I'm cleared to tell you Vers, but...  Lawson was an undercover Kree operative named Mar-Vell. She was working on a unique energy core. Experimenting with tech that apparently could help us win the war.",Captain Marvel,2019,48,False,False,False,False,False,False,False,False,False,False,False
+360,DIRECTOR,Still here?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+361,NICK FURY,She's co-operating with the investigation sir.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+362,DIRECTOR,You men stay here.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+363,DIRECTOR,I want to question her alone. Excellent work Nicholas.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+364,CAROL DANVERS,Does it say anything about me?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+365,YON-ROGG,"Anything about you? No, of course not. Why would it?",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+366,CAROL DANVERS,I found evidence that I had a life here.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+367,YON-ROGG,On C-53?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+368,CAROL DANVERS,Mar-Vell is who I see in the Supreme Intelligence. I knew her. And I knew her as Lawson.,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+369,YON-ROGG,This sounds like Skrull simulation Vers.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+370,CAROL DANVERS,No its not! 'Cause I remember I was here!,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+371,YON-ROGG,Stop! Remember your training. Know your enemy. It could be you. Do not let your emotions undermine your judgment.,Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+372,NICK FURY,"She's on sub-level 6. I'll get off on 5, take the stairs in case she runs for it. Do a pincer move, like we did in Havana.",Captain Marvel,2019,27,False,False,False,False,False,False,False,False,False,False,False
+373,DIRECTOR,Right. Like we did in Havana.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+374,YON-ROGG,We're nearing the jump-point. Leave your beacon on so I can find you. We'll get to the bottom of this Vers. Together.,Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+375,CAROL DANVERS,Ok.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+376,NICK FURY,Vers!... Vers!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+377,AGENT,Fury's colluding with the target.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+378,PHIL COULSON,Then why did he call us in?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+379,AGENT,All I know is that we take him in too. Dead or alive.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+380,PHIL COULSON,Dead or alive?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+381,DIRECTOR,Is it something I said?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+382,DIRECTOR,"Now you know, I don't really need these to see.  But, they do kinda complete the look.  Don't you think?",Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+383,CAROL DANVERS,You called them in?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+384,NICK FURY,My bad!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+385,AGENT,"Coulson, you have eyes on them?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+386,PHIL COULSON,They're not down here. Let's try up there.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+387,NICK FURY,What?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+388,CAROL DANVERS,Your communicator. You obviously can't be trusted with it.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+389,NICK FURY,Do you know how to fly this thing?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+390,CAROL DANVERS,Uh... we'll see.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+391,NICK FURY,That's a yes or no question.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+392,CAROL DANVERS,Yes.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+393,NICK FURY,That's what I'm talking about!,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+394,NICK FURY,We've got a stowaway.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+395,CAROL DANVERS,Hang on Goose.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+396,NICK FURY,"Who's a good kitty huh? Huh Goose? Yes, that's right. Who's a good kitty Goose? You're a good kitty.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+397,CAROL DANVERS,"See anyone you know? Funny story... I arrived on Hala, near dead, no memory... That was six years ago.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+398,NICK FURY,So you think you're the pilot that went down with Dr Lawson.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+399,CAROL DANVERS,I'm saying that the last person to see them alive can probably tell us.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+400,NICK FURY,Maria Rambeau.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+401,CAROL DANVERS,Mmhmm. So how do we get to Louisianna?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+402,NICK FURY,Due East. Hang a right at Memphis.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+403,CAROL DANVERS,"That agent, that stopped the Skrulls from fighting us...",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+404,NICK FURY,Coulson. New guy. Guess he doesn't hate me yet.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+405,CAROL DANVERS,"Yeah well, give him time.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+406,NICK FURY,"I guess he had a feeling, went with his gut against orders. It's a really hard thing to do. That's what keeps us human.",Captain Marvel,2019,24,False,False,False,False,False,False,False,False,False,False,False
+407,CAROL DANVERS,I get in trouble for that. A lot.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+408,NICK FURY,I see that about you. Rescuing the guy how sold you out to the Skrulls. I guess that's not standard Kree operating procedure.,Captain Marvel,2019,23,False,False,False,False,False,False,False,False,False,False,False
+409,CAROL DANVERS,"Well, I won't tell your boss if you don't tell mine.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+410,YON-ROGG,Ronan.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+411,RONAN,The Accusors have completed their operation but the greater mission was a failure thanks to your team.,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+412,YON-ROGG,It was a trap. To lure our operative Vers to talk for her kidnapper.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+413,RONAN,"Give us the location, we'll take care of the terrorist threat.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+414,YON-ROGG,By bombing them out of the galaxy. No. We'll handle this.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+415,RONAN,Several Skrulls anywhere is a threat to Kree everywhere. Where are they?,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+416,KORATH,They are...,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+417,YON-ROGG,"Lost. They are lost, for now. But we will find them.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+418,RONAN,"Do so, or we will.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+419,YON-ROGG,Maintain the course for C-53.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+420,CAROL DANVERS,"Excuse me, I'm looking for Maria Rambeau.",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+421,MONICA RAMBEAU,"Aunty Carol? Mom, it's Aunty Carol! I knew it, everybody said you were dead but we knew they were lying.",Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+422,CAROL DANVERS,I'm not really who you think I am.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+423,MARIA RAMBEAU,That is the craziest shit I have ever heard.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+424,MONICA RAMBEAU,Green-transforming aliens? There's no such thing.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+425,NICK FURY,"You're absolutely right, young lady. There is no such thing. 'Cause if there were, we would want to keep that to ourselves.",Captain Marvel,2019,22,False,False,False,False,False,False,False,False,False,False,False
+426,CAROL DANVERS,You don't believe me.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+427,MONICA RAMBEAU,No way. That's so cool.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+428,NICK FURY,"Oh, ho. She can do a lot more than just make tea with those hands.",Captain Marvel,2019,15,False,False,False,False,False,False,False,False,False,False,False
+429,MONICA RAMBEAU,Like what? Show us.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+430,CAROL DANVERS,Maybe later.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+431,MONICA RAMBEAU,"I kept all your stuff, I'll go get it.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+432,CAROL DANVERS,You want to give her a hand with that?,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+433,NICK FURY,Mmm??,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+434,MARIA RAMBEAU,You don't remember anything?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+435,CAROL DANVERS,"I see... flashes. Little moments, but I can't tell what's real. If I could just piece together what happened that morning, maybe it'll all make sense?",Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+436,MARIA RAMBEAU,"You woke me up, banging on my door at dawn. Your usual move. Back then we had to get up so early, the Air Force still wasn't letting women fly combat, so testing Lawson's planes was our only shot at doing something that mattered. And you wanted to race to base, in your old Mustang, and I wasn't about to argue, 'cause I knew my Camaro would dominate. But you cheated, took a shortcut.",Captain Marvel,2019,74,False,False,False,False,False,False,False,False,False,False,False
+437,CAROL DANVERS,Since when is a shortcut cheating?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+438,MARIA RAMBEAU,Since it violates the pre-determined rules of engagement.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+439,CAROL DANVERS,I definitely don't remember those.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+440,MARIA RAMBEAU,"Mmm, of course you don't. When I got to the hanger, Lawson was agitated, she said 'she had lives to save'. She was trying to take the Aces up herself, but you said...",Captain Marvel,2019,33,False,False,False,False,False,False,False,False,False,False,False
+441,CAROL DANVERS,"'If there were lives at stake, I would fly the plane.'",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+442,MARIA RAMBEAU,"Yup. Big hero moment. The kind of moment we've both been waiting for. The Doc was always unique. That's why I liked her. But, now you're saying she's from another planet.",Captain Marvel,2019,31,False,False,False,False,False,False,False,False,False,False,False
+443,CAROL DANVERS,I know this must be hard for you.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+444,MARIA RAMBEAU,"What, this part right here? No, no. Know what's hard? Losing my best friend, in a mission so secret they act like it never even happened. Hard... is knowing you were out there somewhere, too damn stubborn to die. And now you come up in here after 6 years... with your super-charged fire-hands and you expect me to call you... I don't even know what... 'Vers'? Is that really who you are now?",Captain Marvel,2019,73,False,False,False,False,False,False,False,False,False,False,False
+445,CAROL DANVERS,I don't know.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+446,MONICA RAMBEAU,Come look.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+447,MONICA RAMBEAU,This is me and you on Halloween.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+448,MONICA RAMBEAU,"I'm Amelia Earhart and you're Janis Joplin. Oh, this is you when you were little, you didn't get along with your parents so Mom said we became your real family.",Captain Marvel,2019,30,False,False,False,False,False,False,False,False,False,False,False
+449,MONICA RAMBEAU,This is us on Christmas. I got more...,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+450,MONICA RAMBEAU,Here's another picture of when you were little. And this is how you right after you graduated...,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+451,MONICA RAMBEAU,"Oh wait. I forgot, your jacket. Mom doesn't let me wear it anymore after I spilled ketchup on it.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+452,MARIA RAMBEAU,That was all that survived the crash. Or so we thought.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+453,CAROL DANVERS,Don't answer that.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+454,MARIA RAMBEAU,It's just my neighbor.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+455,CAROL DANVERS,They can change into anyone.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+456,TOM,Hi there.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+457,CAROL DANVERS,What do you want?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+458,TOM,Ummm...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+459,MARIA RAMBEAU,Hey Tom. This is my friend Carol.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+460,TOM,"Pleased to meet you. Yow! Static electricity out here's no joke. I noted that peculiar bird you got parked by the road, and I was just wondering if you'd mind if I bring the boys over to get a closer looksie?",Captain Marvel,2019,41,False,False,False,False,False,False,False,False,False,False,False
+461,CAROL DANVERS,A closer looksie?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+462,TOM,Yeah.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+463,CAROL DANVERS,"To see the bird parked out by the road. You're really working overtime to sell this one, aren't you Talos?",Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+464,MARIA RAMBEAU,"I'm sorry. Tom, this isn't really a good time. I'll come by tomorrow? Okay?",Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+465,TOM,Uhh...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+466,MARIA RAMBEAU,Okay.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+467,TALOS,"You know, you really should be kinder to your neighbors. You never know when you're gonna need to borrow some sugar.",Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+468,TALOS,"Now, hang on a second, before you go swinging those jazz hands around, making a mess in your friend's house - and... it's a lovely home.",Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+469,MARIA RAMBEAU,Oh my God. What the hell?!,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+470,TALOS,"No one's gonna hurt the girl. Just, don't kill me. That would really complicate the situation.",Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+471,NICK FURY,I'm about five seconds from complicating that wall with some ugly-ass Skrull brains.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+472,TALOS,I'm sorry I simmed your boss. But now I stand before you as my true self. Without deception.,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+473,CAROL DANVERS,"And who is that, out there?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+474,TALOS,"Okay, that's a fair point. But I'm sure that you understand, I had to take some precautions. I saw you crush 20 of my best men with your hands bound. I just wanna talk.",Captain Marvel,2019,34,False,False,False,False,False,False,False,False,False,False,False
+475,CAROL DANVERS,"Last time we talked, I ended up hanging from my ankles.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+476,TALOS,"That was before I knew who you were. Before I found what made you different from the others. I have an audio recording from Pegasus, of your voice, from a plane crash six years ago. On a device I believe you call a 'black box'.",Captain Marvel,2019,45,False,False,False,False,False,False,False,False,False,False,False
+477,MARIA RAMBEAU,They told me it was destroyed in the crash. How'd you get it?,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+478,TALOS,Does she not understand? Young lady I have a special skill that kinda allows me to get into places I'm not supposed to be.,Captain Marvel,2019,24,False,False,False,False,False,False,False,False,False,False,False
+479,MARIA RAMBEAU,"Call me young lady again, and I'm gonna put my foot in a place it's not supposed to be.",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+480,TALOS,Am I supposed to guess where that is?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+481,FURY AND MARIA,Your ass.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+482,TALOS,"Okay, I get it. We're all a little on edge here. But look, I just need your help decoding some coordinates. If you sit down, you listen to this, I assure you, it'll be worth your while.",Captain Marvel,2019,37,False,False,False,False,False,False,False,False,False,False,False
+483,CAROL DANVERS,Call your buddy back inside and I'll listen.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+484,TALOS,Deal.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+485,TALOS,Oh my God! Get that thing away! How'd that get in here?,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+486,CAROL DANVERS,"The cat? This isn't what you're afraid of, is it?",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+487,TALOS,That's not a cat. That's a Flerken.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+488,NICK FURY,A Flerken?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+489,MONICA RAMBEAU,Mom?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+490,MONICA RAMBEAU,Why can't I listen to?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+491,CAROL DANVERS,What's happening?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+492,NICK FURY,It's loading.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+493,WENDY LAWSON,"Punch in the coordinates. 5229, -47, 8.768, 0.2.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+494,CAROL DANVERS,Copy that. Where are we going Doc?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+495,WENDY LAWSON,My laboratory.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+496,CAROL DANVERS,Your laboratory? What do you mean?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+497,WENDY LAWSON,Oh no.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+498,CAROL DANVERS,"Is that... Wait, what is that? It's not showing up on my radar.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+499,WENDY LAWSON,Go Carol. Fly!,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+500,CAROL DANVERS,"That's no MIG, Lawson. Who the hell are they?",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+501,WENDY LAWSON,"Those are the bad guys. Fly faster, now.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+502,CAROL DANVERS,"Yes, ma'am. What do they want?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+503,WENDY LAWSON,Me. My work. I never should have brought you along.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+504,CAROL DANVERS,Here come some G's. They're firing backward. Hold on!,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+505,CAROL DANVERS,Bail out! Bail out! Bail out! Stay with me Lawson!,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+506,MARIA RAMBEAU,"Danvers, do you copy?",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+507,CAROL DANVERS,"Yeah, I copy. We hit ground.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+508,MARIA RAMBEAU,Can anyone hear me?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+509,CAROL DANVERS,Yeah. I copy! Doc?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+510,CAROL DANVERS,Your blood... it's blue.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+511,WENDY LAWSON,"Yeah, but, uh...how's my hair? Help me out.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+512,WENDY LAWSON,I have to destroy it before they get here.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+513,CAROL DANVERS,What? Lawson?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+514,WENDY LAWSON,You remember what I said about our work here? What it's for?,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+515,CAROL DANVERS,' To end wars?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+516,WENDY LAWSON,"Yeah. But the wars are bigger than you know. Damn it! My name is not Lawson. My real name, is Mar-Vell and I come from a planet called Hala.",Captain Marvel,2019,29,False,False,False,False,False,False,False,False,False,False,False
+517,CAROL DANVERS,I would say that your delusional but we just got shot down by a spaceship and your blood is blue.,Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+518,WENDY LAWSON,"Listen, I spent half my life fighting a shameful war. Now skedaddle before you give me any more regrets. Just remember the coordinates, okay? You've got to save them without me.",Captain Marvel,2019,31,False,False,False,False,False,False,False,False,False,False,False
+519,CAROL DANVERS,Save who? How?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+520,WENDY LAWSON,I've got to blow this engine before they find it.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+521,YON-ROGG,We have no interest in hurting you.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+522,CAROL DANVERS,No?! Because all the shooting kinda gave me the wrong impression!,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+523,YON-ROGG,"The energy core, where is it?",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+524,CAROL DANVERS,Pararescue's on the way. You have two minutes until you're surrounded.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+525,YON-ROGG,Then I see no reason to prolong this conversation.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+526,CAROL DANVERS,No wait. You mean that energy core?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+527,MINN-ERVA,"Commander, she's still moving. Permission to fire?",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+528,YON-ROGG,Hold your fire.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+529,MINN-ERVA,There's nothing left. The core has been destroyed.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+530,YON-ROGG,She absorbed its power. She's coming with us.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+531,CAROL DANVERS,He lied to me.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+532,CAROL DANVERS,Everything that I knew was a lie.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+533,TALOS,Now you understand.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+534,CAROL DANVERS,What? What do I understand now?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+535,TALOS,Yon-Rogg killed Mar-Vell. He killed her. Because she found out that she was on the wrong side of an unjust war.,Captain Marvel,2019,21,False,False,False,False,False,False,False,False,False,False,False
+536,CAROL DANVERS,No. Your people are terrorists... that kill innocents. I saw the ruins on Torfa.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+537,TALOS,"Ruins that the Accusers are responsible for. My people lived as refugees on Torfa. Homeless, ever since we resisted Kree rule and they destroyed our planet. Now the handful of us that are left, will be slaughtered next...unless you will help me finish what Mar-Vell started. The coordinates you found, would've powered a lightspeed ship capable of carrying us to safety. A new home, where the Kree can't reach us.",Captain Marvel,2019,70,False,False,False,False,False,False,False,False,False,False,False
+538,MARIA RAMBEAU,"Lawson always told us that her work at Pegasus wasn't to fight wars, but to end them.",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+539,TALOS,She wanted you to help us find the core.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+540,CAROL DANVERS,"Well, I already destroyed it.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+541,TALOS,"No, you destroyed the engine. The core that powered it is in a remote location. If you help us decode those coordinates, we can find it.",Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+542,CAROL DANVERS,You'll use it to destroy us.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+543,TALOS,We just want a home. You and I lost everything at the hands of the Kree. Can't you see it now? You're not one of them.,Captain Marvel,2019,26,False,False,False,False,False,False,False,False,False,False,False
+544,CAROL DANVERS,You don't know me. You have no idea who I am. I don't even know who I am!,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+545,MARIA RAMBEAU,"You are Carol Danvers. You are the woman on that black box risking her life to do the right thing. My best friend... who supported me as a mother, and a pilot when no one else did. You're smart and funny, and a huge pain in the ass. And you are the most powerful person I knew, way before you could shoot fire from your fist. You hear me? You hear me?",Captain Marvel,2019,72,False,False,False,False,False,False,False,False,False,False,False
+546,TALOS,"I know I don't deserve your trust but you were our only lead. We discovered that your energy signature matched Mar-Vell's core. Now, we know why. If only you knew, the importance of it to me. I just need your help decoding the coordinates to Mar-Vell's lab.",Captain Marvel,2019,47,False,False,False,False,False,False,False,False,False,False,False
+547,CAROL DANVERS,Those weren't coordinates. They're safe vectors.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+548,NICK FURY,Orbital positioning and velocity.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+549,MARIA RAMBEAU,"You didn't find her lab on Earth, because it's not on Earth.",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+550,CAROL DANVERS,"That was the location on the day of the crash six years ago. If we track its course, we'll find it, in orbit, right now.",Captain Marvel,2019,25,False,False,False,False,False,False,False,False,False,False,False
+551,MARIA RAMBEAU,It's just basic physics.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+552,TALOS,"In orbit? Was that so difficult to figure out? I mean, you're my science guy, right?",Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+553,CAROL DANVERS,Yon-Rogg will catch up to you soon. We've got to get the core before he does.,Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+554,NICK FURY,Mmm. You're going to space?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+555,CAROL DANVERS,In what?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+556,SKRULL SCIENTIST,A few tweaks to your vessel should do it. I can handle the modifications.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+557,NICK FURY,Hmm. Your science guy.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+558,CAROL DANVERS,"Well, I could use a co-pilot.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+559,MARIA RAMBEAU,"No. No, I... I can't. I can't leave Monica.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+560,MONICA RAMBEAU,Why? It's okay. I can stay with grandma and pop-pop.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+561,MARIA RAMBEAU,There's no way I'm going baby. It's too dangerous.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+562,MONICA RAMBEAU,Testing brand new aerospace tech is dangerous. Didn't you used to do that?,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+563,MARIA RAMBEAU,"Your plan is to leave the atmosphere in a craft not designed for the journey, and you anticipate hostile encounters with a technologically superior foreign enemy. Correct?",Captain Marvel,2019,27,False,False,False,False,False,False,False,False,False,False,False
+564,MONICA RAMBEAU,That's what I'm saying. You have to go.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+565,MARIA RAMBEAU,Monica...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+566,MONICA RAMBEAU,You have the chance to fly the coolest mission in the history of missions. And you're gonna give it up to sit on the couch and watch Fresh Prince with me? I just think that you should consider the kind of example you're setting for your daughter.,Captain Marvel,2019,47,False,False,False,False,False,False,False,False,False,False,False
+567,CAROL DANVERS,"Your Mom's lucky. When they were handing out kids, they gave her the toughest one. Lieutenant Trouble.",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+568,MONICA RAMBEAU,You remember.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+569,CAROL DANVERS,"Is that mine? No, no. You hang onto it until I come back. But there is something that I need your help with. I can't wear these Kree colors anymore, and since you're obviously the only person around here with any sense of style...",Captain Marvel,2019,44,False,False,False,False,False,False,False,False,False,False,False
+570,MONICA RAMBEAU,No.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+571,MONICA RAMBEAU,Uh-uh.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+572,MONICA RAMBEAU,Definitely not.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+573,CAROL DANVERS,"Well, since we're on the same team...",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+574,CAROL DANVERS,How do I look?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+575,MONICA RAMBEAU,Fresh.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+576,CAROL DANVERS,What took you so long?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+577,YON-ROGG,I'm fine. Thanks for asking.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+578,CAROL DANVERS,PRY46-B...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+579,YON-ROGG,"No, no codes. That system is fallible, as we've learned.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+580,CAROL DANVERS,"Okay, then let's do this.",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+581,YON-ROGG,Who do I see when I commune with the Supreme Intelligence?,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+582,CAROL DANVERS,"The person you most admire and respect, I guess. But you would never tell me who.",Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+583,YON-ROGG,And what is your earliest memory of Hala?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+584,CAROL DANVERS,The transfusion. Blue blood running through my veins.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+585,YON-ROGG,Whose blood?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+586,CAROL DANVERS,Hmm.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+587,YON-ROGG,That's my blood that's coursing through her veins.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+588,YON-ROGG,What have you done with her?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+589,SKRULL,You're too late.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+590,YON-ROGG,She knows?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+591,YON-ROGG,"Ronan, Skrulls have infiltrated C-53. Come at once.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+592,RONAN,"For the good of all Kree, Commander the infestation will be eradicated.",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+593,CAROL DANVERS,Passing 500 and climbing.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+594,TALOS,"You know, you really shouldn't have that thing on your lap.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+595,NICK FURY,"Our little alliance with you is tenuous at best. And as long as he continues to freak you out like that, yeah I'm gonna keep giving him all the love and hugs he needs, right?",Captain Marvel,2019,35,False,False,False,False,False,False,False,False,False,False,False
+596,MARIA RAMBEAU,Can I ask you something? Do you just turn into anything you want?,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+597,TALOS,"Ah well, I have to see it first.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+598,MARIA RAMBEAU,Can you all do it?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+599,TALOS,"Physiologically, yeah. But it takes practice and, um, dare I say it, talent to do it well.",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+600,NICK FURY,Can you turn into a cat?,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+601,TALOS,What's a cat?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+602,MARIA RAMBEAU,What about a filing cabinet?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+603,TALOS,Why would I turn into a filing cabinet?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+604,NICK FURY,A venus fly trap. I'll give you $50 right now if you turn into a venus fly trap.,Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+605,CAROL DANVERS,"Switching engines from Scramjet to fusion. Buckle up, folks.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+606,NICK FURY,"Hey. Is this normal, like space turbulence?",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+607,CAROL DANVERS,Pretty much.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+608,CAROL DANVERS,Locking in coordinate grid.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+609,MARIA RAMBEAU,Where is it?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+610,TALOS,It's here. It's gotta be here.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+611,NICK FURY,"Well, is it in front of all that nothing, or behind it?",Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+612,COMPUTER,Decloaking activated.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+613,MARIA RAMBEAU,Is that it? The core?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+614,CAROL DANVERS,"In her notes, she called it the Tesseract.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+615,MARIA RAMBEAU,Whoa. What was Lawson doing with all this kid stuff?,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+616,MARIA RAMBEAU,We're not alone.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+617,SOREN,Talos!,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+618,CAROL DANVERS,He didn't come here for the Tesseract.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+619,SOREN,It's okay. We didn't know what to do. Mar-Vell warned us not to send a signal for any reason or the Kree would find us.,Captain Marvel,2019,25,False,False,False,False,False,False,False,False,False,False,False
+620,TALOS,You did the right thing.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+621,TALOS,"It's okay, it's okay. She's alright. She's a friend.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+622,CAROL DANVERS,I'm not gonna hurt you.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+623,TALOS,She led me to you.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+624,CAROL DANVERS,I'm so sorry. I didn't know.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+625,TALOS,"Carol, this is war. My hands are filthy from it too. But we're here now. You found my family. This is just the beginning. There's thousands of us separated from each other... scattered throughout the galaxy.",Captain Marvel,2019,36,False,False,False,False,False,False,False,False,False,False,False
+626,NICK FURY,If I played the same pinball machine for six years I'd have some high scores too.,Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+627,YON-ROGG,Fraternizing with the enemy?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+628,YON-ROGG,What did you do to your uniform?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+629,MINN-ERVA,They got in her head. Just like we thought.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+630,KORATH,The Supreme Intelligence will set her straight.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+631,TALOS,"You can see they're not soldiers, let them go. You can have me.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+632,YON-ROGG,And the core?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+633,CAROL DANVERS,You lied to me.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+634,YON-ROGG,I made you a better version of yourself. What's given can be taken away.,Captain Marvel,2019,14,False,False,False,False,False,False,False,False,False,False,False
+635,SUPREME INTELLIGENCE,There she is. Seems like you time on C-53 jogged the old memory. This jacket? It's killer by the way.,Captain Marvel,2019,20,False,False,False,False,False,False,False,False,False,False,False
+636,SUPREME INTELLIGENCE,"The music, it's a nice touch.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+637,CAROL DANVERS,Let... me... out.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+638,SUPREME INTELLIGENCE,No can do.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+639,CAROL DANVERS,"If you hurt them, I will burn you to the ground.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+640,SUPREME INTELLIGENCE,With what exactly? Your powers came from us.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+641,CAROL DANVERS,You didn't give me these powers. The blast did.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+642,SUPREME INTELLIGENCE,"And yet, you've never had the strength to control them on your own.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+643,SCANNER,Species: Flerken. Threat: High.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+644,NICK FURY,It's a cat. Not Hannibal Lecter.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+645,SCANNER,Species: Human male. Threat: Low to none.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+646,NICK FURY,That thing is clearly busted.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+647,MINN-ERVA,Load the Flerken onto the heli. Eject the others into space.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+648,SUPREME INTELLIGENCE,"You did good, ace. Thanks to you, those insidious shapeshifters will threaten our borders no more.",Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+649,CAROL DANVERS,I used to believe your lies. But the Skrulls are just fighting for a home. You're talking about destroying them because they won't submit to your rule. And neither will I.,Captain Marvel,2019,31,False,False,False,False,False,False,False,False,False,False,False
+650,SUPREME INTELLIGENCE,We found you. We embraced you as our own.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+651,CAROL DANVERS,"You stole me. From my home, my family, my friends.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+652,SUPREME INTELLIGENCE,It's cute how hard you try. Remember... without us...you're weak.  You're flawed. Helpless. We saved you.,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+653,SUPREME INTELLIGENCE,Without us... you're only human.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+654,CAROL DANVERS,You're right. I'm only human.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+655,SUPREME INTELLIGENCE,"On Hala, you were reborn. Vers.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+656,CAROL DANVERS,My name... is Carol.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+657,KORATH,She's trying to break out.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+658,CAROL DANVERS,I've been fighting with one arm tied behind my back. But what happens...when I'm finally set free?,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+659,NICK FURY,"You know you're glowing, right?",Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+660,CAROL DANVERS,"I'll explain it later. Take the Tesseract, leaving the lunchbox.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+661,NICK FURY,Me?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+662,CAROL DANVERS,Yes.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+663,NICK FURY,I'm not touching that thing.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+664,CAROL DANVERS,Want me to get you an oven mitt?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+665,CAROL DANVERS,Get the Skrulls in the QuadJet and go. Take the Flerken with you.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+666,MARIA RAMBEAU,What about you?,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+667,CAROL DANVERS,I'll buy you some time!,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+668,NICK FURY,I'm picking you up now. I'm trusting you not to eat me.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+669,CAROL DANVERS,Hey Guys. Arm-wrestle for the Tesseract.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+670,YON-ROGG,I used to find you amusing. Let's put an end to this!,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+671,MARIA RAMBEAU,Okay.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+672,NICK FURY,Good kitty.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+673,CAROL DANVERS,You knew all along. Is that why we never hung out?,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+674,MINN-ERVA,No. I just never liked you.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+675,KREE,Hey! In a hurry?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+676,ATT-LASS,Don't make me do this.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+677,CAROL DANVERS,Okay.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+678,NICK FURY,"Now! Come on! Do your thing. Come on! Dammit, Goose. Pick a side.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+679,KREE,Take them to the hangar too. We'll blast them all into space.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+680,TALOS,Play it cool. Just like Havana. Do you have the thing?,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+681,NICK FURY,Flerken kitty ate it.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+682,KREE,Come on. Move. Move!,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+683,TALOS,Follow my lead. Cover her eyes.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+684,TALOS,"Get on the ship. Let's go, let's go.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+685,YON-ROGG,Nice diversion.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+686,CAROL DANVERS,"I could've swore, I put it in there.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+687,YON-ROGG,"Minn-Erva, take them down on a dropship.",Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+688,MINN-ERVA,On it.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+689,NICK FURY,"You all right, friend?",Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+690,TALOS,Never... better.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+691,MARIA RAMBEAU,We've got a bogey. Coming in hot.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+692,NICK FURY,Ha ha!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+693,MARIA RAMBEAU,Yes! Boom!,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+694,NICK FURY,What the hell was that?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+695,RONAN,Deploy ballistic warheads.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+696,ACCUSER,That's impossible.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+697,RONAN,C-53 doesn't have a defense system advanced enough to destroy our warheads.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+698,ACCUSER,"That's not their defense system, Ronan.",Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+699,RONAN,Take her down.,Captain Marvel,2019,3,False,False,False,False,False,False,False,False,False,False,False
+700,RONAN,Return to the jump point. We'll be back for the weapon.,Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+701,ACCUSER,The core?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+702,RONAN,The woman.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+703,YON-ROGG,"I'm so proud of you. You've come a long way since I found you that day by the lake. But can you keep your emotions in check long enough to take me on? Or will it get the better of you, as always? I always told you... you'll be ready, the day you can knock me down as yourself. This is that moment. This is that moment, Vers! Turn off the light show, and prove, prove to me, you can beat me without...",Captain Marvel,2019,83,False,False,False,False,False,False,False,False,False,False,False
+704,CAROL DANVERS,I have nothing to prove to you.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+705,COMPUTER,Destination: Hala.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+706,YON-ROGG,I can't go back empty-handed.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+707,CAROL DANVERS,"You won't be empty-handed. I'm sending you with a message. Tell the Supreme Intelligence that I'm coming to end it. The war, the lies, all of it.",Captain Marvel,2019,27,False,False,False,False,False,False,False,False,False,False,False
+708,YON-ROGG,You can't do this.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+709,NICK FURY,"That was a close call, huh, Goosey? Huh? The bad guy's still in there somewhere-  Oh! MOTHER FLERKEN!!!",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+710,MARIA RAMBEAU,You okay?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+711,NICK FURY,Yeah. It's just a scratch.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+712,TALOS,No...,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+713,CAROL DANVERS,I can't believe you got into the raddest dogfight ever.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+714,MARIA RAMBEAU,I'd say you arrived just in time.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+715,NICK FURY,That's some nifty flying you did out there. SHIELD could always use a good pilot like you.,Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+716,MARIA RAMBEAU,I'll consider it. As long as you don't call my flying nifty again. How's your eye?,Captain Marvel,2019,16,False,False,False,False,False,False,False,False,False,False,False
+717,NICK FURY,Getting better every second.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+718,CAROL DANVERS,"Just so I'm clear, you were Soh-Larr, and the SHIELD agent?",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+719,NICK FURY,"Keller. Tied my boss up, stole his identity.",Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+720,TALOS,I borrowed his likeness. I'm no thief.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+721,SOREN,It's a little like thief.,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+722,TALOS,Whose side are you on?,Captain Marvel,2019,5,False,False,False,False,False,False,False,False,False,False,False
+723,NICK FURY,"You're good to go here til you recover, but you and your family will need a new look.",Captain Marvel,2019,18,False,False,False,False,False,False,False,False,False,False,False
+724,TALOS,I could go back to being your boss.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+725,NICK FURY,Please don't.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+726,TALOS,Come on. I love sporting his beautiful blue eyes.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+727,MONICA RAMBEAU,"No way, you guys have the best eyes. Don't ever change your eyes.",Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+728,CAROL DANVERS,I'll help you find a home. Finish what Mar-Vell started.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+729,MONICA RAMBEAU,"They can stay here with us, can't they, Mom?",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+730,MARIA RAMBEAU,"They won't be safe here, baby. Auntie Carol is right. They need their own home.",Captain Marvel,2019,15,False,False,False,False,False,False,False,False,False,False,False
+731,CAROL DANVERS,I'll be back before you know it.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+732,MONICA RAMBEAU,Maybe I can fly up and meet you halfway.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+733,NICK FURY,"Only if you learn to glow, like your Auntie Carol.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+734,MONICA RAMBEAU,Or maybe I'll build a spaceship. You don't know.,Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+735,CAROL DANVERS,He doesn't.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+736,CAROL DANVERS,Keep the Tesseract on Earth. Hidden.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+737,NICK FURY,You're sure that's what Marvel would want?,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+738,CAROL DANVERS,Mar-Vell.,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+739,NICK FURY,That's what I said.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+740,CAROL DANVERS,It's two words. Mar-Vell.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+741,NICK FURY,"Mar-Vell. Marvel sounds a lot better. You know, like the Marvelettes?  𝅘𝅥𝅮 Oh, yeah, wait a minute Mr. Postman. Ay, ay, ay, ay, Mr. Postman. 𝅘𝅥𝅮 Not ringing any bells?",Captain Marvel,2019,31,False,False,False,False,False,False,False,False,False,False,False
+742,CAROL DANVERS,Keep singing. Maybe it'll come back to me.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+743,CAROL DANVERS,"I upgraded it. Range should be, a couple galaxies, at least.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+744,NICK FURY,What? You think I'm gonna crank call you?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+745,CAROL DANVERS,For emergencies only. Okay?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+746,NICK FURY,"Well, if you're ever passing back through this galaxy, be sure to give a brother a shout.",Captain Marvel,2019,17,False,False,False,False,False,False,False,False,False,False,False
+747,MONICA RAMBEAU,We got the ketchup stain off.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+748,CAROL DANVERS,"Thanks, Lieutenant Trouble. It's hard for me to say goodbye, too.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+749,MARIA RAMBEAU,Go on.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+750,PHIL COULSON,"Glad to have you back, sir. This came for you.",Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+751,PHIL COULSON,"So, is it true? That the Kree burned your eye out because you refused to give them the Tesseract?",Captain Marvel,2019,19,False,False,False,False,False,False,False,False,False,False,False
+752,NICK FURY,I'll neither confirm nor deny the facts of that story.,Captain Marvel,2019,10,False,False,False,False,False,False,False,False,False,False,False
+753,PHIL COULSON,Understood. I'm sorry to report that we still haven't found the Tesseract.,Captain Marvel,2019,12,False,False,False,False,False,False,False,False,False,False,False
+754,NICK FURY,I'm sure it will turn up somewhere.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+755,PHIL COULSON,I'll let you know when it does.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+756,NICK FURY,Then what?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+757,PHIL COULSON,Sir?,Captain Marvel,2019,1,False,False,False,False,False,False,False,False,False,False,False
+758,NICK FURY,We have no idea what other intergalactic threats are out there. And our one-woman security force had a prior commitment on the other side of the universe. SHIELD alone can't protect us. We need to find more.,Captain Marvel,2019,37,False,False,False,False,False,False,False,False,False,False,False
+759,PHIL COULSON,More weapons?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+760,NICK FURY,More heroes.,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False
+761,PHIL COULSON,You think we can find others like her?,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+762,NICK FURY,We found her and we weren't even looking.,Captain Marvel,2019,8,False,False,False,False,False,False,False,False,False,False,False
+763,PHIL COULSON,"Get some rest, sir. You got a big decision to make.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+764,STEVE ROGERS,This is a nightmare.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+765,NATASHA ROMANOFF,I've had better nightmares.,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+766,JAMES RHODES,Hey. So that thing just stopped doing whatever the hell it was doing.,Captain Marvel,2019,13,False,False,False,False,False,False,False,False,False,False,False
+767,NATASHA ROMANOFF,What have we got?,Captain Marvel,2019,4,False,False,False,False,False,False,False,False,False,False,False
+768,BRUCE BANNER,"Whatever the signal is sending, it finally creeped off.",Captain Marvel,2019,9,False,False,False,False,False,False,False,False,False,False,False
+769,STEVE ROGERS,I thought we bypassed the battery.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+770,JAMES RHODES,"We did. It's still plugged in, it just... it just stopped.",Captain Marvel,2019,11,False,False,False,False,False,False,False,False,False,False,False
+771,STEVE ROGERS,Reboot and send the signal again.,Captain Marvel,2019,6,False,False,False,False,False,False,False,False,False,False,False
+772,BRUCE BANNER,We don't even know what this is.,Captain Marvel,2019,7,False,False,False,False,False,False,False,False,False,False,False
+773,NATASHA ROMANOFF,"Fury did. Just do it, please. You tell me the second you get a signal. I want to know who's on the other end of that thing.",Captain Marvel,2019,27,False,False,False,False,False,False,False,False,False,False,False
+774,CAROL DANVERS,Where's Fury?,Captain Marvel,2019,2,False,False,False,False,False,False,False,False,False,False,False

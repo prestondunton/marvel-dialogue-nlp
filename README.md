@@ -35,3 +35,4 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 | Spider-Man: Homecoming         | 2017 | ✔️            | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) |
 | Avengers: Infinity War         | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
 | Avengers: Endgame              | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
+| Captain Marvel                 | 2019 | ✔️            | 775  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_Marvel_(2019)) |
