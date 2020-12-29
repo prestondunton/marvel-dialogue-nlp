@@ -24,6 +24,7 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 | ----------------------------------- | ---- | ------------- | ----- | ----------- | ------ |
 | Iron Man                            | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
 | Iron Man 2                          | 2010 | ✔️            | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
+| Thor                                | 2011 | ❌            | 1007 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-2011.pdf) |
 | Captain America: The First Avenger  | 2011 | ✔️            | 688  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) | Not proofread |
 | The Avengers                        | 2012 | ❌            | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) |
 | Iron Man 3                          | 2013 | ✔️            | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) | Not proofread |

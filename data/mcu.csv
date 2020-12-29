@@ -15516,3 +15516,1022 @@
 864,SAM WILSON,Who knows if the accords will let him help?,Ant-Man,2015,9,False,False,False,False,False,False,False,False,False,False,False
 865,STEVE ROGERS,We’re on our own.,Ant-Man,2015,4,False,False,False,False,False,False,False,False,False,False,False
 866,SAM WILSON,Maybe not. I know a guy.,Ant-Man,2015,6,False,False,False,False,False,False,False,False,False,False,False
+0,JANE FOSTER,Hurry!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+1,JANE FOSTER,Oh-- watch your head.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+2,ERIK SELVIG,"Thanks. So what's this ""anomaly"" of yours supposed to look like? ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+3,JANE FOSTER,"It's a little different each time. Once it looked like, I don't know, melted stars, pooling in a corner of the sky. But last week it was a rolling rainbow ribbon-- ",Thor,2011,32,False,False,False,False,False,False,False,False,False,False,False
+4,ERIK SELVIG,"Racing Àúround Orion?"" I've always said you should have been a poet.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+5,JANE FOSTER,"Hey, Darcy. Pass up the bubbly and my gloves, will you?",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+6,JANE FOSTER,Not until you see it!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+7,ERIK SELVIG,I recognize those. Think how proud he'd be to see you now.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+8,JANE FOSTER,Thank you.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+9,ERIK SELVIG,For what?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+10,JANE FOSTER,The benefit of the doubt.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+11,JANE FOSTER,It's never taken this long before.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+12,DARCY LEWIS,Can I turn on the radio?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+13,JANE FOSTER,"Sure, if you like rocking out to KFRM, ""All agriculture, all the time.""",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+14,JANE FOSTER,The anomalies are always precipitated by geomagnetic storms.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+15,JANE FOSTER,The last seventeen occurrences have been predictable to the minute... I just don't understand.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+16,DARCY LEWIS,Jane? ,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+17,JANE FOSTER,There's got to be some new variable... Or an equipment malfunction...,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+18,DARCY LEWIS,I don't think there's anything wrong with your equipment...,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+19,DARCY LEWIS,Jane?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+20,JANE FOSTER,What?!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+21,DARCY LEWIS,I think you want to see this.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+22,JANE FOSTER,Holy. Shatner.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+23,ERIK SELVIG,"That's your ""subtle"" aurora?! ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+24,JANE FOSTER,No-- yes! Let's go!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+25,JANE FOSTER,Isn't this great?!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+26,JANE FOSTER,"You're seeing it too, right? I'm not crazy? ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+27,ERIK SELVIG,That's debateable. Put your seat belt on!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+28,JANE FOSTER,You've gotta get us closer so I can take a magnetic reading.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+29,DARCY LEWIS,"Yeah, right! Good one! Oh God, you're serious... ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+30,JANE FOSTER,You want those college credits or not?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+31,DARCY LEWIS,Keep the credits. I'll intern at Burger King.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+32,JANE FOSTER,What are you doing?!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+33,DARCY LEWIS,Saving our lives!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+34,DARCY LEWIS,I think that was legally your fault.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+35,JANE FOSTER,Get the first aid kit.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+36,JANE FOSTER,"Come on, big guy. Do me a favor and don't be dead, okay? Open your eyes and look at me. ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+37,DARCY LEWIS,Wow. Does he need CPR? Because I know CPR.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+38,JANE FOSTER,HIS EYES--,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+39,DARCY LEWIS,--are beautiful.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+40,JANE FOSTER,--are dilating. That's a good sign.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+41,ERIK SELVIG,We still have to get him to a hospital.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+42,JANE FOSTER,After we get a reading on the storm?,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+43,ERIK SELVIG,"Immediately, Jane.",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+44,JANE FOSTER,Where did he come from?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+45,HEIMDALL,"Questions, they've always asked questions -- this race called man, on this planet they call earth. Passionately longing to know how they are connected to the heavens.",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+46,HEIMDALL,"In ages past, they looked to us as gods, for indeed so many times we saved them from calamity. We tried to show them how their world was but one of the Nine Realms of the Cosmos, linked to all others by the branches of Yggdrasil...",Thor,2011,46,False,False,False,False,False,False,False,False,False,False,False
+47,HEIMDALL,"...the Worlds Tree. Nine Realms in a universe of wonder, beauty, and terror that they barely comprehended.",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+48,HEIMDALL,"But for all their thirst for knowledge, they let our lessons fall into myth and dreams. Where did he come from? He came from us, the proudest race of warriors the Worlds have ever seen. He came from this -- the greatest Realm the universe has ever known.",Thor,2011,48,False,False,False,False,False,False,False,False,False,False,False
+49,HEIMDALL,He came... from Asgard!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+50,ODIN,Do you think he's ready?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+51,FRIGGA,He thinks he is. He has his father's confidence.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+52,ODIN,He'll need his father's wisdom.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+53,FRIGGA,And his humility?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+54,FRIGGA,Thor won't be alone. Loki will be at his side to give him counsel. Have faith in your sons.,Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+55,ODIN,"Yes, but Thor's still a boy. He could be a great King...",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+56,ODIN,...if we only had more time.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+57,FRIGGA,"For once, our son needs something we cannot provide. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+58,ODIN,I can fight it a little longer...,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+59,FRIGGA,No. You've put it off too long! I worry for you.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+60,ODIN,"I've destroyed demons and monsters, devastated whole worlds, laid waste to mighty kingdoms, and still you worry for me? ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+61,FRIGGA,Always.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+62,ODIN,Not today. Now come kiss your king... while I'm still king.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+63,THOR,Another!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+64,LOKI,"Nervous, brother? ",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+65,THOR,Have you ever known me to be nervous?,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+66,LOKI,There was the time in Nornheim...,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+67,THOR,"That wasn't nerves, brother. It was the rage of battle. How else could I have fought my way through a hundred warriors and pulled us out alive?",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+68,LOKI,"As I recall, I was the one who veiled us in smoke to ease our escape. ",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+69,THOR,"Some do battle, others just do tricks.",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+70,THOR,Loki... ,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+71,THOR,Now that was just a waste of good wine.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+72,LOKI,"Just a bit of fun. Right, my friend?",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+73,LOKI,Nice feathers.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+74,THOR,"You don't really want to start this again, do you, Cow? ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+75,LOKI,I was being sincere!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+76,THOR,You're incapable of sincerity.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+77,LOKI,Am I?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+78,LOKI,"I've looked forward to this day as long as you have. You're my brother and my friend. Sometimes I'm envious, but never doubt that I love you.",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+79,THOR,Thank you.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+80,LOKI,Give us a kiss.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+81,THOR,Stop.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+82,THOR,How do I look?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+83,LOKI,Like a king.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+84,LOKI,It's time.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+85,THOR,You go ahead.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+86,THOR,I'll be along. Go on.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+87,FANDRAL,"Thank you, love. ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+88,FANDRAL,Now who'd like to polish my sword for me?,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+89,SIF,I'll miss you.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+90,VOLSTAGG,I hope this goes quickly. I'm famished.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+91,FANDRAL,Noooo!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+92,VOLSTAGG,"Are you attached to that pretty face of yours? Because one more word, and you won't be. ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+93,FANDRAL,"My, we are hungry, aren't we?",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+94,FANDRAL,"Go on, Hogun. Smile. You can do it. Even you, Hogun the Grim. Just one smile.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+95,FANDRAL,"All right, half a smile. Look, forget the smile, just show some teeth. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+96,SIF,"Fandral, is it true the famous Warriors Three are ready to meet any challenge? ",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+97,FANDRAL,"Name it, Lady Sif. ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+98,SIF,Keep your mouth shut.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+99,FRIGGA,It's all right to be nervous.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+100,THOR,Why does everyone keep saying that? I'm not nervous!,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+101,FRIGGA,You may be able to fool the rest of ASGARD --,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+102,THOR,...but never you. I know.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+103,FRIGGA,"Thor, just remember that you have something even the great Allfather never had. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+104,THOR,And what is that?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+105,FRIGGA,Me for a mother.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+106,FRIGGA,Now don't keep your father waiting.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+107,VOLSTAGG,Where is he?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+108,LOKI,He said he'd be along.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+109,VOLSTAGG,What?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+110,SIF,He wants to make an entrance.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+111,FANDRAL,"Well, if he doesn't show up soon, he shouldn't bother.",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+112,LOKI,I wouldn't worry. Father will forgive him. He always does.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+113,SIF,"Oh, please.",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+114,ODIN,"Gungnir. Its aim is true, its power strong. With it I have defended Asgard and the lives of the innocent across the Nine Realms since the time of the Great Beginning. And though the day has come for a new King to wield his own weapon -- that duty remains the same. Thor Odinson, my heir, my first-born. ",Thor,2011,59,False,False,False,False,False,False,False,False,False,False,False
+115,ODIN,"So long entrusted with this mighty hammer, Mjolnir. Forged in the heart of a dying star, from the sacred metal of Uru. Only one may lift it. Only one is worthy. Who wields this hammer commands the lightning and the storm. Its power has no equal -- as a weapon, to destroy, or as a tool, to build. It is a fit companion for a King.",Thor,2011,66,False,False,False,False,False,False,False,False,False,False,False
+116,ODIN,"Today I entrust you with the greatest honor in all the Nine Realms. The sacred throne of Asgard. I have sacrificed much to achieve peace. So, too, must a new generation sacrifice to maintain that peace. Responsibility, duty, honor. These are not merely virtues to which we must aspire. They are essential to every soldier and to every King.",Thor,2011,59,False,False,False,False,False,False,False,False,False,False,False
+117,ODIN,"Thor Odinson, do you swear to guard the Nine Realms? ",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+118,THOR,I swear.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+119,ODIN,Do you swear to preserve the peace?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+120,THOR,I swear.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+121,ODIN,Do you swear to cast aside all selfish ambition and pledge yourself only to the good of all the Realms?,Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+122,THOR,I swear.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+123,ODIN,"Then on this day, I, Odin Allfather, proclaim you--",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+124,ODIN,Frost giants...,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+125,SIF,The Destroyer.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+126,VOLSTAGG,I thought it was but a legend.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+127,FANDRAL,I've never been inside the Vault before. It's said the Tesseract was once held here.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+128,VOLSTAGG,The Tesseract? I thought that was but a legend too!,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+129,SIF,Shush!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+130,THOR,The Jotuns must pay for what they've done!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+131,ODIN,"They have paid with their lives. The Destroyer did its job, and the Casket is safe. All is well. ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+132,THOR,All is well?! They broke into the Weapons Vault! If the Frost Giants had stolen even one of these RELICS--,Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+133,ODIN,But they didn't.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+134,THOR,I want to know why they--,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+135,ODIN,The Casket of Ancient Winters belonged to the Jotuns. They believe it's their birthright.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+136,THOR,And if you hadn't taken it from them they would have laid waste to all the Nine Realms!,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+137,ODIN,"I have a truce with Laufey, the Jotun King. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+138,THOR,He just broke your truce! We must act!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+139,ODIN,Leave us.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+140,ODIN,And what action would you take?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+141,THOR,"March into Jotunheim as you once did, teach them a lesson, break their spirits so they'll never dare try to cross our borders again! ",Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+142,ODIN,You're thinking only as a warrior!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+143,THOR,This was an act of war!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+144,ODIN,"It was the act of but a few, doomed to fail. ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+145,THOR,They got this far!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+146,ODIN,"We will find the breach in our defenses. It will be found, and it will be sealed. ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+147,THOR,"As King of Asgard, I would-- ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+148,ODIN,You are not King. Not yet.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+149,SIF,"Redecorating, are we?",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+150,VOLSTAGG,What's this -- ?!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+151,HOGUN,I told you they'd cancel it.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+152,FANDRAL,We thought that was just you being your normal cheery self.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+153,VOLSTAGG,"All this food -- so innocent, cast to the ground. It breaks the heart!",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+154,THOR,"It's unwise to be in my company right now, brother. ",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+155,LOKI,Who said I was wise?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+156,THOR,This was to be my day of triumph.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+157,LOKI,"It will come. In time. If it's any consolation, I think you're right. About the Frost Giants, about Laufey, everything. If a few of them could penetrate the defenses of Asgard once, who's to say they won't try again. Next time with an army? ",Thor,2011,45,False,False,False,False,False,False,False,False,False,False,False
+158,THOR,"Yes, exactly! ",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+159,LOKI,But there's nothing we can do without defying Father.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+160,LOKI,No... stop there! I know that look!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+161,THOR,It's the only way to ensure the safety of our borders.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+162,LOKI,It's madness!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+163,VOLSTAGG,Madness? What sort of madness?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+164,LOKI,Nothing! Thor was making a jest!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+165,THOR,The safety of our Realm is no jest. We're going to Jotunheim.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+166,FANDRAL,What?!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+167,SIF,"Thor, of all the laws of Asgard, this is one you must not break.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+168,FANDRAL,"This isn't like a journey to Earth, where you summon a little lightning and thunder and the mortals worship you as a god. This is Jotunheim. ",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+169,VOLSTAGG,"And if the Frost Giants don't kill you, your Father will! ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+170,THOR,"My father fought his way into Jotunheim, defeated their armies, and took their Casket! We'd just be looking for answers. ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+171,SIF,It is forbidden! ,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+172,THOR,"My friends, have you forgotten all that we've done together?",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+173,THOR,Who brought you into the sweet embrace of the most exotic maidens in all of Yggdrasil?,Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+174,FANDRAL,You did.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+175,THOR,"Who led you into the most glorious of battles... ...and to delicacies so succulent, you thought you'd died and gone to Valhalla? ",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+176,VOLSTAGG / HOGUN,You did.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+177,THOR,And who proved wrong all who scoffed at the idea that a young maiden could be one of the fiercest warriors this Realm has ever known?,Thor,2011,26,False,False,False,False,False,False,False,False,False,False,False
+178,SIF,I did.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+179,THOR,"True. But I supported you... My friends, trust me now. We must do this.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+180,THOR,"Come on. You're not going to let my brother and me take all the glory, are you?",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+181,LOKI,What?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+182,THOR,You are coming with me...,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+183,LOKI,"Yes, of course! I won't let my brother march into Jotunheim alone. I will be at his side. ",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+184,VOLSTAGG,And I.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+185,FANDRAL,And I.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+186,HOGUN,And I. The Warriors Three fight together.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+187,SIF,I fear we'll live to regret this.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+188,VOLSTAGG,If we're lucky.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+189,THOR,We must first find a way to get past Heimdall.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+190,VOLSTAGG,That will be no easy task. It's said the Gatekeeper can see a single dew drop fall from a blade of grass a thousand worlds away.,Thor,2011,26,False,False,False,False,False,False,False,False,False,False,False
+191,FANDRAL,And he can hear a cricket passing gas in Niffelheim.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+192,VOLSTAGG,Jest not! He heareth all!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+193,FANDRAL,"Please. Getting past him should be simple enough now, since he seems to be letting Frost Giants sneak by under his nose.",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+194,VOLSTAGG,Forgive him! He meaneth no offense!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+195,LOKI,"Keep your weapons sheathed and your mouths closed. This is going to take subtlety and sincerity, not brute strength. Leave it to me.",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+196,LOKI,GOOD HEIMDALL--,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+197,HEIMDALL,You're not dressed warmly enough.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+198,LOKI,I'm sorry?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+199,HEIMDALL,"The freezing cold of Jotunheim. It will kill you all in time, even Thor. You think you can deceive me? I, who watch all? I, who can sense the flapping of a butterfly's wings a thousand worlds away?",Thor,2011,38,False,False,False,False,False,False,False,False,False,False,False
+200,HEIMDALL,Or can hear a cricket passing gas in Niffelheim?,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+201,FANDRAL,"That was just a bit of a jest, really...",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+202,LOKI,You must be mistaken. We're not--,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+203,THOR,"Enough. Heimdall, may we pass?",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+204,HEIMDALL,"For ages have I guarded Asgard and kept it safe from those who would do it harm. In all that time, never has an enemy slipped by my watch -- until this day. I wish to know how that happened. ",Thor,2011,41,False,False,False,False,False,False,False,False,False,False,False
+205,THOR,Then tell no one where we've gone until we've returned.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+206,VOLSTAGG,What happened? Your silver tongue turn to lead?,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+207,LOKI,Get me off this bridge before it cracks under your girth.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+208,HEIMDALL,"Be warned. I will honor my sworn oath to protect this Realm as its Gatekeeper. If your return threatens the safety of Asgard, Bifrost will remain closed to you. You'll be left to die in the cold wastes of Jotunheim. ",Thor,2011,41,False,False,False,False,False,False,False,False,False,False,False
+209,THOR,I have no plans to die today.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+210,HEIMDALL,None do.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+211,HEIMDALL,All is ready. You may pass.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+212,VOLSTAGG,Couldn't you just leave the bridge open for us?,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+213,HEIMDALL,To keep this bridge open would unleash the full power of the Bifrost and destroy Jotunheim with you upon it.,Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+214,VOLSTAGG,"Ah. Never mind, then.",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+215,THOR,Come on. Don't be bashful.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+216,THOR,"Come on, big fella. Up...!",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+217,VOLSTAGG,This belt! This belt is now my lucky belt! I will never remove it! Even when bathing!,Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+218,FANDRAL,You bathe?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+219,HOGUN,We shouldn't be here.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+220,THOR,Too late now.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+221,FANDRAL,"Actually, it's not. We could turn right around, hop back to Asgard, share a mug by the fire. Could be nice.",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+222,LOKI,Perhaps we should wait.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+223,THOR,For what?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+224,LOKI,To survey the enemy. To gauge their strengths and weaknesses from a distance.,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+225,VOLSTAGG,"I'm liking that. Gauging, surveying. Particularly the distance part. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+226,THOR,We know all we must. It's time to act.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+227,SIF,He's just got to swing his hammer...,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+228,THOR,"It feels good, doesn't it? To be together again, adventuring on another world? ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+229,FANDRAL,Adventuring? Is that what we're doing?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+230,THOR,What would you call it?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+231,FANDRAL,Freezing.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+232,VOLSTAGG,Starving.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+233,SIF,Whining.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+234,THOR,How about a song to lift our spirits?,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+235,HOGUN,"No, not that! ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+236,SIF,Please don't make us sing again!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+237,FANDRAL,"If I have to listen to Volstagg's singing voice one more time, I'll fall on my own sword! ",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+238,SIF,"Well, now I'm on board.",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+239,SIF,Where are they?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+240,THOR,Hiding. As cowards always do.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+241,JOTUN SENTRY,"What is your business here, Asgardian?",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+242,THOR,I speak only to your King. Not to his foot soldiers.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+243,JOTUN VOICE,Then speak.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+244,LAUFEY,"I am Laufey, King of this Realm. ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+245,THOR,And I am--,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+246,LAUFEY,"We know who you are, Odinson. Why have you brought the stench of your blood into my world? ",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+247,THOR,I demand answers.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+248,LAUFEY,"You ""demand?""",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+249,THOR,How did your people get into Asgard?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+250,LAUFEY,The house of Odin is full of traitors.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+251,THOR,Do not dishonor my father's name with your lies.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+252,LAUFEY,"Your father is a murderer and a thief. He stole what was ours, and left our world in ruins. We have the right to reclaim the Casket. ",Thor,2011,28,False,False,False,False,False,False,False,False,False,False,False
+253,THOR,Not when you'd use it to make war against other Realms.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+254,LAUFEY,"And why have you come here? To make peace? You long for battle. You crave it. I see you for what you are, Thor Odinson. Nothing but a boy, trying to prove himself a man. ",Thor,2011,36,False,False,False,False,False,False,False,False,False,False,False
+255,THOR,This boy has grown tired of your mockery.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+256,LOKI,"Thor, stop and think. Look around you. We are outnumbered. ",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+257,THOR,"Know your place, brother... ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+258,LAUFEY,You should listen to his counsel. You know not what your actions would unleash.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+259,LAUFEY,"But I do. Go now, while I still allow it.",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+260,LOKI,We will accept your most gracious offer.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+261,JOTUN,"Run back home, little princess.",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+262,LOKI,Damn.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+263,VOLSTAGG,Silly hammer! Has a mind of its own!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+264,FANDRAL,I'm hoping that's just decorative.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+265,THOR,Next!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+266,FANDRAL,"Well? What move, do you think? ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+267,VOLSTAGG,"I say we use ""The Norn's Revenge.""",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+268,FANDRAL,"At this close range? I think ""The Alfheim Lunge"" is a better move. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+269,VOLSTAGG,"Maybe if they were three feet tall! No! How about ""The Randy Valkyrie""?",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+270,HOGUN,Shut up!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+271,SIF,"If you don't treat me like a lady, I won't act like a lady!",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+272,LOKI,Pathetic.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+273,THOR,Come on! At least make it a challenge for me!,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+274,THOR,Now that's more like it!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+275,THOR,Ugly and stupid.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+276,SIF,I'm so glad I taught him how to do that!,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+277,VOLSTAGG,You may want to put some ice on that!,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+278,VOLSTAGG,"You may be taller, but I'm wider!",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+279,VOLSTAGG,It's not too late for you to surrender.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+280,VOLSTAGG,Don't let them grab hold of you!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+281,VOLSTAGG,"Thank you, my lady. But I nearly had him! ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+282,SIF,Of course you did.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+283,VOLSTAGG,Hang on!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+284,HOGUN,Watch the legs!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+285,VOLSTAGG,Right. Sorry.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+286,FANDRAL,You really think your icicles are a match for Asgardian steel?,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+287,FANDRAL,Fair enough.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+288,FANDRAL,Could we stop just a moment while I get another sword?,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+289,VOLSTAGG,That's unfortunate.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+290,FANDRAL,"I may need a bit of help. Not a good look, is it? ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+291,VOLSTAGG,Just try not to bleed.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+292,FANDRAL,How's the face?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+293,VOLSTAGG,Flawless.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+294,THOR,Come on!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+295,LOKI,That can't be good.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+296,VOLSTAGG,"Yes, it could! Might be an early spring!",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+297,LOKI,"Thor, we must go!",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+298,THOR,Then go!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+299,SIF,There are too many of them!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+300,THOR,I can stop them!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+301,SIF,Thor!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+302,VOLSTAGG,Run!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+303,VOLSTAGG,What's Thor done?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+304,LOKI,Likely killed us all!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+305,THOR,"Loki, we have to see.",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+306,VOLSTAGG,"Actually, could you bring the mists back, please?",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+307,ODIN,Laufey. End this.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+308,LAUFEY,Your boy sought this out.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+309,ODIN,You're right. These are the actions of a boy. Treat them as such. You and I can stop this before there's further bloodshed.,Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+310,LAUFEY,"We are beyond diplomacy now, Allfather. He'll get what he came for -- war and death.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+311,ODIN,So be it.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+312,THOR,Now! We'll finish them together!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+313,ODIN,Silence!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+314,THOR,Why did you bring us back?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+315,ODIN,Do you realize what you've done? What you've started?,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+316,THOR,I was protecting my home.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+317,ODIN,You cannot protect your friends. How can you hope to protect a kingdom?,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+318,ODIN,Get him to the healing room!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+319,THOR,There won't be a kingdom to protect if you're afraid to act!,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+320,THOR,"Whatever the cost, the world must know that the new King of Asgard will not be held in contempt. ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+321,ODIN,"That's pride and vanity that talks! Not leadership! Have you forgotten everything I've taught you? What of a warrior's patience, cunning? ",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+322,THOR,"While you wait and be patient, the Nine Realms laugh at us! The old ways are done. You'd stand giving speeches while Asgard falls! ",Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+323,ODIN,"You're a vain, greedy, cruel boy! ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+324,THOR,And you are an old man and a fool!,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+325,ODIN,"A fool, yes! I was a fool to think you were ready.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+326,LOKI,FATHER--,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+327,ODIN,"Thor Odinson... You have disobeyed the express command of your King. Through your arrogance and stupidity, you have opened these peaceful Realms and innocent lives to the horrors of war.",Thor,2011,30,False,False,False,False,False,False,False,False,False,False,False
+328,ODIN,You are unworthy of this Realm...,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+329,ODIN,...unworthy of your title...,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+330,ODIN,...unworthy of the loved ones you've betrayed. I hereby take from you your powers.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+331,ODIN,In the name of my father...,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+332,ODIN,...and of his father before...,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+333,ODIN,I cast you out!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+334,ODIN,"Whosoever holds this hammer, if he be worthy, shall possess the power of Thor.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+335,DARCY LEWIS,I think that was legally your fault.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+336,JANE FOSTER,"Get the first aid kit. Come on, big guy. Do me a favor and don't be dead, okay? Open your eyes and look at me.",Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+337,DARCY LEWIS,Wow. Does he need CPR? Because I know CPR.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+338,JANE FOSTER,Where did he come from?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+339,JANE FOSTER,"Uh, thanks. Are you okay?",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+340,THOR,Hammer...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+341,DARCY LEWIS,"Yeah, we can tell you're hammered. That's pretty obvious.",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+342,JANE FOSTER,Erik... look at this.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+343,JANE FOSTER,We've got to move fast before anything changes.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+344,JANE FOSTER,"We need soil samples, light readings, everything.",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+345,ERIK SELVIG,"Jane, we need get him to a hospital.",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+346,JANE FOSTER,Not right now. It'll take too long. County's an hour away. We'll drop him off after we're done here.,Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+347,JANE FOSTER,"Look at him, he's fine.",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+348,THOR,Father! Heimdall! I know you can hear me! Open the bridge!,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+349,JANE FOSTER,"Okay, you and Darcy take him to the hospital, I'll stay here. ",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+350,ERIK SELVIG,You expect me to leave you alone in the middle of the desert?,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+351,THOR,You! What world is this?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+352,ERIK SELVIG,"It's all right, my friend. We're going to get you some help.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+353,THOR,Where am I?! Answer me!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+354,JANE FOSTER,"Erik, just back away... ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+355,ERIK SELVIG,You're in the desert outside the town of Puente Antiguo.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+356,THOR,What Realm?! Alfheim? Nornheim?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+357,DARCY LEWIS,Uh... New Mexico?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+358,THOR,You dare threaten Thor with so puny A--,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+359,DARCY LEWIS,What? He was freaking me out.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+360,ERIK SELVIG,"Next time you decide to taser someone, do me a favor and make sure they're already inside the truck. Jane, come on...",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+361,ADMISSIONS NURSE,Name?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+362,JANE FOSTER,"He said it was ""Thor."" ",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+363,ADMISSIONS NURSE,T-H-O-R. And your relationship to him?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+364,JANE FOSTER,I've never met him before.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+365,DARCY LEWIS,Until she hit him with the car.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+366,JANE FOSTER,"Grazed him, actually. Oh, and we tasered him, too. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+367,ADMISSIONS NURSE,Must have been quite the spat.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+368,JANE FOSTER,"I told you, I don't know him. I just want to make sure he's okay. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+369,ADMISSIONS NURSE,I'm going to need a name and contact number.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+370,JANE FOSTER,Jane Foster.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+371,ADMISSIONS NURSE,J...A...N...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+372,ERIK SELVIG,"Oh, for God's sake...",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+373,ERIK SELVIG,Here. Let's go.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+374,NURSE,Hi. Just taking a little blood.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+375,THOR,How dare you attack the son of Odin!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+376,NURSE,I need some help!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+377,NURSE,We're trying to help you!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+378,THOR,"Then bring me a healing stone, you savages!",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+379,ORDERLY,What the hell is this guy on?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+380,THOR,You're no match for the Mighty--,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+381,TOWNIE,Huh.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+382,TOWNIE,Huh.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+383,JANE FOSTER,"Darcy, when you're done, take the soil samples to Professor Meyers in geology. Remind him, he owes me. ",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+384,ERIK SELVIG,We might want to perform a spectral analysis.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+385,JANE FOSTER,"""We?""",Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+386,ERIK SELVIG,I flew all the way out here -- might as well make myself useful.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+387,JANE FOSTER,You know what would be really useful? Do you still have that friend at LIGO?,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+388,ERIK SELVIG,She was more than a friend.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+389,JANE FOSTER,Could you call in a favor?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+390,ERIK SELVIG,You don't think this was just a magnetic storm?,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+391,JANE FOSTER,"If I'm right, their observatory must have picked up gravitational waves during last night's event. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+392,ERIK SELVIG,Meaning?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+393,JANE FOSTER,Meaning these anomalies might signify something bigger.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+394,ERIK SELVIG,"How ""big"" are we talking about?",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+395,JANE FOSTER,I think the lensing around the edges is characteristic of an Einstein-Rosen Bridge.,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+396,DARCY LEWIS,A what?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+397,ERIK SELVIG,I thought you were a science major.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+398,DARCY LEWIS,Political Science.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+399,JANE FOSTER,She was the only applicant.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+400,ERIK SELVIG,"An Einstein-Rosen Bridge -- a ""theoretical"" connection between two different points of space-time.",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+401,JANE FOSTER,A wormhole.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+402,JANE FOSTER,"Erik, look...",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+403,JANE FOSTER,What do you see here?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+404,ERIK SELVIG,Stars.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+405,JANE FOSTER,Yes. But not our stars.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+406,JANE FOSTER,"This is the star alignment for our quadrant, this time of year. So unless Ursa Minor decided to take the day off... those are someone else's constellations.",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+407,DARCY LEWIS,"Hey, check it out.",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+408,ERIK SELVIG,Is that...?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+409,JANE FOSTER,I think I left something at the hospital.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+410,FRIGGA,How could you have done this?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+411,ODIN,Do you understand what he set in motion? He's taken us to the brink of war!,Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+412,FRIGGA,But banishment? You would lose him forever? He's your son!,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+413,ODIN,What would you have done?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+414,FRIGGA,"I would not have exiled him to a world of mortals, stripped of his powers, to suffer alone. I would not have had the heart for such cruelty! ",Thor,2011,29,False,False,False,False,False,False,False,False,False,False,False
+415,ODIN,"That is why I'm King. I, too, grieve the loss of our son. But there are some things that even I cannot undo. ",Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+416,FRIGGA,You can bring him back.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+417,ODIN,No. His fate is in his own hands now.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+418,THOR,It's not possible.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+419,ADMISSIONS NURSE,"I'm sorry, only relatives can visit patients. ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+420,JANE FOSTER,But... I'm his wife.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+421,ADMISSIONS NURSE,I thought you said you didn't know him.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+422,JANE FOSTER,"I meant I barely know him anymore. The man he's become. He's changed. I mean, what woman really knows her husband, anyway? ",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+423,ADMISSIONS NURSE,"None of us, dear. He's in Room",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+424,JANE FOSTER,Typical. I just lost my most important piece of evidence.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+425,DARCY LEWIS,So now what?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+426,JANE FOSTER,We find him.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+427,ERIK SELVIG,Did you see what he did in there? I don't know if finding him is the best idea.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+428,JANE FOSTER,"I want to know what that thing was, and he may have the answers. We don't have a choice. ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+429,DARCY LEWIS,Oo-kay.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+430,ERIK SELVIG,So we're just going to spend the rest of the day looking for him?,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+431,JANE FOSTER,However long it takes.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+432,JANE FOSTER,I'm so sorry. I swear I'm not doing that on purpose.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+433,THOR,"Blue sky... one sun... This is Earth, isn't it? ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+434,DARCY LEWIS,I think you may have hit him with the car one time too many.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+435,JANE FOSTER,Let's get you some clothes.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+436,VOLSTAGG,We should never have let him go.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+437,SIF,There was no stopping him.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+438,FANDRAL,"At least he's only banished, not dead. Which is what we'd all be if that guard hadn't told Odin where we'd gone. ",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+439,VOLSTAGG,How did the guard even know?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+440,LOKI,I told him.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+441,FANDRAL,What?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+442,LOKI,I told him to go to Odin after we'd left. Though he should be flogged for taking so long.,Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+443,VOLSTAGG,You told the guard?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+444,LOKI,I saved our lives! And Thor's. I had no idea Father would banish him for what he did.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+445,SIF,"Loki, you're the only one who can help Thor now. You must go to the Allfather and convince him to change his mind! ",Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+446,LOKI,"And if I do, then what? I love Thor more dearly than any of you, but you know what he is. He's arrogant. He's reckless. He's dangerous. You saw how he was today. Is that what Asgard needs from its King?",Thor,2011,41,False,False,False,False,False,False,False,False,False,False,False
+447,SIF,"He may speak about the good of Asgard, but he's always been jealous of Thor. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+448,VOLSTAGG,"True, but we should be grateful to him. He did save our lives. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+449,HOGUN,Laufey said there were traitors in the House of Odin.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+450,FANDRAL,"Why is it every time you choose to speak, it has to be something dark and ominous? ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+451,HOGUN,A master of magic could easily bring three Jotuns into Asgard.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+452,VOLSTAGG,No! Surely not!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+453,FANDRAL,"Loki's always been one for mischief, but you're talking about something else entirely. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+454,SIF,Who else could elude Heimdall's gaze with tricks of light and shadow?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+455,VOLSTAGG,The ceremony was interrupted just before Thor was named King.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+456,SIF,We should go to the Allfather.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+457,FANDRAL,"And tell him what? ""Oh, by the way, we think your son just betrayed the throne. And do us a favor. Bring back Thor. There's a good fellow!""",Thor,2011,28,False,False,False,False,False,False,False,False,False,False,False
+458,SIF,"It's our duty. If any of our suspicions are right, then all of Asgard is in danger.",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+459,ODIN,Stop!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+460,LOKI,Am I cursed?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+461,ODIN,No. Put the Casket down.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+462,LOKI,What am I?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+463,ODIN,You're my son.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+464,LOKI,What more than that?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+465,LOKI,"The Casket wasn't the only thing you took from Jotunheim that day, was it?",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+466,ODIN,"No. In the aftermath of the battle, I went into the Temple, and I found a baby. Small for a giant's offspring -- abandoned, suffering, left to die. Laufey's son.",Thor,2011,30,False,False,False,False,False,False,False,False,False,False,False
+467,LOKI,Laufey's son...,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+468,LOKI,Why? You were knee-deep in Jotun blood. Why would you take me?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+469,ODIN,You were an innocent child.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+470,LOKI,"You took me for a purpose, what was it?",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+471,LOKI,Tell me!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+472,ODIN,"I thought we could unite our kingdoms one day, bring about an alliance, bring about a permanent peace... through you. But those plans no longer matter. ",Thor,2011,27,False,False,False,False,False,False,False,False,False,False,False
+473,LOKI,"So I am no more than another stolen relic, locked up here until you might have use of me. ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+474,ODIN,Why do you twist my words?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+475,LOKI,You could have told me what I was from the beginning. Why didn't you?,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+476,ODIN,You are my son. My blood. I wanted only to protect you from the truth.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+477,LOKI,Because I am the monster parents tell their children about at night?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+478,ODIN,Don't...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+479,LOKI,It all makes sense now. Why you favored Thor all these years.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+480,ODIN,Listen...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+481,LOKI,"Because no matter how much you claim to ""love"" me, you could never have a Frost Giant sitting on the Throne of Asgard!",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+482,ODIN,Listen to me!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+483,ODIN,Loki!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+484,LOKI,Guards!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+485,EAGER TOWNIE,This'll do it.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+486,EAGER TOWNIE,"Okay, let 'er rip!",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+487,PHIL COULSON,Sir -- we've found it.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+488,DARCY LEWIS,"You know, for a crazy homeless guy, he's pretty cut.",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+489,DARCY LEWIS,"Hey, sorry I tased you!",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+490,JANE FOSTER,Excuse me... excuse me!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+491,JANE FOSTER,My ex.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+492,JANE FOSTER,They're the only clothes I had that'll fit you. Sorry.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+493,THOR,They will suffice.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+494,JANE FOSTER,You're welcome. Now tell me...,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+495,JANE FOSTER,"What were you doing, in that?",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+496,THOR,What does anyone do in the Bifrost?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+497,ERIK SELVIG,The Bifrost...,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+498,JANE FOSTER,What exactly is the Bifrost?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+499,THOR,This mortal form has grown weak.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+500,JANE FOSTER,BUT--,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+501,JANE FOSTER,Somebody get the mortal a Pop-Tart.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+502,FRIGGA,I asked him to be honest with you from the beginning. There should be no secrets in a family.,Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+503,LOKI,So why did he lie?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+504,FRIGGA,"He kept the truth from you so that you would never feel different. You are in every way our son, Loki, and we your family. You must know that.",Thor,2011,29,False,False,False,False,False,False,False,False,False,False,False
+505,FRIGGA,"You can speak to him. He can see and hear us, even now. ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+506,LOKI,How long will it last?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+507,FRIGGA,I don't know. This time is different. We were unprepared.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+508,LOKI,I never get used to seeing him like this. The most powerful being in the Nine Realms lying helpless until his body is restored.,Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+509,FRIGGA,"But he's put it off for so long now, I fear...",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+510,FRIGGA,You're a good son.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+511,FRIGGA,We mustn't lose hope that your father will return to us. And your brother.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+512,LOKI,What hope is there for Thor?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+513,FRIGGA,There's always a purpose to everything your father does. Thor may yet find a way home.,Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+514,FRIGGA,"Thor is banished. The line of succession falls to you. Until he awakens, Asgard is yours.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+515,FRIGGA,Make your father proud.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+516,JANE FOSTER,Now tell us exactly what happened to you last night.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+517,JANE FOSTER,Maybe start with how you got inside that cloud.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+518,DARCY LEWIS,And how you could eat an entire box of Pop-Tarts and still be this hungry.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+519,THOR,This drink. I like it.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+520,DARCY LEWIS,"Yeah, it's great, isn't it? Isabela makes the best coffee in town.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+521,THOR,Another!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+522,JANE FOSTER,"Sorry, Izzy. Little accident. I'm going to pay for the cup.",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+523,ISABELA,"Did you see that? The first time she brings a man in here, and he's a lunatic! ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+524,JANE FOSTER,What was that?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+525,THOR,It was delicious. I want another.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+526,JANE FOSTER,Then you should just say so!,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+527,THOR,I just did.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+528,JANE FOSTER,I mean ask for it. Nicely.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+529,THOR,I meant no disrespect.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+530,JANE FOSTER,"All right, then no more smashing, deal? ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+531,THOR,You have my word.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+532,JANE FOSTER,Good. ,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+533,ISABELA,"Morning, Pete. Jake. ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+534,TOWNIE PETE,"The usual, please, Izzy.",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+535,DRUNK TOWNIE JAKE,You missed all the excitement out at the crater.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+536,ISABELA,What crater?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+537,TOWNIE PETE,They're saying some kind of satellite crashed in the desert.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+538,DRUNK TOWNIE JAKE,"We were having a good time with it till the Feds showed up, chased us out. ",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+539,JANE FOSTER,"Excuse me, did you say there was a satellite crash? ",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+540,DRUNK TOWNIE JAKE,Yep. They said it was radioactive. And I had my hands all over it. I'm probably sterile now.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+541,DARCY LEWIS,"Oh my God, this is going on Facebook.",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+542,DARCY LEWIS,Smile!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+543,ERIK SELVIG,What did the satellite look like?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+544,DRUNK TOWNIE JAKE,I don't know nothing about satellites. But it was heavy. Real heavy. Nobody could lift it.,Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+545,THOR,Where?!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+546,DRUNK TOWNIE JAKE,About twelve miles east of here.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+547,TOWNIE PETE,I wouldn't bother! Looked like the whole Army was coming in when we left!,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+548,JANE FOSTER,Where are you going?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+549,THOR,Twelve miles east of here.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+550,JANE FOSTER,Why?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+551,THOR,To get what belongs to me.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+552,JANE FOSTER,So now you own a satellite?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+553,THOR,It's not what they say it is.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+554,JANE FOSTER,"Whatever it is, the government seems to think it's theirs. You intend to just walk in there and take it? ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+555,THOR,Yes.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+556,THOR,"If you take me there now, I'll tell you everything you wish to know. ",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+557,JANE FOSTER,Everything?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+558,THOR,"All the answers you seek will be yours, once I reclaim Mjolnir.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+559,DARCY LEWIS,"""Myeu-muh?"" What's ""Myeu-muh?""",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+560,ERIK SELVIG,Jane.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+561,ERIK SELVIG,Please don't do this.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+562,JANE FOSTER,You know what we saw last night. This can't be a coincidence. I want to know what's in that crater.,Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+563,ERIK SELVIG,I'm not talking about the crater. I'm talking about him.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+564,JANE FOSTER,He's promised us answers.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+565,ERIK SELVIG,"He's delusional! Listen to what he's saying! ""Thor."" ""Bifrost."" Mjolnir. These are the stories I grew up with as a child! ",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+566,JANE FOSTER,"I'd just be driving him out there, that's all. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+567,ERIK SELVIG,It's dangerous. He's dangerous.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+568,JANE FOSTER,I'm sorry. I can't take you.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+569,THOR,I understand. Then this is where we say goodbye.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+570,JANE FOSTER,That's... thank you.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+571,THOR,Jane Foster... Erik Selvig... Darcy. Farewell.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+572,ERIK SELVIG,Now... let's get back to the lab. We have work to do.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+573,SIF,"Allfather, we must speak with you URGENTLY--",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+574,VOLSTAGG,What is this?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+575,LOKI,My friends... you haven't heard? I am now Ruler of Asgard.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+576,FANDRAL,Where is Odin?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+577,LOKI,Father's fallen into the Odinsleep. My mother fears he may never awaken again.,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+578,SIF,We would speak with her.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+579,LOKI,"She has refused to leave my father's bedside. You can bring your ""urgent"" matter to me, your King.",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+580,SIF,We would ask you to end Thor's banishment.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+581,LOKI,My first command can not be to undo the Allfather's last. We're on the brink of war with Jotunheim. Our people must have a sense of continuity in order to feel safe in these difficult times.,Thor,2011,36,False,False,False,False,False,False,False,False,False,False,False
+582,LOKI,"All of us must stand together, for the good of Asgard. ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+583,FANDRAL,Of course.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+584,JANE FOSTER,Hey! That's my stuff!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+585,JANE FOSTER,What the hell is going on here?!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+586,PHIL COULSON,"Ms. Foster, I'm Agent Coulson, with SHIELD.",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+587,JANE FOSTER,"I don't care who you work for, you can't do this! ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+588,ERIK SELVIG,Jane. This is more serious than you realize. Let it go.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+589,JANE FOSTER,Let it go?! This is my life!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+590,PHIL COULSON,We're here investigating a security threat. We need to appropriate your equipment and all your atmospheric data.,Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+591,JANE FOSTER,"By ""appropriate"" you mean ""steal""?",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+592,PHIL COULSON,This should more than compensate you for your trouble.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+593,JANE FOSTER,I can't just pick up replacements from RadioShack! I made most of that equipment myself!,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+594,PHIL COULSON,Then I'm sure you can do it again.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+595,JANE FOSTER,And I'm sure I can sue you for violating my constitutional rights!,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+596,PHIL COULSON,"We're the good guys, Ms. Foster.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+597,JANE FOSTER,So are we! We're on the verge of UNDERSTANDING SOMETHING extraordinary.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+598,JANE FOSTER,"Everything I know about this phenomenon is in this lab and in this book, and no one has the right to take it from me.",Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+599,PHIL COULSON,Thank you for your cooperation.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+600,JANE FOSTER,"Years of research, gone. ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+601,DARCY LEWIS,They even took my iPod.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+602,ERIK SELVIG,And your back-ups?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+603,JANE FOSTER,Look around! They took our back- ups. They took the back-ups of our back-ups.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+604,DARCY LEWIS,"I just downloaded, like, thirty songs on there. ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+605,JANE FOSTER,Will you please stop talking about your iPod?! Who are these people?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+606,ERIK SELVIG,"No one knows much about them. But I knew a scientist -- a pioneer in gamma radiation. SHIELD showed up, and he was never heard from again. ",Thor,2011,28,False,False,False,False,False,False,False,False,False,False,False
+607,JANE FOSTER,I'm not going to let them do this. I'm getting everything back.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+608,ERIK SELVIG,"Please, let me contact one of my colleagues. Dr. Pym has had some dealings with these people. I'll e- mail him and see if he can help. ",Thor,2011,28,False,False,False,False,False,False,False,False,False,False,False
+609,DARCY LEWIS,"They took your laptop, too.",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+610,ERIK SELVIG,I'll just be a minute.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+611,THOR,I need a horse.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+612,PET STORE CLERK,"Sorry, we don't sell horses. Just dogs, cats, birds. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+613,THOR,"Then give me one of those, large enough to ride.",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+614,JANE FOSTER,You still want a lift?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+615,LIBRARIAN,"""And though they're large, giants 
+can be quiet. You have to listen 
+carefully for the sound of their 
+footsteps -- because they may be 
+closer than you think.""",Thor,2011,28,False,False,False,False,False,False,False,False,False,False,False
+616,LIBRARIAN,"Joshua, come sit down. It's story time.",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+617,JANE FOSTER,I've never done anything like this before! Have you ever done anything like this before?,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+618,THOR,Many times. You're brave to do it.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+619,JANE FOSTER,They just stole my entire life's work. I really don't have anything left to lose.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+620,THOR,But you're clever. Far more clever than anyone else in this Realm.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+621,JANE FOSTER,"""This Realm?"" Why do you talk like that?",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+622,THOR,You think me strange?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+623,JANE FOSTER,Yeah. Just a little.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+624,THOR,Good strange or bad strange?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+625,JANE FOSTER,I'm not quite sure yet.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+626,JANE FOSTER,Sorry.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+627,JANE FOSTER,Who are you? Really?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+628,THOR,You'll see soon enough.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+629,JANE FOSTER,You promised me answers.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+630,THOR,What you seek -- it's a bridge.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+631,JANE FOSTER,A bridge? Like an Einstein-Rosen Bridge?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+632,THOR,More like a rainbow bridge.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+633,JANE FOSTER,"God, I hope you're not crazy.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+634,JANE FOSTER,"That isn't a satellite crash. They would have hauled the wreckage away, not built a city around it.",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+635,THOR,You're going to need this.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+636,JANE FOSTER,Why?--,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+637,THOR,"Stay here. Once I have Mjolnir, I will return what they stole from you.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+638,THOR,Deal?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+639,JANE FOSTER,"No! Look what's down there! You can't just walk in, grab our stuff, and walk out! ",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+640,THOR,No.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+641,THOR,I'm going to fly out.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+642,JANE FOSTER,Wait...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+643,TECHIE,Feed from the keyhole. Can barely penetrate the cloud cover.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+644,TECHIE,"Tech's barely working as it is, with all the interference that thing's giving off.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+645,TECHIE,"Hey, we've got a commercial aircraft coming in right over us, Southwest Airlines Flight 5434. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+646,JAPSER SITWELL,"Reroute it, like all the others. ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+647,TECHIE,Right. Can I get the passengers some free drinks for the trouble?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+648,TECHIE,It'd be a nice gesture.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+649,TECHIE,"Hold a sec... we got something outside the fence, west side...",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+650,JAPSER SITWELL,"DeLancey, Jackson -- check it out.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+651,AGENT JACKSON,Looks like we're good here. Must have been another coyote. ,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+652,AGENT DELANCEY,Jackson?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+653,JAPSER SITWELL,"DeLancey, Jackson -- report.",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+654,SHIELD AGENT,Agents down! We've got a perimeter breach!,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+655,JAPSER SITWELL,Get Coulson.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+656,ERIK SELVIG,You've reached Dr. Erik Selvig. Please leave me a message.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+657,JANE FOSTER,"Erik, okay, first of all, don't worry. I'm perfectly fine, really.",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+658,JANE FOSTER,"But if you don't hear from me again, you might want to come out to the crater site and look for me. I kind of did what you said I shouldn't do. Thanks. Bye.",Thor,2011,34,False,False,False,False,False,False,False,False,False,False,False
+659,PHIL COULSON,I want eyes up high. With a gun. Now!,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+660,PHIL COULSON,Barton. Talk to me.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+661,CLINT BARTON,"One shot, one kill, sir. Just give the word.",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+662,CLINT BARTON,"Hello, handsome.",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+663,THOR,You're big.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+664,THOR,Fought bigger.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+665,JANE FOSTER,No...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+666,PHIL COULSON,Barton...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+667,PHIL COULSON,...hold your fire.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+668,PHIL COULSON,"Ground units, move in. Show's over.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+669,JANE FOSTER,I can't just leave him there.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+670,ERIK SELVIG,Why not?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+671,JANE FOSTER,You didn't see what happened.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+672,DARCY LEWIS,Hey! Myeu-muh!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+673,JANE FOSTER,Where did you find this?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+674,ERIK SELVIG,In the children's section. I wanted to show you how ridiculous his story was.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+675,JANE FOSTER,"Aren't you the one who's always told me to chase down all leads, all possibilities? ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+676,ERIK SELVIG,"I was talking about science, not magic! ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+677,JANE FOSTER,Magic's just science we don't understand yet. Arthur C. Clarke.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+678,ERIK SELVIG,Who wrote science fiction.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+679,JANE FOSTER,The precursor of science fact.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+680,ERIK SELVIG,In some cases.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+681,JANE FOSTER,"If that's really an Einstein-Rosen Bridge out there, then there's something on the other side. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+682,JANE FOSTER,Advanced beings could have come through it before.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+683,ERIK SELVIG,Jane...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+684,DARCY LEWIS,A primitive culture like the Vikings might have worshipped them as deities.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+685,JANE FOSTER,Yes! Exactly! Thank you!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+686,ERIK SELVIG,"Jane, if you do this, you'll find yourself in a situation that I won't be able to get you out of this time. ",Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+687,DARCY LEWIS,I'll help you.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+688,PHIL COULSON,"It's not easy to do what you did. You made us all look like a bunch of mall cops. That's hurtful. The men you so easily subdued are highly-trained professionals, and in my experience, it takes someone who's received similar training to do what you did to them. Would you like to tell me where you received your training?",Thor,2011,59,False,False,False,False,False,False,False,False,False,False,False
+689,PHIL COULSON,"Pakistan? Chechnya? Afghanistan? Then again, you strike me more as the soldier of fortune type. What was it, South Africa?",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+690,PHIL COULSON,Certain groups pay well for a good mercenary. Especially HYDRA.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+691,PHIL COULSON,Who are you?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+692,THOR,Just a man.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+693,PHIL COULSON,"One way or another, we find out what we want to know. We're good at that.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+694,LOKI,I thought he'd never leave.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+695,THOR,Loki? What are you doing here?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+696,LOKI,I had to see you.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+697,THOR,What's happened? Tell me! Is it Jotunheim? Let me explain to FATHER--,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+698,LOKI,Father is dead.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+699,THOR,What?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+700,LOKI,"Your banishment, the threat of a new war, it was too much for him to bear.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+701,LOKI,"You mustn't blame yourself. I know that you loved him. I tried to tell him so, but he wouldn't listen. ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+702,LOKI,"It was cruel to put the hammer within your reach, knowing you could never lift it.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+703,LOKI,The burden of the throne has fallen to me now.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+704,THOR,Can I come home?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+705,LOKI,The truce with Jotunheim is conditional upon your exile.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+706,THOR,But couldn't we find a way to--,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+707,LOKI,Mother has forbidden your return.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+708,LOKI,"This is goodbye, brother. I'm so sorry. ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+709,THOR,"No, I'm sorry. Loki... thank you for coming here. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+710,LOKI,Nothing could have stopped me.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+711,LOKI,"Fare well, brother. ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+712,THOR,Good-bye.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+713,PHIL COULSON,Good-bye? I just got back.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+714,PHIL COULSON,Now. Where did we leave off?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+715,JAPSER SITWELL,Sir... he's got a visitor.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+716,PHIL COULSON,"""Donald Blake?""",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+717,ERIK SELVIG,Doctor Donald Blake. He's part of our team.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+718,PHIL COULSON,"You have dangerous coworkers, Dr. Selvig. ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+719,ERIK SELVIG,"Troubled, not dangerous. He was distraught when he found out that you'd taken all of our research. It was years of his life, gone! He got depressed, started drinking, and... well, you know the rest. ",Thor,2011,36,False,False,False,False,False,False,False,False,False,False,False
+720,PHIL COULSON,Uh-huh. You mind if we take a moment to verify his identity?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+721,ERIK SELVIG,Certainly.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+722,ERIK SELVIG,"You can understand how a man could go off like that. I mean, a big, faceless organization like yours, coming in with their jack-booted thugs and stealing private property... ...is how he described it. ",Thor,2011,35,False,False,False,False,False,False,False,False,False,False,False
+723,PHIL COULSON,That doesn't explain how he managed to tear through our security.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+724,ERIK SELVIG,Steroids. He's a bit of a fitness nut.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+725,PHIL COULSON,It says here he's an M.D.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+726,ERIK SELVIG,"He is. That is, he was. He switched careers and became a physicist. He's quite brilliant, really. If you would just release him to me, I promise to keep an eye on him.",Thor,2011,33,False,False,False,False,False,False,False,False,False,False,False
+727,PHIL COULSON,Release Dr. Blake to Dr. Selvig here.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+728,PHIL COULSON,Make sure he stays in town for the next few days in case we need to talk to him again.,Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+729,ERIK SELVIG,Thank you.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+730,ERIK SELVIG,"Donny, Donny, Donny! There you are!",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+731,ERIK SELVIG,"It's going to be all right, my friend. Come on, I'm taking you home.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+732,PHIL COULSON,Just keep him away from the bars.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+733,ERIK SELVIG,I will!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+734,THOR,Where are we going?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+735,ERIK SELVIG,To get a drink.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+736,PHIL COULSON,Follow them.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+737,LAUFEY,Tell me why I shouldn't kill you.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+738,LOKI,I've come alone and unarmed.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+739,LAUFEY,To what end?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+740,LOKI,To make you another proposition.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+741,LAUFEY,So you're the one who let us into Asgard.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+742,LOKI,You're welcome.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+743,LAUFEY,"My men are dead, and I have no Casket. You are a deceiver.",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+744,LOKI,You have no idea what I am.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+745,LOKI,"Hello, Father.",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+746,LAUFEY,"Ah, the bastard son. I thought Odin had killed you. That's what I would have done. He's as weak as you are. ",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+747,LOKI,"No longer weak. I now rule Asgard, until Odin awakens. Perhaps you should not have so carelessly abandoned me.",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+748,LAUFEY,Or perhaps it was the wisest choice I've ever made. I will hear you.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+749,LOKI,"I will conceal you and a handful of your soldiers, lead you into his chambers, and let you slay him where he lies. I'll keep the throne, and you will have the Casket.",Thor,2011,33,False,False,False,False,False,False,False,False,False,False,False
+750,LAUFEY,Why would you do this?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+751,LOKI,"When all is done, we will have a permanent peace between our two worlds. Then I, the bastard son, will have accomplished what Odin and Thor never could. ",Thor,2011,29,False,False,False,False,False,False,False,False,False,False,False
+752,LAUFEY,This is a great day for Jotunheim. Asgard is finally ours.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+753,LOKI,"No. Asgard is mine. The rest of the Nine Realms will be yours, if you do as you're told.",Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+754,LAUFEY,I accept.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+755,LOKI,"What troubles you, Gatekeeper? ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+756,HEIMDALL,"I turned my gaze upon you in Jotunheim, but could neither see nor hear you. You were shrouded from me, like the Frost Giants who entered this Realm. ",Thor,2011,29,False,False,False,False,False,False,False,False,False,False,False
+757,LOKI,Perhaps your senses have weakened after your many years of service.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+758,HEIMDALL,Or perhaps someone has found a way to hide that which he does not wish me to see.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+759,LOKI,"You have great power, Heimdall. Tell me, did Odin ever fear you? ",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+760,HEIMDALL,No.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+761,LOKI,And why is that?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+762,HEIMDALL,"Because he is my King, and I am sworn to obey him. ",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+763,LOKI,Exactly. Just as you're sworn to obey me now. Yes?,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+764,HEIMDALL,Yes.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+765,LOKI,Good. Then you will open the Bifrost to no one until I have undone what my brother has started.,Thor,2011,19,False,False,False,False,False,False,False,False,False,False,False
+766,ERIK SELVIG,"Seems Darcy's a terrible intern, but a talented hacker. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+767,THOR,Thank you for what you've done.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+768,ERIK SELVIG,Don't thank me. I only did it for Jane.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+769,THOR,Are you in love with her?,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+770,ERIK SELVIG,"Of course not! Jane's like a daughter to me. Her father and I taught at University together. A good man, but he never listened.",Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+771,THOR,Neither did I.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+772,ERIK SELVIG,"I don't know if you're really delusional, and I really don't care at this point. I just care about her. I've seen the way she looks at you. ",Thor,2011,29,False,False,False,False,False,False,False,False,False,False,False
+773,THOR,"I swear to you, I mean her no harm. ",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+774,ERIK SELVIG,"Good. If that's the case, then I'll buy you one more drink, and you'll leave town tonight.",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+775,THOR,I had it all backwards. I had it all wrong.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+776,ERIK SELVIG,"It's not a bad thing, finding out that you don't have all the answers. That's when you start asking the right questions.",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+777,THOR,"For the first time in my life, I have no idea what I'm supposed to do. ",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+778,ERIK SELVIG,Anyone who's ever going to find their way in this world has to start by admitting they don't know where the hell they are.,Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+779,DRUNK TOWNIE,"Hey, I know you, man...",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+780,DRUNK TOWNIE,You were in the diner with that hot girl.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+781,DRUNK TOWNIE,I wouldn't mind her doing a little research on me.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+782,THOR,I have no quarrel with you. But she's a lady. You should be more respectful.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+783,DRUNK TOWNIE,"And you should shut the hell up, princess.",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+784,THOR,I will not fight him.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+785,DRUNK TOWNIE,Then it'll be easy to kick your ass.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+786,ERIK SELVIG,"Gentlemen, please. Let's keep our heads.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+787,ERIK SELVIG,Another drink?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+788,THOR/SELVIG,"""The mood is good, our hearts are 
+full, there's magic in the air. / 
+It's all because we're here 
+tonight, and haven't got a care. / 
+So raise a glass, and toast to 
+life, wherever it may lead / Tra-la- 
+la, tra-la-la, a friend is fine 
+indeed. / Tra-la-la, tra-la-la, a 
+friend is fine indeed!""",Thor,2011,55,False,False,False,False,False,False,False,False,False,False,False
+789,JANE FOSTER,Erik! Is he all right?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+790,THOR,He's fine. Not injured at all.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+791,THOR,"Sorry, my friend. ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+792,JANE FOSTER,What happened?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+793,THOR,We drank. We fought. He made his ancestors proud.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+794,JANE FOSTER,Put him on the bed.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+795,ERIK SELVIG,I still don't believe you're the God of Thunder. But you ought to be.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+796,THOR,These are your chambers?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+797,JANE FOSTER,"Well, it's more of a temporary living space, really. I don't usually have visitors in here. Actually, never...",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+798,JANE FOSTER,Can we go outside?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+799,JANE FOSTER,"I come up here sometimes when I can't sleep. Or when I'm trying to reconcile particle data. Or when Darcy's driving me crazy. I come up here a lot, now that I think about it.",Thor,2011,35,False,False,False,False,False,False,False,False,False,False,False
+800,JANE FOSTER,I'm glad you're safe.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+801,THOR,You've been very kind. I've been far less grateful than you deserve.,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+802,JANE FOSTER,"I also hit you with my car a couple times, so it kind of evens out.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+803,JANE FOSTER,I don't believe it...,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+804,THOR,It was all I could get back. Not as much as I promised. I'm sorry.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+805,JANE FOSTER,"No, this is good. Thank you. This means I don't have to start from scratch...",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+806,THOR,What's wrong?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+807,JANE FOSTER,"SHIELD, whatever they are. They're never going to let this research see the light of day. ",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+808,THOR,You must do this. You must finish what you've started.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+809,JANE FOSTER,Why?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+810,THOR,Because you're right. It's taken so many generations for your people to get to this point. You're nearly there. You just need someone to show you how close you really are.,Thor,2011,31,False,False,False,False,False,False,False,False,False,False,False
+811,THOR,Look -- your ancestors called it magic. You call it science. I come from a place where they're one and the same thing.,Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+812,JANE FOSTER,What is it?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+813,THOR,"This is how my father explained it to me... Your world is one of the Nine Realms of the Cosmos, linked to each other by the branches of Yggdrasil, the Worlds Tree. Now, you see it every day, without realizing. Images glimpsed through - - what did you call it?... this Hubble Telescope. So, Nine Realms...",Thor,2011,56,False,False,False,False,False,False,False,False,False,False,False
+814,FANDRAL,"Our dearest friend banished, Loki on the throne, Asgard on the brink of war, yet you manage to consume four wild boar, six pheasant, a side of beef, and two casks of ale. Shame on you! Don't you care?!",Thor,2011,39,False,False,False,False,False,False,False,False,False,False,False
+815,VOLSTAGG,Do not mistake my appetite for apathy.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+816,SIF,"Stop it, both of you! We all know what we have to do, we're just too damned afraid to do it! ",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+817,HOGUN,We must go. We must find Thor.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+818,FANDRAL,"It's treason, Hogun. ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+819,VOLSTAGG,"To hell with treason, it's suicide. Now, shh! Heimdall may be watching! It's said he can hear-- ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+820,FANDRAL,"Yes, yes, we know! ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+821,SIF,Thor would do the same for us.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+822,EINHERJAR GUARD,Heimdall demands your presence.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+823,VOLSTAGG,We're doomed.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+824,ERIK SELVIG,I need some coffee.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+825,DARCY LEWIS,Thanks.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+826,THOR,You're very welcome.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+827,AGENT GARRETT,They want an update.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+828,AGENT CALE,Tell them he's eating eggs.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+829,AGENT GARRETT,Scrambled or fried?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+830,AGENT CALE,"Target is eating eggs, sir. We'll keep you posted.",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+831,THOR,May I have this?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+832,DARCY LEWIS,Sure.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+833,THOR,Thank you. Excuse me a moment.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+834,THOR,To replace the one I broke. Please forgive my behavior.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+835,ISABELA,Okay. Thank you.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+836,THOR,"If I may, I'd like to come back for more of your ""coffee.""",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+837,ISABELA,Any time.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+838,ISABELA,She could do worse.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+839,VOLSTAGG,"Good Heimdall, less us explain-- ",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+840,HEIMDALL,"You would defy the commands of Loki our King, break every oath you have taken as warriors, and commit treason to bring Thor back? ",Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+841,SIF,"Yes, but-- ",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+842,HEIMDALL,Good.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+843,VOLSTAGG,So you'll help us?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+844,HEIMDALL,I am bound by honor to our King. I cannot open the Bifrost to you.,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+845,FANDRAL,"Complicated fellow, isn't he? ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+846,VOLSTAGG,Now what do we do?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+847,SIF,Look!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+848,PHIL COULSON,What the hell was that?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+849,TECHIE,"I don't know, sir. We got massive energy readings out of nowhere, then they just disappeared. Fifteen miles due northwest. ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+850,PHIL COULSON,Let's go take a look.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+851,VOLSTAGG,He must have landed nearby. It's time to put our tracking skills to work. Spread out. Check the sand for indentations of his boot prints.,Thor,2011,25,False,False,False,False,False,False,False,False,False,False,False
+852,FANDRAL,The winds would have blown them away by now. We should look for signs of a campfire.,Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+853,SIF,Or we could just start there.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+854,FANDRAL,"It's worth a look, I suppose.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+855,VOLSTAGG,"There you go, lad!",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+856,VOLSTAGG,"Is it just me, or does Earth look a little different to you? ",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+857,SIF,It has been a thousand years...,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+858,VOLSTAGG,"Things change so fast here. You leave for a millennium, and it's like the whole neighborhood's gone.",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+859,VOLSTAGG,Perhaps we should split up.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+860,AGENT GARRETT,Is there a Renaissance Faire in town?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+861,AGENT CALE,Call it in.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+862,VOLSTAGG,Never cared for spies.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+863,VOLSTAGG,Exquisite.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+864,EINHERJAR GUARD,"My liege, the Warriors Three and the Lady Sif have gone missing.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+865,HEIMDALL,"Tell me, Loki, how did you get the Jotuns into Asgard? ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+866,LOKI,"You think the Bifrost is the only way in and out of the Realm? There are secret paths between worlds to which even you with all your gifts are blind. But I have need of them no longer, now that I am King. And I say, for your act of treason, you are relieved of your duties as Gatekeeper. And you are no longer a citizen of Asgard. ",Thor,2011,69,False,False,False,False,False,False,False,False,False,False,False
+867,HEIMDALL,Then I need no longer obey you.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+868,LOKI,Ensure my brother does not return.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+869,VOLSTAGG,Found you!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+870,THOR,My friends!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+871,ERIK SELVIG,I don't believe it...,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+872,DARCY LEWIS,Who are they?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+873,VOLSTAGG,"Lady Sif and the Warriors Three. Surely you've heard tales of Hogun the Grim, Fandral the Dashing, and I, Volstagg the Svelte?",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+874,VOLSTAGG,"Well, perhaps I've put on a little more muscle since I was here last. ",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+875,JANE FOSTER,That would have been a thousand years ago? Northern Europe?,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+876,VOLSTAGG,Exactly! Those lovely herring people. They worshipped us!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+877,THOR,"My friends, I've never been happier to see anyone. But you should not have come. ",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+878,FANDRAL,We're here to take you home.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+879,THOR,You know I can't. My father is dead because of me. I must remain in exile.,Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+880,SIF,Thor... your father still lives.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+881,PHIL COULSON,Get somebody from Linguistics out here.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+882,DARCY LEWIS,Was somebody else coming?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+883,SHIELD AGENT,Is that one of Stark's?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+884,PHIL COULSON,I don't think so. But the guy doesn't tell me anything.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+885,PHIL COULSON,Hello! You're using unregistered weapons technology. Please identify yourself.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+886,PHIL COULSON,Incoming!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+887,THOR,Leave this town now. Get yourself and your friends to safety.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+888,JANE FOSTER,What about you?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+889,THOR,I must stay and fight.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+890,THOR,"I'm still a warrior, and I will fight by your side. ",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+891,VOLSTAGG,You're but a mortal now. You'll get yourself killed!,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+892,FANDRAL,"Or one of us, trying to protect you. ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+893,SIF,The best thing you can do is get the mortals to safety and leave the battle to us.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+894,THOR,You're right.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+895,THOR,Help me clear the streets. I'll let none of these people die this day.,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+896,LOKI,Father. Welcome to Asgard.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+897,SIF,Keep him distracted.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+898,FANDRAL,"What do you think? ""The Svartalfheim Twist?"" ""Kiss of the Hag?"" ""Face Full of Boot?""",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+899,VOLSTAGG,"""The Flying Mountain."" ",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+900,FANDRAL,"Not ""The Flying Mountain!"" It threw out my back for a year last time! ",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+901,VOLSTAGG,"Trust me, it'll work.",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+902,THOR,"My friends fight bravely, but they won't be able to hold it back much longer.",Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+903,FANDRAL,Come on!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+904,VOLSTAGG,For Asgaaaaard!!!,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+905,JANE FOSTER,Erik!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+906,ERIK SELVIG,Go! Leave me!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+907,THOR,Come on... give me one!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+908,JANE FOSTER,What are you doing? What is that?,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+909,ERIK SELVIG,I'm really starting to like him.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+910,THOR,"Go, while you can! ",Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+911,SIF,But the others...,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+912,THOR,You can't help them now. Your job is to survive.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+913,SIF,No! I will die a warrior's death. Stories will be told of this day--,Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+914,THOR,Live and tell those stories yourself.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+915,THOR,Get him out of here!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+916,FANDRAL,No. We can still fight!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+917,THOR,"But not win. Move Volstagg, or he'll die!",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+918,THOR,"Don't worry, my friends. I have a plan.",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+919,THOR,"Brother... for whatever I have done to wrong you, whatever I have done to lead you to do this, I am sorry. But these people have done nothing to you. They are innocents.",Thor,2011,33,False,False,False,False,False,False,False,False,False,False,False
+920,THOR,"Take my life, and know I will never return to Asgard.",Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+921,ERIK SELVIG,"Jane, no!",Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+922,JANE FOSTER,Oh. My. God.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+923,PHIL COULSON,Donald... I don't think you've been completely honest with me.,Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+924,DARCY LEWIS,"So, how can you speak our language? ",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+925,VOLSTAGG,"Your language? Ha! Silly girl, you're speaking ours.",Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+926,THOR,Heimdall! Open the Bifrost!,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+927,THOR,He would open it if he could. I fear the worst.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+928,VOLSTAGG,Then we're trapped here forever.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+929,FANDRAL,Then I suppose we'd best start settling into our new lives.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+930,FANDRAL,Are all earth maidens as fair as you?,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+931,DARCY LEWIS,No.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+932,THOR,Heimdall!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+933,VOLSTAGG,"Primitive. Good enough for hunting small game, I suppose.",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+934,FANDRAL,"Sorry, my love. These things happen.",Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+935,THOR,"Know this, son of Coul. You and I, we fight for the same cause -- the protection of this world. From this day forward, count me as your ally. If you return the items you have stolen from Jane Foster. ",Thor,2011,41,False,False,False,False,False,False,False,False,False,False,False
+936,PHIL COULSON,Not stolen. Borrowed.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+937,PHIL COULSON,"You'll get your equipment back. You're going to need it to continue your research... which, after today's events, SHIELD would like to fully sponsor. If that's all right with you.",Thor,2011,30,False,False,False,False,False,False,False,False,False,False,False
+938,THOR,"Whatever fate lies before me, you are part of it.",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+939,THOR,Get him to the healing room! Leave my brother to me.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+940,LAUFEY,"It's said you can still see and hear what transpires around you, even in this state. I hope it's true, so that you may know your death came by the hand of Laufey.",Thor,2011,33,False,False,False,False,False,False,False,False,False,False,False
+941,LOKI,And your death came by the son of Odin.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+942,LOKI,"I swear to you, mother, they will pay for what they've done today. I will end the Jotun threat, now and forever!",Thor,2011,22,False,False,False,False,False,False,False,False,False,False,False
+943,LOKI,And I will make you proud.,Thor,2011,6,False,False,False,False,False,False,False,False,False,False,False
+944,FRIGGA,Thor!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+945,LOKI,"Found its way back to you, did it? ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+946,THOR,No thanks to you.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+947,FRIGGA,What?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+948,THOR,Why don't you tell her? How you sent the Destroyer to kill our friends? To kill me?,Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+949,LOKI,It must have been enforcing Father's last command.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+950,THOR,"You're a talented liar, brother. Always have been. ",Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+951,LOKI,"It's good to have you back. Now, if you'll excuse me, I need to destroy Jotunheim.",Thor,2011,16,False,False,False,False,False,False,False,False,False,False,False
+952,THOR,Jotunheim...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+953,LOKI,"All these years, and no one's ever dared to use it as a weapon.",Thor,2011,14,False,False,False,False,False,False,False,False,False,False,False
+954,LOKI,You can't stop it. The Bifrost will build until it rips Jotunheim apart.,Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+955,THOR,Why have you done this?,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+956,LOKI,"To do what Father never could. To destroy their kind forever. When he awakens, he'll see the wisdom of what I've done. ",Thor,2011,23,False,False,False,False,False,False,False,False,False,False,False
+957,THOR,He won't! You can't kill an entire race!,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+958,LOKI,"What is this newfound love for the Frost Giants? You, who would have killed them all with your bare hands. ",Thor,2011,21,False,False,False,False,False,False,False,False,False,False,False
+959,THOR,I've changed.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+960,LOKI,So have I.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+961,LOKI,Fight me.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+962,THOR,Is the throne really worth what you've done? What you would become?,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+963,LOKI,I never wanted the throne. I only wanted to be your equal. Now fight me!,Thor,2011,15,False,False,False,False,False,False,False,False,False,False,False
+964,THOR,"I will not fight you, brother. ",Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+965,LOKI,I am not your brother. I never was.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+966,THOR,"Loki, this is madness...",Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+967,LOKI,Is it?,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+968,LOKI,What happened to you on earth that turned you so soft? Don't tell me it was a woman.,Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+969,LOKI,It was.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+970,ERIK SELVIG,Jane?,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+971,JANE FOSTER,Something's wrong.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+972,LOKI,"If you care so much for the Jotuns, then die with them.",Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+973,LOKI,Thor! Help me!,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+974,LOKI,Please...,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+975,LOKI,I was always more clever than you.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+976,THOR,Yet still not clever enough.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+977,LOKI,"Look at you, the Mighty Thor. With all your strength, what good does it do you now?",Thor,2011,17,False,False,False,False,False,False,False,False,False,False,False
+978,LOKI,Stop! What are you doing?!,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+979,LOKI,"If you destroy the Bridge, you'll never see her again!",Thor,2011,10,False,False,False,False,False,False,False,False,False,False,False
+980,THOR,Forgive me.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+981,THOR,No!,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+982,ODIN,It is over.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+983,JANE FOSTER,It's gone.,Thor,2011,2,False,False,False,False,False,False,False,False,False,False,False
+984,VOLSTAGG,"...and then, with a mighty bellow, I flew at the great metal beast and laid it low... ",Thor,2011,18,False,False,False,False,False,False,False,False,False,False,False
+985,FANDRAL,Is that another way of saying you fell on your huge a--,Thor,2011,12,False,False,False,False,False,False,False,False,False,False,False
+986,VOLSTAGG,"As a matter of fact, falling down was a tactic. Lulling the Destroyer into a false sense of security! ",Thor,2011,20,False,False,False,False,False,False,False,False,False,False,False
+987,FANDRAL,"Well, I was the one who had to drag your enormous carcass off the battlefield. That makes me the real hero. Doesn't it, Hogun?",Thor,2011,24,False,False,False,False,False,False,False,False,False,False,False
+988,HOGUN,Big stomach. Big mouth.,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+989,FANDRAL,"Well, how about that? A smile! I'd say that calls for another drink!",Thor,2011,13,False,False,False,False,False,False,False,False,False,False,False
+990,SIF,My Queen. I am so sorry for your loss.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+991,FRIGGA,"Thank you, Sif.",Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+992,FRIGGA,How is he?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+993,SIF,He mourns for his brother. And he misses her. The mortal.,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+994,FRIGGA,He will need his friends now more than ever.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
+995,SIF,I will always be at his side.,Thor,2011,7,False,False,False,False,False,False,False,False,False,False,False
+996,ODIN,You'll be a wise King.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+997,THOR,"There will never be a wiser king than you. Or a better father. I have much to learn. I know that now. But some day, perhaps, I will make you proud. ",Thor,2011,32,False,False,False,False,False,False,False,False,False,False,False
+998,ODIN,You've already made me proud.,Thor,2011,5,False,False,False,False,False,False,False,False,False,False,False
+999,THOR,Can you see her?,Thor,2011,4,False,False,False,False,False,False,False,False,False,False,False
+1000,HEIMDALL,Yes.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+1001,THOR,How is she?,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+1002,DARCY LEWIS,Here you go.,Thor,2011,3,False,False,False,False,False,False,False,False,False,False,False
+1003,JANE FOSTER,Thanks.,Thor,2011,1,False,False,False,False,False,False,False,False,False,False,False
+1004,DARCY LEWIS,He would have come back if he could.,Thor,2011,8,False,False,False,False,False,False,False,False,False,False,False
+1005,JANE FOSTER,I know. But if he can't get here on his own...,Thor,2011,11,False,False,False,False,False,False,False,False,False,False,False
+1006,JANE FOSTER,...maybe we can help him find his way back.,Thor,2011,9,False,False,False,False,False,False,False,False,False,False,False
