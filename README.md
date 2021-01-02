@@ -20,22 +20,34 @@ This dataset uses a combination of original scripts and transcripts from the MCU
 
 If you spot a mistake in the dataset, please let me know so I can correct it.
 
+### Movies Included
+
 | Movie                               | Year | Is Transcript | Lines | Source Link | Issues |
 | ----------------------------------- | ---- | ------------- | ----- | ----------- | ------ |
-| Iron Man                            | 2008 | ❌            | 834  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
-| Iron Man 2                          | 2010 | ✔️            | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
-| Thor                                | 2011 | ❌            | 1007 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-2011.pdf) |
-| Captain America: The First Avenger  | 2011 | ✔️            | 688  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) | Not proofread |
-| The Avengers                        | 2012 | ❌            | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) |
-| Iron Man 3                          | 2013 | ✔️            | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) | Not proofread |
-| Thor: The Dark World                | 2013 | ✔️            | 734  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Thor:_The_Dark_World) | Not proofread, transcript duplication |
-| Captain America: The Winter Soldier | 2014 | ✔️            | 841  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_Winter_Soldier) | Not proofread |
-| Avengers: Age of Ultron             | 2015 | ✔️            | 980  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) | Not proofread |
-| Ant-Man                             | 2015 | ✔️            | 867  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Ant-Man) | Not proofread |
-| Captain America: Civil War          | 2016 | ✔️            | 987  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) | Not proofread |
-| Thor: Ragnorak                      | 2017 | ❌            | 961  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
-| Guardians of the Galaxy Vol. 2      | 2017 | ❌            | 993  | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) | |
-| Spider-Man: Homecoming              | 2017 | ✔️            | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) | Not proofread |
-| Avengers: Infinity War              | 2018 | ✔️            | 990  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
-| Avengers: Endgame                   | 2019 | ❌            | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
-| Captain Marvel                      | 2019 | ✔️            | 775  | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_Marvel_(2019)) | Not proofread |
+| [Iron Man](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/iron_man.csv) | 2008 | ❌ | 834 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
+| [Iron Man 2](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/iron_man_2.csv) | 2010 | ✔️ | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
+| [Thor](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/thor.csv) | 2011 | ❌ | 1007 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-2011.pdf) |
+| [Captain America: The First Avenger](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/captain_america.csv) | 2011 | ✔️ | 688 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_First_Avenger) | Not proofread |
+| [The Avengers](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/avengers.csv) | 2012 | ❌ | 1027 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/the-avengers-2012.pdf) |
+| [Iron Man 3](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/iron_man_3.csv) | 2013 | ✔️ | 1043 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_3) | Not proofread |
+| [Thor: The Dark World](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/thor_dark_world.csv) | 2013 | ✔️ | 734 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Thor:_The_Dark_World) | Not proofread, transcript duplication |
+| [Captain America: The Winter Soldier](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/winter_soldier.csv) | 2014 | ✔️ | 841 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_The_Winter_Soldier) | Not proofread |
+| [Avengers: Age of Ultron](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/age_of_ultron.csv) | 2015 | ✔️ | 980 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) | Not proofread |
+| [Ant Man](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/ant_man.csv) | 2015 | ✔️ | 867 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Ant-Man) | Not proofread |
+| [Captain America: Civil War](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/civil_war.csv) | 2016 | ✔️ | 987 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) | Not proofread |
+| [Thor: Ragnorak](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/ragnorak.csv) | 2017 | ❌ | 961 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
+| [Guardians of the Galaxy: Vol 2](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/guardians_2.csv) | 2017 | ❌ | 993 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) | |
+| [Spider-Man: Homecoming](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/spider_man_homecoming.csv) | 2017 | ✔️ | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) | Not proofread |
+| [Black Panther](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/black_panther.csv) | 2018 | ❌ | 834 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/black-panther-2018.pdf) |
+| [Avengers: Infinity War](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/infinity_war.csv) | 2018 | ✔️ | 990 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Infinity_War) |
+| [Captain Marvel](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/captain_marvel.csv) | 2019 | ✔️ | 775 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_Marvel_(2019)) | Not proofread |
+| [Avengers: Endgame](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/avengers_endgame.csv) | 2019 | ❌ | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
+
+### Movies not included
+| Movie                               | Year | Source Link | Issues |
+| ------------------------- | ---- | ----------- | ------ |
+| The Incredible Hulk       | 2008 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/The_Incredible_Hulk) | Poor / messy transcript |
+| Guardians of the Galaxy   | 2014 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Guardians_of_the_Galaxy) | Poor / messy transcript |
+| Doctor Strange            | 2016 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Doctor_Strange) | Poor / messy transcript |
+| Ant-Man and the Wasp      | 2018 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Ant-Man_and_the_Wasp) | Incomplete transcript |
+| Spider-Man: Far From Home | 2019 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Far_From_Home) | Incomplete transcript |
