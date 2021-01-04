@@ -22,7 +22,7 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 
 ### Movies Included
 
-| Movie                               | Year | Is Transcript | Lines | Source Link | Issues |
+| Movie                               | Year | Is Transcript | Lines | Source Link | CSV Issues |
 | ----------------------------------- | ---- | ------------- | ----- | ----------- | ------ |
 | [Iron Man](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/iron_man.csv) | 2008 | ❌ | 834 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/iron-man-2008.pdf) |
 | [Iron Man 2](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/iron_man_2.csv) | 2010 | ✔️ | 1010 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Iron_Man_2) | Not proofread |
@@ -35,7 +35,7 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 | [Avengers: Age of Ultron](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/age_of_ultron.csv) | 2015 | ✔️ | 980 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Avengers:_Age_of_Ultron) | Not proofread |
 | [Ant Man](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/ant_man.csv) | 2015 | ✔️ | 867 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Ant-Man) | Not proofread |
 | [Captain America: Civil War](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/civil_war.csv) | 2016 | ✔️ | 987 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Captain_America:_Civil_War) | Not proofread |
-| [Thor: Ragnorak](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/ragnorak.csv) | 2017 | ❌ | 961 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
+| [Thor: Ragnarok](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/ragnorak.csv) | 2017 | ❌ | 961 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/thor-ragnorak-2017.pdf) |
 | [Guardians of the Galaxy: Vol 2](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/guardians_2.csv) | 2017 | ❌ | 993 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/guardians-of-the-galaxy-vol-2-2017.pdf) | |
 | [Spider-Man: Homecoming](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/spider_man_homecoming.csv) | 2017 | ✔️ | 1558 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Homecoming) | Not proofread |
 | [Black Panther](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/black_panther.csv) | 2018 | ❌ | 834 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/black-panther-2018.pdf) |
@@ -44,10 +44,18 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 | [Avengers: Endgame](https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/cleaned/avengers_endgame.csv) | 2019 | ❌ | 1229 | [Script Slug](https://www.scriptslug.com/assets/uploads/scripts/avengers-endgame-2019.pdf) |
 
 ### Movies not included
-| Movie                               | Year | Source Link | Issues |
+| Movie                               | Year | Source Link | Transcript Issues |
 | ------------------------- | ---- | ----------- | ------ |
 | The Incredible Hulk       | 2008 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/The_Incredible_Hulk) | Poor / messy transcript |
 | Guardians of the Galaxy   | 2014 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Guardians_of_the_Galaxy) | Poor / messy transcript |
 | Doctor Strange            | 2016 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Doctor_Strange) | Poor / messy transcript |
 | Ant-Man and the Wasp      | 2018 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Ant-Man_and_the_Wasp) | Incomplete transcript |
 | Spider-Man: Far From Home | 2019 | [Fandom's Transcripts Wiki](https://transcripts.fandom.com/wiki/Spider-Man:_Far_From_Home) | Incomplete transcript |
+
+## Libaries Used
+- numpy
+- pandas
+- sklearn
+- nltk
+- matplotlib
+- seaborn
