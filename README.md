@@ -59,3 +59,4 @@ If you spot a mistake in the dataset, please let me know so I can correct it.
 - nltk
 - matplotlib
 - seaborn
+- statsmodels
