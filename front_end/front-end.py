@@ -10,14 +10,15 @@ from sklearn.feature_extraction.text import CountVectorizer
 from nltk.stem import SnowballStemmer
 
 CHARACTER_IMAGE_PATHS = {"TONY STARK": "./images/tony-stark.png",
-                         "ROCKET": "./images/rocket-raccoon.png",
                          "BRUCE BANNER": "./images/bruce-banner.png",
                          "PEPPER POTTS": "./images/pepper-potts.png",
-                         "NATASHA": "./images/natasha.png",
+                         "NATASHA ROMANOFF": "./images/natasha.png",
                          "LOKI": "./images/loki.png",
-                         "PETER QUILL": "./images/peter-quill.png",
                          "STEVE ROGERS": "./images/steve-rogers.png",
-                         "THOR": "./images/thor.png"}
+                         "THOR": "./images/thor.png",
+                         "NICK FURY": "./images/nick-fury.png",
+                         "PETER PARKER": "./images/peter-parker.png",
+                         "JAMES RHODES": "./images/james-rhodes.png"}
 
 class StemCountVectorizer(CountVectorizer):
     def build_analyzer(self):
@@ -71,8 +72,8 @@ class Application():
         st.latex("cell(row, column)=p(character|word)")
         st.text("The final column represents the probability our model predicts a character given the\n"
                 "entire input string together.  The largest value in this column is our model's\n"
-                "prediction.  Some words like 'I' and 'a' are removed because they don't provide any\n"
-                "useful information to the model.")
+                "prediction.  One character words like 'I' and 'a' are removed because they don't provide\n"
+                "any useful information to the model.")
         st.text("By clicking on the names of the columns, you can sort the table and see which\n"
                 "character is most likely to say a word.")
 
@@ -162,10 +163,8 @@ class Application():
         st.subheader("Accuracy by Character (Recall)")
         st.text("Given a line we'd like to predict from a given character, here's how often we can expect\n"
                 "our model to be correct.")
-        recalls = pd.DataFrame(np.diagonal(normalized_conf_matrix.to_numpy()), index=main_characters, columns=["accuracy (%)"])
-        recalls *= 100
-        recalls.sort_values(by="accuracy (%)", ascending=False, inplace=True)
-        recalls.loc['mean'] = recalls.mean()
+        recalls = pd.read_csv("./production_recalls.csv")
+        recalls.set_index("Unnamed: 0", drop=True, inplace=True)
         st.dataframe(recalls)
 
         st.subheader("Model's Balanced Accuracy: {0:.3%}".format(metrics.balanced_accuracy_score(y, yhat)))
