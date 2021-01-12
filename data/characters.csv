@@ -1,10 +1,10 @@
 character,Ant-Man,Avengers: Age of Ultron,Avengers: Endgame,Avengers: Infinity War,Black Panther,Captain America: Civil War,Captain America: The First Avenger,Captain America: The Winter Soldier,Captain Marvel,Guardians of the Galaxy Vol. 2,Iron Man,Iron Man 2,Iron Man 3,Spider-Man: Homecoming,The Avengers,Thor,Thor: Ragnarok,Thor: The Dark World,total lines,total words,movie appearances,avg words per line,avg lines per movie
-TONY STARK,0,173,137,119,0,165,0,0,0,0,251,335,358,74,152,0,0,0,1787,22603,9,12,198
+TONY STARK,0,173,137,119,0,165,0,0,0,0,252,335,358,74,152,0,0,0,1788,22590,9,12,198
 STEVE ROGERS,3,133,119,25,0,154,186,218,3,0,0,0,0,7,121,0,0,0,977,8653,10,8,97
 THOR,0,55,70,74,0,0,0,0,0,0,0,0,0,0,47,166,289,133,863,9487,7,10,123
 PETER PARKER,0,0,7,39,0,73,0,0,0,0,0,0,0,402,0,0,0,0,551,5517,4,10,137
 NATASHA ROMANOFF,1,79,69,15,0,64,0,112,3,0,0,55,0,0,97,0,1,0,498,4689,10,9,49
-PEPPER POTTS,0,0,15,21,0,0,0,0,0,0,113,157,88,7,29,0,0,0,441,3479,7,7,63
+PEPPER POTTS,0,0,15,21,0,0,0,0,0,0,114,157,88,7,29,0,0,0,442,3492,7,7,63
 BRUCE BANNER,0,83,93,45,0,0,0,0,2,0,0,0,7,0,84,0,62,0,379,3840,7,10,54
 NICK FURY,0,26,0,7,0,0,5,68,120,0,0,28,0,0,109,0,0,0,366,4524,7,12,52
 LOKI,0,0,1,6,0,0,0,0,0,0,0,0,0,0,68,91,74,76,327,4097,6,12,54

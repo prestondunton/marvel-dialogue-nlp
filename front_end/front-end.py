@@ -36,7 +36,7 @@ class Application():
         self.input_string = None
         self.model = load('./production_model.joblib')
         self.model_predictions = load('./production_predictions.joblib')
-        self.character_correlations = load('./character_correlations.joblib')
+        self.character_similarity = load('./character_similarity.joblib')
         self.main_characters = self.model_predictions["true character"].value_counts().index.to_numpy()
 
         self.prediction = None
@@ -139,31 +139,36 @@ class Application():
         
         
         st.subheader("Implementation Details")
-        st.markdown('<p class="text">This project uses <a href="https://scikit-learn.org/stable/" target="_blank">scikit-learn</a> to implement a <a href="https://www.youtube.com/watch?v=O2L2Uv9pdDA" target="_blank">Naive Bayes Classifier</a>.  Hyperparameter\n'
+        st.markdown('<p class="text">This project uses <a href="https://scikit-learn.org/stable/" target="_blank">scikit-learn</a> to implement a <a href="https://en.wikipedia.org/wiki/Naive_Bayes_classifier" target="_blank">Naive Bayes Classifier</a>.  Hyperparameter\n'
                     'selection is done using cross validation (5 folds).  The model is also evaluated using\n'
-                    'cross validation (5 folds).  With hyperparameter selection, this results in nested cross\n'
+                    'cross validation (100 folds).  With hyperparameter selection, this results in nested cross\n'
                     'validation.  Stop words, which are words that provide no value to predictions (I, you,\n'
                     'the, a, an, ...), are not removed from predictions.  Hyperparameter selection showed\n'
                     'better performance keeping all words rather than removing <a href="https://www.geeksforgeeks.org/removing-stop-words-nltk-python/" target="_blank">NLTK\'s list of stop words</a>.\n'
                     'Words are stemmed using <a href="https://www.nltk.org/_modules/nltk/stem/snowball.html" target="_blank">NLTK\'s SnowballStemmer</a>.  Word counts are also transformed into\n'
                     'term frequencies using scikit-learn\'s implementation.</p>', unsafe_allow_html=True)
-        st.markdown('<p class="text">To see the code for the model, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a></p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see the code for the model, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
         
         st.subheader("Dataset Details")
         st.markdown('<p class="text">The dataset used was created for this project by parsing the Marvel released script /\n'
                     'online transcript for 18 movies.  See the <a href="https://github.com/prestondunton/marvel-dialogue-nlp" target="_blank">repository\'s README.md</a> for a table of which\n'
-                    'movies are included and which are not, as well as more details.</p>', unsafe_allow_html=True)
+                    'movies are included and which are not, as well as more details.  If you spot an error\n'
+                    'in the data, please contact me so I can fix it.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see an in depth analysis of the dataset, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Dataset%20Analysis.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
         
         st.subheader("Why these characters?")
         st.markdown("<p class='text'>While the dataset contains the dialogue for all 652 character, most of which are just\n"
                 "movie extras, trying to predict a large number of characters results in such poor\n"
                 "performance that the model isn't useful or fun in any way.  The ten characters\n"
                 "used are the top ten characters by number of lines in the dataset, number of words\n"
-                "in the dataset, and number of movie appearances.  See <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb' target='_blank'>this Jupyter Notebook</a> for details\n"
-                    "on this dataset's creation and the calculations used to select these characters.</p>", unsafe_allow_html=True)
+                "in the dataset, and number of movie appearances.</p>", unsafe_allow_html=True)
+        st.markdown('<p class="text">For details on this dataset\'s creation and the calculations used to select these\n'
+                    'characters, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
 
     def render_model_performance(self):
         st.header("Model Performance")
+        
+        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a></p>', unsafe_allow_html=True)
 
         self.render_confusion_matrix()
         self.render_recalls()
@@ -181,13 +186,19 @@ class Application():
                 "of the words is ignored.  By using a Word Embeddings model, which does not ignore the\n"
                 "order of words, accuracy could possibly be increased.  Deep learning also might have\n"
                 "success on this dataset.")
-        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a></p>', unsafe_allow_html=True)
         
     def render_confusion_matrix(self):
         y = self.model_predictions['true character']
         yhat = self.model_predictions['predicted character']
 
         st.subheader("Confusion Matrix")
+        
+        st.text("The plot below summarizes the predictions of our model.  Each cell represents the\n"
+                "proportion of all of a true character's examples that are predicted as a character.\n"
+                "In other words, each row adds up to 1.0, and the cells can be seen as what percent of\n"
+                "examples are predicted as a given character.")
+        st.text("The diagonal elements represent examples that our model correctly predicts, as well as\n"
+                "the recall for that character.")
 
         conf_matrix = pd.DataFrame(metrics.confusion_matrix(y, yhat, labels=self.main_characters))
         normalized_conf_matrix = conf_matrix.div(conf_matrix.sum(axis=1), axis=0)
@@ -213,7 +224,10 @@ class Application():
         
     def render_accuracy_by_words(self):
         
-        st.subheader("Accuracy Vs. Words")
+        st.subheader("Performance Vs. Words")
+        
+        st.text("Do examples with more words (longer examples) get classified correctly more often?\n"
+                "Let's do a linear regression test.")
         
         def abline(intercept, slope, col):
             """Plot a line from slope and intercept"""
@@ -249,24 +263,91 @@ class Application():
         plt.ylabel('accuracy')
         
         st.pyplot(fig)
+        
+        st.markdown("<p class=\"text\">Using a t test and a confidence level of 95% (α=0.05), we <text class=\"text\" style=\"font-weight: bold\">reject</text> the null hypothesis that\n"
+                    "there is no relationship between the number of words in an example and our model's\n"
+                    "performance on it (t=10.871, p&lt0.001).</p>", unsafe_allow_html=True)
+
+        st.text("Having a longer line means that the change of a correct prediction increases.")
 
     def render_model_insights(self):
         st.header("MCU Insights")
         
-        st.subheader("Character Correlation")
+        st.markdown('<p class="text">For the code used to infer these insights, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+        
+        st.subheader("Character Similarity")
+        st.text("The similarity score used here is the dot product between the unit word count vectors of\n"
+                "every word a character has ever said.  To get this score, we just count how many times a\n"
+                "character has said every word, divide the vector by it's norm, and then do a dot product\n"
+                "with another character's vector.")
+        st.text("It should be noted that the confusion matrix above could also be interpreted as a measure\n"
+                "of similarity.  Characters who are easily confused with each other could be seen as\n"
+                "similar.  For example, Thor and Loki are easily confused with each other by the model,\n"
+                "which makes sense because they are both Asgardian.")
         
         fig = plt.figure(figsize=(2, 2))
         fig, ax = plt.subplots()
-        ax = sns.heatmap(self.character_correlations, annot=True, fmt='.2f', cmap=plt.cm.Reds)
+        ax = sns.heatmap(self.character_similarity, annot=True, fmt='.2f', cmap=plt.cm.Reds)
 
         st.pyplot(fig)
+        
+        st.markdown('<p class="text" style="font-weight: bold;">Why are these similarity scores so high?</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">The characters are most likely so similar with each other because they are all speaking\n'
+                    'English, which like any language, is very structured and systematic.  According to <a href="https://www.youtube.com/watch?v=fCn8zs912OE" target="_blank">Michael\n'
+                    'Steven\'s discussion</a> of Zipf\'s Law and the Pareto Distribution, the top 20% of words (words\n'
+                    'like "the" "I" "he" "she") make up approximately 80% of all speech.</p>', unsafe_allow_html=True)  
+
+        st.markdown('<p class="text" style="font-weight: bold;">Why is Peter Parker so unique compared to the other characters?</p>', unsafe_allow_html=True)
+        
+        st.text("Peter Parker only has 4 movie appearances, which is less than all the other characters\n"
+                "(9, 10, 7, 10, 7, 7, 7, 6, 8).  However, this doesn't seem to have an effect on the mean,\n"
+                "sum, and standard deviation of his word count vector. These statistics do not seem to be\n"
+                "out of the ordinary compared to the other characters.  Furthermore, Peter Parker does not\n"
+                "seem to have an unusual vocabulary size or number of words unique to himself.  ")
+
+        st.text("Another hypothesis on why Peter Parker is so unique is his age.  He is much younger than\n"
+                "all the other characters used, and therefore might talk about different topics, like high\n"
+                "school (homecoming, field trips, homework, ...).")
+
+        st.text("Finally, Peter Parker might be so unique because he's not part of the larger Avengers\n"
+                "team.  The \"friendly neighborhood Spider-Man\" deals with much smaller problems than\n"
+                "the other Avengers.  For example, the Avengers team might be more likely to deal with\n"
+                "governments, aliens, SHIELD, and large scale enemies than Peter.  One counter argument to\n"
+                "this hypothesis is Pepper Potts, who is also not part of the Avengers team and also has\n"
+                "high similarity with the other characters.  However, her close interaction with Tony\n"
+                "Stark might make her discuss these same issues when she speaks.  More evidence for this\n"
+                "can be seen in the confusion matrix / recalls.  Peter Parker performs the highest out of\n"
+                "any of the characters, which suggests that his dialogue style is the most identifiable\n"
+                "or unique.")
+
+        st.markdown("<p class=\"text\">The probable answer is that Peter Parker is so unique for all of the reasons mentioned\n"
+                "above together. Peter Parker is arguably the most unique character in the MCU, which is\n"
+                "why he is such a fan favorite.  If a trascript for <i>Spider-Man: Far Frome Home</i> was\n"
+                    "completed and added to the dataset, it would be interesting to see how that affects this\n"
+                    "similarity.</p>", unsafe_allow_html=True)
+        
+        st.subheader("Character Development")
+        
+        st.markdown("<p class='text'>An interesting extension of this project would be to explore the question: <p class='text' style='font-weight: bold'>Are there quantifiable differences between a character in different movies or written\n"
+                    "under different authors?</p></p>", unsafe_allow_html=True)
+        st.markdown("<p class='text'>One character that might be interesting to investigate is Thor.  Thor in <i>Thor</i>,\n"
+                    "<i>Thor: The Dark World</i>, <i>The Avengers</i>, and <i>Avengers: Age of Ultron</i>, is very different from\n"
+                    "Thor in <i>Thor: Ragnarok</i>, <i>Avengers: Infinity War</i>, and <i>Avengers: Endgame</i>.  <i>Thor: Ragnorak</i> is\n"
+                    "a turning point for Thor, as he takes on a more comedic role than previously.</p>", unsafe_allow_html=True)
+        st.markdown("<p class='text'>Though I have little experience in unsupervised learning, I wonder if clustering would\n"
+                    "reveal any insights.  For example, if we did clustering with more than 10 clusters, would\n"
+                    "the clusters be the characters in different movies?  Because the characters are so\n"
+                    "similar, my guess is no.</p>", unsafe_allow_html=True)
+        st.markdown("<p class='text'>Another way to try and answer this question is to use supervised leraning where the\n"
+                    "labels are the same character under different movies.  By analyzing the performance of a\n"
+                    "model on that dataset, it might indicate how cohesively the character is written.</p>", unsafe_allow_html=True)
         
     
     def render_model_predictions(self):
         st.header("Model Predictions")
         
         st.text("Use the multiselects to view how the model performed on lines from the movies.  These\n"
-                "predictions were created using cross-validation (5 fold), so no example is predicted\n"
+                "predictions were created using cross-validation (100 fold), so no example is predicted\n"
                 "with a model that saw the example in training.")
 
         table = self.model_predictions
