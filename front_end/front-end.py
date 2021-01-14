@@ -268,13 +268,20 @@ class Application():
                     "there is no relationship between the number of words in an example and our model's\n"
                     "performance on it (t=10.871, p&lt0.001).</p>", unsafe_allow_html=True)
 
-        st.text("Having a longer line means that the change of a correct prediction increases.")
+        st.text("In other words, having a longer line means that the change of a correct prediction\n"
+                "increases.  The linear regresesion model estimates that an increase of 1 word will\n"
+                "increase the chance of correct classification by 0.46%.  This is most likely because\n"
+                "vectorized examples with few words are extremely sparse, and therefore harder to predict.")
 
-    def render_model_insights(self):
+    def render_mcu_insights(self):
         st.header("MCU Insights")
         
         st.markdown('<p class="text">For the code used to infer these insights, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/MCU%20Insights.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
         
+        self.render_character_similarity()
+        self.render_character_development()
+        
+    def render_character_similarity(self):
         st.subheader("Character Similarity and Peter Parker")
         st.text("The similarity score used here is the dot product between the unit word count vectors of\n"
                 "every word a character has ever said.  To get this score, we just count how many times a\n"
@@ -326,23 +333,36 @@ class Application():
                     "completed and added to the dataset, it would be interesting to see how that affects this\n"
                     "similarity.</p>", unsafe_allow_html=True)
         
+    def render_character_development(self):
         st.subheader("Character Development and Thor")
         
-        st.markdown("<p class='text'>An interesting extension of this project would be to explore the question: <p class='text' style='font-weight: bold'>Are there quantifiable differences between a character in different movies or written\n"
+        st.markdown("<p class='text'>An interesting extension of this project would be to deeply explore the question: <p class='text' style='font-weight: bold'>Are there quantifiable differences between a character in different movies or written\n"
                     "under different authors?</p></p>", unsafe_allow_html=True)
-        st.markdown("<p class='text'>One character that might be interesting to investigate is Thor.  Thor in <i>Thor</i>,\n"
-                    "<i>Thor: The Dark World</i>, <i>The Avengers</i>, and <i>Avengers: Age of Ultron</i>, is very different from\n"
-                    "Thor in <i>Thor: Ragnarok</i>, <i>Avengers: Infinity War</i>, and <i>Avengers: Endgame</i>.  <i>Thor: Ragnorak</i> is\n"
-                    "a turning point for Thor, as he takes on a more comedic role than previously.</p>", unsafe_allow_html=True)
         st.markdown("<p class='text'>Though I have little experience in unsupervised learning, I wonder if clustering would\n"
                     "reveal any insights.  For example, if we did clustering with more than 10 clusters, would\n"
-                    "the clusters be the characters in different movies?  Because the characters are so\n"
-                    "similar, my guess is no.</p>", unsafe_allow_html=True)
-        st.markdown("<p class='text'>Another way to try and answer this question is to use supervised leraning where the\n"
-                    "labels are the same character under different movies.  By analyzing the performance of a\n"
-                    "model on that dataset, it might indicate how cohesively the character is written.</p>", unsafe_allow_html=True)
+                    "the clusters be the characters in different movies?  The approach below for Thor uses\n"
+                    "supervised learning and exploratory data analysis.  The code can be found in the Jupyter\n"
+                    "Notebook for this section.</p>", unsafe_allow_html=True)
         
-    
+        st.markdown("<p class='text' style='font-weight: bold'>Thor's Character Development</p>", unsafe_allow_html=True)
+        st.markdown("<p class='text'>When creating this section, I wanted to explore Thor's character development specifically.\n"
+                    "Thor in <i>Thor, Thor: The Dark World, The Avengers</i>, and <i>Avengers: Age of Ultron</i>, is very\n"
+                    "different from Thor in <i>Thor: Ragnarok, Avengers: Infinity War</i>, and <i>Avengers: Endgame.\n"
+                    "Thor: Ragnorak</i> is a turning point for Thor, as he takes on a more comedic role than\n"
+                    "previously.  Chris Hemsworth, the producers, and the screen writers wanted to take the\n"
+                    "character in a different direction in this movie, and it definitely shows in the following\n"
+                    "movies as well.  In other words, his character in the first half of all his movies are\n"
+                    "more serious than his character in the second half of all his movies.</p>", unsafe_allow_html=True)
+        st.markdown("<p class='text'>By retraining the presented model on Thor's dialogue and making the labels movies\n"
+                    "\"PRE RAGNAROK\" and \"POST RAGNAROK\" (post includes <i>Thor: Ragnarok</i>), I was able to obtain\n"
+                    "interpretable metrics.  The model used can determine if a line came from a movie pre/post\n"
+                    "<i>Thor: Ragnarok</i> with 72.340% balanced accuracy. This is the highest score found when using\n"
+                    "the same technique on other characters.  I would say that this accuracy is indicative of\n"
+                    "the changes to Thor we observe, but I wouldn't use this score to make larger inferences\n"
+                    "about character development.</p>", unsafe_allow_html=True)
+        st.text("See the notebook for this section for more about these metrics, and to see them applied\n"
+                "to other characters.")
+        
     def render_model_predictions(self):
         st.header("Model Predictions")
         
@@ -356,7 +376,7 @@ class Application():
 
         true_character_filter = st.multiselect("True Character", list(self.main_characters), ["PETER PARKER"])
         pred_character_filter = st.multiselect("Predicted Character", list(self.main_characters), ["PETER PARKER"])
-        movie_filter = st.multiselect("Movie", list(self.model_predictions['movie'].unique()), ['Spider-Man: Homecoming', "Captain America: Civil War"])
+        movie_filter = st.multiselect("Movie", list(self.model_predictions['movie'].unique()), ["Captain America: Civil War", 'Avengers: Endgame'])
         
         if len(true_character_filter) == 0:
             true_character_filter = self.main_characters
@@ -397,7 +417,7 @@ class Application():
         st.text(" ")
         
         st.image("./images/horizontal_line.png", use_column_width=True)
-        self.render_model_insights()
+        self.render_mcu_insights()
         
         st.text(" ")
         st.text(" ")
