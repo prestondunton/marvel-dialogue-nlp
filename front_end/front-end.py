@@ -273,9 +273,9 @@ class Application():
     def render_model_insights(self):
         st.header("MCU Insights")
         
-        st.markdown('<p class="text">For the code used to infer these insights, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">For the code used to infer these insights, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/MCU%20Insights.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
         
-        st.subheader("Character Similarity")
+        st.subheader("Character Similarity and Peter Parker")
         st.text("The similarity score used here is the dot product between the unit word count vectors of\n"
                 "every word a character has ever said.  To get this score, we just count how many times a\n"
                 "character has said every word, divide the vector by it's norm, and then do a dot product\n"
@@ -326,7 +326,7 @@ class Application():
                     "completed and added to the dataset, it would be interesting to see how that affects this\n"
                     "similarity.</p>", unsafe_allow_html=True)
         
-        st.subheader("Character Development")
+        st.subheader("Character Development and Thor")
         
         st.markdown("<p class='text'>An interesting extension of this project would be to explore the question: <p class='text' style='font-weight: bold'>Are there quantifiable differences between a character in different movies or written\n"
                     "under different authors?</p></p>", unsafe_allow_html=True)
