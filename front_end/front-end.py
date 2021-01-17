@@ -147,7 +147,7 @@ class Application():
                     'better performance keeping all words rather than removing <a href="https://www.geeksforgeeks.org/removing-stop-words-nltk-python/" target="_blank">NLTK\'s list of stop words</a>.\n'
                     'Words are stemmed using <a href="https://www.nltk.org/_modules/nltk/stem/snowball.html" target="_blank">NLTK\'s SnowballStemmer</a>.  Word counts are also transformed with\n'
                     'term frequencies and inverse document frequencies using scikit-learn\'s implementation.</p>', unsafe_allow_html=True)
-        st.markdown('<p class="text">To see the code for the model, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">Production Model</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see the code for the model, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Model.ipynb" target="_blank">Production Model</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
         
         st.subheader("Dataset Details")
         st.markdown('<p class="text">The dataset used was created for this project by parsing the Marvel released script /\n'
@@ -173,7 +173,7 @@ class Application():
                     "model 13, but manipulated the data or larger architecture to try to achieve better\n"
                     "results.  Model 14 is an ensemble method that trains a model for every character and can\n"
                     "be read about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/One%20vs.%20Rest%20Models.ipynb' target='_blank'>One vs. Rest Models</a> notebook.  Model 15 allows the use of movie\n"
-                    "titles and authors as features and can be read about in the <a href='' target='_blank'>All Features Model</a> notebook.\n"
+                    "titles and authors as features and can be read about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/All%20Features%20Model.ipynb' target='_blank'>All Features Model</a> notebook.\n"
                     "Models 16, 17, and 18 were inspired by the correlation between the number of words in a\n"
                     "line and its correct prediction, shown in the section below.  These models attempt to\n"
                     "train on less sparse vectors and can be read about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Word%20Count%20Models.ipynb' target='_blank'>Word Count Models</a> notebook.</p>", unsafe_allow_html=True)
@@ -181,7 +181,7 @@ class Application():
     def render_model_performance(self):
         st.header("Model Performance")
         
-        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">Production Model</a> Jupyter \n'
+        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Model.ipynb" target="_blank">Production Model</a> Jupyter \n'
                     'Notebook.</p>', unsafe_allow_html=True)
 
         self.render_confusion_matrix()
