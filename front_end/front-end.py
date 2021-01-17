@@ -59,9 +59,9 @@ class Application():
         st.text("")
         
         st.text("This page presents a machine learning project on dialogue from Marvel's movies.  Below,\n"
-                "you'll find an interactive interface for predictions, details about the model, metrics of\n"
-                "the model's performance, insights into the Marvel Cinematic Universe (MCU), and\n"
-                "interactive samples of the model's predictions.")
+                "you'll find an interactive interface for predictions, details about the model and other\n"
+                "models, metrics of the model's performance, insights into the Marvel Cinematic Universe\n"
+                "(MCU), and interactive samples of the model's predictions.")
         st.markdown('<p class="text">For more about the project see its <a class="text" href="https://github.com/prestondunton/marvel-dialogue-nlp" target="_blank">GitHub repository</a>.  Feel free to contact me at\n<a class="text" href="mailto:preston.dunton@gmail.com">preston.dunton@gmail.com</a>.</p>', unsafe_allow_html=True)
         st.markdown('', unsafe_allow_html=True)
         
@@ -140,21 +140,21 @@ class Application():
         
         st.subheader("Implementation Details")
         st.markdown('<p class="text">This project uses <a href="https://scikit-learn.org/stable/" target="_blank">scikit-learn</a> to implement a <a href="https://en.wikipedia.org/wiki/Naive_Bayes_classifier" target="_blank">Naive Bayes Classifier</a>.  Hyperparameter\n'
-                    'selection is done using cross validation (5 folds).  The model is also evaluated using\n'
-                    'cross validation (100 folds).  With hyperparameter selection, this results in nested cross\n'
+                    'selection is done using cross validation (10 folds).  The model is also evaluated using\n'
+                    'cross validation (10 folds).  With hyperparameter selection, this results in nested cross\n'
                     'validation.  Stop words, which are words that provide no value to predictions (I, you,\n'
                     'the, a, an, ...), are not removed from predictions.  Hyperparameter selection showed\n'
                     'better performance keeping all words rather than removing <a href="https://www.geeksforgeeks.org/removing-stop-words-nltk-python/" target="_blank">NLTK\'s list of stop words</a>.\n'
-                    'Words are stemmed using <a href="https://www.nltk.org/_modules/nltk/stem/snowball.html" target="_blank">NLTK\'s SnowballStemmer</a>.  Word counts are also transformed into\n'
-                    'term frequencies using scikit-learn\'s implementation.</p>', unsafe_allow_html=True)
-        st.markdown('<p class="text">To see the code for the model, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+                    'Words are stemmed using <a href="https://www.nltk.org/_modules/nltk/stem/snowball.html" target="_blank">NLTK\'s SnowballStemmer</a>.  Word counts are also transformed with\n'
+                    'term frequencies and inverse document frequencies using scikit-learn\'s implementation.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see the code for the model, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">Production Model</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
         
         st.subheader("Dataset Details")
         st.markdown('<p class="text">The dataset used was created for this project by parsing the Marvel released script /\n'
                     'online transcript for 18 movies.  See the <a href="https://github.com/prestondunton/marvel-dialogue-nlp" target="_blank">repository\'s README.md</a> for a table of which\n'
                     'movies are included and which are not, as well as more details.  If you spot an error\n'
                     'in the data, please contact me so I can fix it.</p>', unsafe_allow_html=True)
-        st.markdown('<p class="text">To see an in depth analysis of the dataset, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Dataset%20Analysis.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see an in depth analysis of the dataset, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Dataset%20Analysis.ipynb" target="_blank">Dataset Analysis</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
         
         st.subheader("Why these characters?")
         st.markdown("<p class='text'>While the dataset contains the dialogue for all 652 character, most of which are just\n"
@@ -163,12 +163,26 @@ class Application():
                 "used are the top ten characters by number of lines in the dataset, number of words\n"
                 "in the dataset, and number of movie appearances.</p>", unsafe_allow_html=True)
         st.markdown('<p class="text">For details on this dataset\'s creation and the calculations used to select these\n'
-                    'characters, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+                    'characters, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/data/MCU.ipynb" target="_blank">MCU</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
+        
+        st.subheader("Other Models")
+        st.markdown("<p class='text'>In this project, 18 different models were buit and compared.  Models 1-12 use Naive Bayes,\n"
+                    "SVM, and Random Forest classifiers in different architecture combinations and can be read\n"
+                    "about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/tree/master/old%20models' target='_blank'>old models directory</a>. Model 13 is the Naive Bayes classifier with the best\n"
+                    "performance and presented here as the production model.  Models 14-18 are derived from\n"
+                    "model 13, but manipulated the data or larger architecture to try to achieve better\n"
+                    "results.  Model 14 is an ensemble method that trains a model for every character and can\n"
+                    "be read about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/One%20vs.%20Rest%20Models.ipynb' target='_blank'>One vs. Rest Models</a> notebook.  Model 15 allows the use of movie\n"
+                    "titles and authors as features and can be read about in the <a href='' target='_blank'>All Features Model</a> notebook.\n"
+                    "Models 16, 17, and 18 were inspired by the correlation between the number of words in a\n"
+                    "line and its correct prediction, shown in the section below.  These models attempt to\n"
+                    "train on less sparse vectors and can be read about in the <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Word%20Count%20Models.ipynb' target='_blank'>Word Count Models</a> notebook.</p>", unsafe_allow_html=True)
 
     def render_model_performance(self):
         st.header("Model Performance")
         
-        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">this Jupyter Notebook</a></p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">To see the code for these metrics, and more metrics, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Production%20Models.ipynb" target="_blank">Production Model</a> Jupyter \n'
+                    'Notebook.</p>', unsafe_allow_html=True)
 
         self.render_confusion_matrix()
         self.render_recalls()
@@ -266,17 +280,20 @@ class Application():
         
         st.markdown("<p class=\"text\">Using a t test and a confidence level of 95% (α=0.05), we <text class=\"text\" style=\"font-weight: bold\">reject</text> the null hypothesis that\n"
                     "there is no relationship between the number of words in an example and our model's\n"
-                    "performance on it (t=10.871, p&lt0.001).</p>", unsafe_allow_html=True)
+                    "performance on it (t=10.382, p&lt0.001).  The estimated average difference in the chance\n"
+                    "of correct prediction for a one word change is 0.46%.</p>", unsafe_allow_html=True)
 
-        st.text("In other words, having a longer line means that the change of a correct prediction\n"
-                "increases.  The linear regresesion model estimates that an increase of 1 word will\n"
-                "increase the chance of correct classification by 0.46%.  This is most likely because\n"
-                "vectorized examples with few words are extremely sparse, and therefore harder to predict.")
+        st.markdown("<p class='text'>This correlation does not necessarily mean causation, and in fact was investigated to be\n"
+                    "just correlation.  A longer monologue / soliloquy from a character might included key\n"
+                    "vocabulary words that helps the model identify the character better.  The <a href='https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Word%20Count%20Models.ipynb' target='_blank'>Word Count\n"
+                    "Models</a> notebook manipulates the data in three different ways in order to try and train\n"
+                    "models on vectors with more words (less sparse).  These models did not perform better than\n"
+                    "the production model, meaning that this correlation is most likely not causation.</p>", unsafe_allow_html=True)
 
     def render_mcu_insights(self):
         st.header("MCU Insights")
         
-        st.markdown('<p class="text">For the code used to infer these insights, see <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/MCU%20Insights.ipynb" target="_blank">this Jupyter Notebook</a>.</p>', unsafe_allow_html=True)
+        st.markdown('<p class="text">For the code used to infer these insights, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/MCU%20Insights.ipynb" target="_blank">MCU Insights</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
         
         self.render_character_similarity()
         self.render_character_development()
@@ -356,7 +373,7 @@ class Application():
         st.markdown("<p class='text'>By retraining the presented model on Thor's dialogue and making the labels movies\n"
                     "\"PRE RAGNAROK\" and \"POST RAGNAROK\" (post includes <i>Thor: Ragnarok</i>), I was able to obtain\n"
                     "interpretable metrics.  The model used can determine if a line came from a movie pre/post\n"
-                    "<i>Thor: Ragnarok</i> with 72.340% balanced accuracy. This is the highest score found when using\n"
+                    "<i>Thor: Ragnarok</i> with 70.705% balanced accuracy. This is the highest score found when using\n"
                     "the same technique on other characters.  I would say that this accuracy is indicative of\n"
                     "the changes to Thor we observe, but I wouldn't use this score to make larger inferences\n"
                     "about character development.</p>", unsafe_allow_html=True)
@@ -367,7 +384,7 @@ class Application():
         st.header("Model Predictions")
         
         st.text("Use the multiselects to view how the model performed on lines from the movies.  These\n"
-                "predictions were created using cross-validation (100 fold), so no example is predicted\n"
+                "predictions were created using cross-validation (10 fold), so no example is predicted\n"
                 "with a model that saw the example in training.")
 
         table = self.model_predictions
