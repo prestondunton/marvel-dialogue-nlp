@@ -155,6 +155,7 @@ class Application():
                     'movies are included and which are not, as well as more details.  If you spot an error\n'
                     'in the data, please contact me so I can fix it.</p>', unsafe_allow_html=True)
         st.markdown('<p class="text">To see an in depth analysis of the dataset, see the <a href="https://github.com/prestondunton/marvel-dialogue-nlp/blob/master/Dataset%20Analysis.ipynb" target="_blank">Dataset Analysis</a> Jupyter Notebook.</p>', unsafe_allow_html=True)
+        st.markdown("<p class='text'>If you would like to use the dataset, it is available on <a href='https://www.kaggle.com/pdunton/marvel-cinematic-universe-dialogue' target=_blank'>Kaggle</a>.", unsafe_allow_html=True)
         
         st.subheader("Why these characters?")
         st.markdown("<p class='text'>While the dataset contains the dialogue for all 652 character, most of which are just\n"
