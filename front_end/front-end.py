@@ -7,7 +7,9 @@ import seaborn as sns
 from sklearn import metrics
 
 from sklearn.feature_extraction.text import CountVectorizer
+import nltk
 from nltk.stem import SnowballStemmer
+nltk.download('stopwords')
 
 from scipy import stats
 import statsmodels.api as sm
