@@ -13,16 +13,16 @@ from scipy import stats
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 
-CHARACTER_IMAGE_PATHS = {"TONY STARK": "./images/tony-stark.png",
-                         "BRUCE BANNER": "./images/bruce-banner.png",
-                         "PEPPER POTTS": "./images/pepper-potts.png",
-                         "NATASHA ROMANOFF": "./images/natasha.png",
-                         "LOKI": "./images/loki.png",
-                         "STEVE ROGERS": "./images/steve-rogers.png",
-                         "THOR": "./images/thor.png",
-                         "NICK FURY": "./images/nick-fury.png",
-                         "PETER PARKER": "./images/peter-parker.png",
-                         "JAMES RHODES": "./images/james-rhodes.png"}
+CHARACTER_IMAGE_PATHS = {"TONY STARK": "/images/tony-stark.png",
+                         "BRUCE BANNER": "/images/bruce-banner.png",
+                         "PEPPER POTTS": "/images/pepper-potts.png",
+                         "NATASHA ROMANOFF": "/images/natasha.png",
+                         "LOKI": "/images/loki.png",
+                         "STEVE ROGERS": "/images/steve-rogers.png",
+                         "THOR": "/images/thor.png",
+                         "NICK FURY": "/images/nick-fury.png",
+                         "PETER PARKER": "/images/peter-parker.png",
+                         "JAMES RHODES": "/images/james-rhodes.png"}
 
 class StemCountVectorizer(CountVectorizer):
     def build_analyzer(self):
@@ -33,10 +33,12 @@ class StemCountVectorizer(CountVectorizer):
 
 class Application():
     def __init__(self):
+        self.file_path = "/app/marvel-dialogue-nlp/front_end"
+        
         self.input_string = None
-        self.model = load('./production_model.joblib')
-        self.model_predictions = load('./production_predictions.joblib')
-        self.character_similarity = load('./character_similarity.joblib')
+        self.model = load(self.file_path + '/production_model.joblib')
+        self.model_predictions = load(self.file_path + '/production_predictions.joblib')
+        self.character_similarity = load(self.file_path + '/character_similarity.joblib')
         self.main_characters = self.model_predictions["true character"].value_counts().index.to_numpy()
 
         self.prediction = None
@@ -46,7 +48,7 @@ class Application():
         self.rank_table = None
         self.hierarchical_rank_table = None
         
-        self.recalls = pd.read_csv("./production_recalls.csv")
+        self.recalls = pd.read_csv(self.file_path + "/production_recalls.csv")
         self.confusion_matrix = None
 
     def render_header(self):
@@ -88,7 +90,7 @@ class Application():
             st.subheader("Confidence:")
             st.markdown('<p class="prediction">' + "{0:.3%}".format(self.prediction_conf) + '</p>', unsafe_allow_html=True)
         with col3:
-            st.image(CHARACTER_IMAGE_PATHS[self.prediction[0]], width=200)
+            st.image(self.file_path + CHARACTER_IMAGE_PATHS[self.prediction[0]], width=200)
             
         self.render_probability_table()
 
@@ -409,39 +411,39 @@ class Application():
         
     def render_app(self):
         st.set_page_config(page_title='Marvel Dialogue Classification', layout='centered', \
-                           initial_sidebar_state='auto', page_icon="./images/marvel-favicon.png")
+                           initial_sidebar_state='auto', page_icon=self.file_path + "/images/marvel-favicon.png")
 
         self.render_header()
         
-        st.image("./images/horizontal_line.png", use_column_width=True)
+        st.image(self.file_path + "/images/horizontal_line.png", use_column_width=True)
         self.render_interactive_prediction()
 
         st.text(" ")
         st.text(" ")
         st.text(" ")
         
-        st.image("./images/horizontal_line.png", use_column_width=True)
+        st.image(self.file_path + "/images/horizontal_line.png", use_column_width=True)
         self.render_about_the_model()
                
         st.text(" ")
         st.text(" ")
         st.text(" ")
 
-        st.image("./images/horizontal_line.png", use_column_width=True)
+        st.image(self.file_path + "/images/horizontal_line.png", use_column_width=True)
         self.render_model_performance()
 
         st.text(" ")
         st.text(" ")
         st.text(" ")
         
-        st.image("./images/horizontal_line.png", use_column_width=True)
+        st.image(self.file_path + "/images/horizontal_line.png", use_column_width=True)
         self.render_mcu_insights()
         
         st.text(" ")
         st.text(" ")
         st.text(" ")
 
-        st.image("./images/horizontal_line.png", use_column_width=True)
+        st.image(self.file_path + "/images/horizontal_line.png", use_column_width=True)
         self.render_model_predictions()
 
 app = Application()
