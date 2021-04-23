@@ -5,6 +5,9 @@ A machine learning project that will use Natural Language Processing (NLP) to cl
   <img src="https://blog.umhb.edu/wp-content/uploads/2019/06/mcu-1920x1080.jpg" alt="MCU Banner" width="70%" height="70%">
 </p>
 
+## Streamlit App
+To view an interactive summary of this project, see its [Streamlit app](https://share.streamlit.io/prestondunton/marvel-dialogue-nlp/front_end/front-end.py).
+
 ## About the Project
 With over 21 different movies, all spanning the same cinematic universe, Marvel movies are an interesting creation of character, dialogue, and plot.  A key defining feature of these movies is the large amount of characters represented and developed.  I wanted to explore NLP, and figured that exploring the dialogue in these 
 movies would be a very fun thing to do.  The problem whished to be accomplished in this project is an NLP classification problem.  The goal was to create a model that can predict a character's name given a line of their dialogue from a Marvel Cinematic Universe (MCU) movie.  Data was taken from Marvel released scripts and transformed into labels of names and feature documents of their dialogue.
